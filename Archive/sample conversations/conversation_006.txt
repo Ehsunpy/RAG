@@ -1,0 +1,66 @@
+Duration: 13 Minutes
+Age: 37
+Gender: Female
+Is after hours: No
+
+CONVERSATION:
+
+**Doctor:** Good morning, Sarah. How are you feeling today?
+
+**Patient:** Hi, Doctor. I've been feeling a bit off lately, so I thought I'd come in for a check-up.
+
+**Doctor:** I'm glad you did. Let's go through what's been bothering you. Can you tell me more about your symptoms?
+
+**Patient:** Well, I've been feeling unusually tired and a bit dizzy at times. It's been difficult to concentrate, and I notice it more in the afternoons. I also feel a bit out of breath when I climb stairs.
+
+**Doctor:** I see. Have you experienced any other symptoms like chest pain, palpitations, or changes in your weight or appetite?
+
+**Patient:** No chest pain, but I have felt my heart racing a few times. My appetite's been pretty normal, though I did lose a couple of pounds recently without trying.
+
+**Doctor:** Okay. How about your menstrual cycle? Any changes there?
+
+**Patient:** My periods have been regular, but they seem a bit heavier than usual. I've also noticed some mood swings and irritability.
+
+**Doctor:** Alright. It sounds like we have a few things to consider. Are you currently on any medications or supplements?
+
+**Patient:** Just a multivitamin. I try to eat healthily and exercise regularly, but lately, I've been too tired to keep up with my routine.
+
+**Doctor:** Understood. Let's talk about your medical history. Any significant past illnesses or surgeries?
+
+**Patient:** No major illnesses, but I had my appendix removed when I was 25.
+
+**Doctor:** Any family history of medical conditions like heart disease, diabetes, or thyroid issues?
+
+**Patient:** My mom has hypothyroidism, and my dad had a heart attack in his early 50s.
+
+**Doctor:** Thank you for sharing that. Do you smoke or drink alcohol?
+
+**Patient:** I don't smoke, and I have the occasional glass of wine, maybe once or twice a week.
+
+**Doctor:** Alright, Sarah. I'd like to do a physical examination to check your heart, lungs, and thyroid gland. Is that okay with you?
+
+**Patient:** Yes, of course.
+
+[**Physical Examination**]
+
+**Doctor:** Please take a deep breath and hold it while I listen to your lungs. [Pause] And now, breathe normally. [Pause] Everything sounds clear. Let's check your heart rate and rhythm. [Pause] Your heart sounds are regular, but your pulse is a bit fast. How about your neck? I’ll check your thyroid gland for any enlargement or nodules. [Pause] It feels normal, no obvious enlargement.
+
+**Patient:** That's good to hear.
+
+**Doctor:** Let's also check your blood pressure. [Pause] It's slightly elevated at 135/85, but not too concerning at this point. I’d like to order some blood tests to check your thyroid function, complete blood count, and iron levels, given the symptoms of fatigue and heavy periods. Does that sound okay?
+
+**Patient:** Yes, that makes sense.
+
+**Doctor:** Great. Based on what you've told me and the examination, the symptoms could be related to anemia, a thyroid issue, or possibly stress. The tests will help us pinpoint the cause. 
+
+**Patient:** I'm relieved to hear that we're looking into all possibilities.
+
+**Doctor:** Once we have the results, we can develop a more targeted treatment plan. In the meantime, try to maintain a balanced diet rich in iron and stay hydrated. If you feel excessively dizzy or weak, don't hesitate to come back or go to the emergency room.
+
+**Patient:** Thank you, Doctor. I'll do that.
+
+**Doctor:** You're welcome, Sarah. We'll schedule a follow-up appointment once the test results are in, usually within the next week. If you have any questions or concerns before then, feel free to reach out.
+
+**Patient:** I will. Thank you for your help today.
+
+**Doctor:** Take care, Sarah. We'll get to the bottom of this soon.

@@ -1,0 +1,56 @@
+Duration: 10 Minutes
+Age: 36
+Gender: Male
+Is after hours: No
+
+CONVERSATION:
+
+**Doctor:** Good morning, Mr. Johnson. How are you doing today?
+
+**Patient:** Morning, Doctor. I'm managing, but the chronic back pain is really getting to me. It's been quite hard to focus at work lately.
+
+**Doctor:** I'm sorry to hear that. Let's see if we can work on a plan to help you manage the pain better. Could you tell me more about the pain? How would you describe it?
+
+**Patient:** It's a dull, aching pain that sometimes feels sharp when I move suddenly. It's mostly in my lower back and occasionally shoots down my left leg.
+
+**Doctor:** I see. On a scale of 1 to 10, how would you rate the pain today?
+
+**Patient:** Today, it's about a 6, but it can go up to an 8 on bad days.
+
+**Doctor:** And how long have you been experiencing this level of pain?
+
+**Patient:** It's been about three years now. It started after I had a fall, but it's been getting worse over time.
+
+**Doctor:** Have you noticed anything that makes the pain better or worse?
+
+**Patient:** Sitting for long periods definitely makes it worse, and sometimes stretching helps a bit. I've also tried over-the-counter pain meds, but they don’t seem to do much anymore.
+
+**Doctor:** Have you had any imaging done, like X-rays or an MRI, since the pain started?
+
+**Patient:** Yes, I had an MRI about a year ago. They said I have a herniated disc.
+
+**Doctor:** Okay, that’s helpful. Let's do a quick physical examination. Could you stand up for me? I'm going to check your range of motion and see if we can pinpoint the areas causing discomfort.
+
+[**The doctor performs a physical examination, checking the patient's back, leg reflexes, and range of motion.**]
+
+**Doctor:** I noticed some tenderness in your lower back and decreased flexibility. Your reflexes seem normal, though. Based on our discussion and the examination, it looks like the herniated disc is contributing significantly to your symptoms.
+
+**Patient:** Yeah, it feels pretty tight and painful when you press there.
+
+**Doctor:** Considering your history and current condition, I recommend we look at a multi-faceted approach to managing this. Physical therapy could be quite beneficial, focusing on exercises to strengthen your back and core muscles. Would you be open to that?
+
+**Patient:** Definitely, if it can help reduce the pain.
+
+**Doctor:** Great. We can also discuss pain management options. We might need to consider prescription medication since OTC options aren’t effective anymore. I'll prescribe a non-steroidal anti-inflammatory drug (NSAID) and possibly a muscle relaxant, depending on your response.
+
+**Patient:** That sounds good. I really need to get this under control.
+
+**Doctor:** Absolutely. We'll follow up in about four weeks to see how you’re responding to the treatment plan. Remember, lifestyle modifications, like avoiding prolonged sitting by taking regular breaks, can also help manage your symptoms.
+
+**Patient:** I'll try to be more conscious of that.
+
+**Doctor:** Perfect. Now, regarding the billing for today's consultation, we'll use the MBS item number 23 for a standard consultation under 20 minutes. This covers our discussion and examination today.
+
+**Patient:** Sounds good, Doctor. Thank you for your help.
+
+**Doctor:** You're welcome, Mr. Johnson. Take care, and I look forward to hearing about your progress at our next appointment.

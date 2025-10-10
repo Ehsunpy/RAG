@@ -1,0 +1,66 @@
+Duration: 23 Minutes
+Age: 52
+Gender: Female
+Is after hours: No
+
+CONVERSATION:
+
+**Doctor:** Good morning, Mrs. Thompson. How have you been feeling since your last visit?
+
+**Patient:** Good morning, Doctor. I’ve been feeling a bit fatigued lately, and I thought it might be time to check in with you about it. The tiredness seems to be creeping up on me more lately.
+
+**Doctor:** I'm sorry to hear that. Let’s delve into that a bit more. When you say fatigued, do you mean you're feeling physically weak, or is it more of a general tiredness?
+
+**Patient:** It's more of a general tiredness. I feel like I don't have the energy to get through my usual activities—things like housework or even just going for a walk seem more exhausting than usual.
+
+**Doctor:** I understand. Have you noticed any other symptoms, such as shortness of breath, palpitations, headaches, or dizziness?
+
+**Patient:** I do get dizzy sometimes when I stand up too quickly, and I’ve had a few headaches. But the dizziness isn't constant, and the headaches are more like a dull ache.
+
+**Doctor:** Okay, and how's your diet been? Are you managing to eat regular meals, and are you including iron-rich foods?
+
+**Patient:** I try my best, but with how tired I've been, cooking has been a bit of a struggle. I do eat red meat a couple of times a week, and I try to include leafy greens when I can.
+
+**Doctor:** That’s good to know. Have you been taking your iron supplements as we discussed previously?
+
+**Patient:** Yes, I have. I take them every day in the morning, usually with a glass of orange juice like you recommended.
+
+**Doctor:** Excellent, the vitamin C in the orange juice helps with the absorption of iron. Let’s talk about your iron infusions. How have you been feeling after the treatments?
+
+**Patient:** After the infusions, I usually feel a bit better for a while, but then the fatigue comes back. It feels like I have a burst of energy that doesn’t last very long.
+
+**Doctor:** That can happen. We’ll need to make sure your iron levels are where they need to be. When was your last full blood count and iron studies?
+
+**Patient:** I believe it was about three months ago.
+
+**Doctor:** Alright, it might be time to repeat those tests to see where your levels are at. Now, let me perform a quick physical examination. I’ll check your heart, lungs, and take a look at your nails and skin for any signs of pallor or changes. Could you please sit up for me?
+
+**Patient:** Sure.
+
+**Doctor:** [The doctor listens to the patient's heart and lungs, checks her blood pressure, and examines her skin and nails.] Your heart and lungs sound normal, and your blood pressure is within a healthy range. However, I do notice some pallor, especially in your nail beds, which can be a sign of anemia.
+
+**Patient:** I see, that makes sense.
+
+**Doctor:** Based on your symptoms and the physical examination, I suspect your iron levels might still be low. We’ll arrange for some blood tests to get a clearer picture. Can you come in next week for the tests?
+
+**Patient:** Yes, I can do that.
+
+**Doctor:** Great. If your iron levels are low, we might need to adjust the frequency of your infusions or look into additional causes for your anemia. Have you noticed any changes in your menstrual cycle?
+
+**Patient:** They’ve been a bit heavier lately, but I didn’t think it was anything too unusual.
+
+**Doctor:** Heavier periods can contribute to iron deficiency, so that’s something we’ll need to keep in mind. We might also consider a referral to a gynecologist if your periods continue to be heavy.
+
+**Patient:** That sounds like a good plan.
+
+**Doctor:** For now, continue with your diet and iron supplements. After your blood tests, we'll discuss the results and decide on the next steps. If your symptoms worsen or you experience any new symptoms, please contact the clinic immediately.
+
+**Patient:** I will, thank you, Doctor.
+
+**Doctor:** You’re welcome. Before you go, we’ll also talk to the receptionist to schedule your blood test appointment and discuss the billing. Since this was a longer consultation with complex decision-making, it will be billed as a Level C consultation under MBS item 36.
+
+**Patient:** Thank you for explaining that. I appreciate your help and thoroughness.
+
+**Doctor:** Of course. I’ll see you next week for the follow-up. Take care, Mrs. Thompson.
+
+**Patient:** Thank you, Doctor. See you next week.

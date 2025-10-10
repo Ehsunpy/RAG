@@ -1,0 +1,56 @@
+Duration: 27 Minutes
+Age: 27
+Gender: Female
+Is after hours: No
+
+CONVERSATION:
+
+**Doctor:** Good morning, Jessica. It's nice to see you again. How have you been since our last appointment?
+
+**Patient:** Hi, Doctor. I've been okay, I guess. Some days are better than others. My asthma has been mostly under control, but I've been feeling really anxious lately.
+
+**Doctor:** I'm glad to hear your asthma is mostly under control. Let's talk about the anxiety first. Can you describe what you've been experiencing?
+
+**Patient:** Sure. I've been feeling really on edge. It's like there's this constant feeling of worry that I just can't shake off. Sometimes my heart races, and I get really sweaty and short of breath, which scares me because of my asthma.
+
+**Doctor:** That sounds distressing. How often do you experience these symptoms, and is there anything that seems to trigger them?
+
+**Patient:** It happens a few times a week, sometimes more. There’s no specific trigger that I can think of. Sometimes it just hits me out of nowhere, even when I'm at home relaxing.
+
+**Doctor:** I see. Have you noticed any changes in your sleep patterns or appetite?
+
+**Patient:** Yeah, my sleep has been pretty poor. I find it hard to fall asleep, and I often wake up in the middle of the night. My appetite has been up and down too. Some days I eat a lot, and other days I just have no interest in food.
+
+**Doctor:** It sounds like you're dealing with quite a bit. Have you been able to identify any coping mechanisms that help when you feel anxious?
+
+**Patient:** Deep breathing sometimes helps a little, but it’s hard to focus on it when I’m really anxious. I've tried some meditation apps, but I find it difficult to stick with them.
+
+**Doctor:** Thanks for sharing that. Anxiety can definitely impact your daily life, and it's important that we address it. Let's also discuss your asthma. How have you been managing it? Are you using your inhaler regularly?
+
+**Patient:** Yes, I use my inhaler as prescribed. My peak flow readings have been stable, but I still have occasional flare-ups, especially when I'm stressed or during weather changes.
+
+**Doctor:** It's good that you're monitoring your peak flow. Have you noticed any specific patterns with your asthma symptoms, like certain times of the day when they're worse?
+
+**Patient:** It’s usually worse in the mornings and sometimes at night. I make sure to avoid triggers like dust and smoke, but it’s not always possible.
+
+**Doctor:** Thank you for that information. Let's do a quick physical examination to check your respiratory status and overall health. I'll check your lungs and your heart rate.
+
+[Doctor conducts the physical examination.]
+
+**Doctor:** Your lung sounds are clear, and your heart rate is a bit elevated, which could be related to the anxiety you're experiencing. Based on our discussion and examination, it seems like managing your anxiety might also help with your asthma control.
+
+**Patient:** That makes sense. I definitely notice my breathing gets worse when I’m anxious.
+
+**Doctor:** For your anxiety, I recommend starting with a Mental Health Care Plan. This will allow us to work with a psychologist, and you can access Medicare rebates for up to 10 sessions per year. We can also explore cognitive behavioral therapy, which has proven effective for anxiety.
+
+**Patient:** That sounds like a good plan. I think talking to someone might really help.
+
+**Doctor:** Great. For your asthma, let’s continue with your current inhaler regimen. I’ll also provide you with an action plan to better manage any flare-ups. Additionally, let's schedule a follow-up in four weeks to assess your progress and make any necessary adjustments.
+
+**Patient:** Thank you, Doctor. I appreciate your help.
+
+**Doctor:** You're welcome, Jessica. Remember, you're not alone in this, and we're here to support you. I’ll have my assistant help you with the Mental Health Care Plan paperwork and schedule your follow-up appointment. Take care, and feel free to reach out if anything changes before our next meeting.
+
+**Patient:** Thank you, Doctor. I’ll see you in a few weeks.
+
+---

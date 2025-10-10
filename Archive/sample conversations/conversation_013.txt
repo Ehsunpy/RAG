@@ -1,0 +1,52 @@
+Duration: 5 Minutes
+Age: 52
+Gender: Male
+Is after hours: No
+
+CONVERSATION:
+
+Certainly! Here's a simulated consultation:
+
+---
+
+**Doctor:** Good morning, Mr. Thompson. I see you've come in for a follow-up on your asthma. How have you been feeling lately?
+
+**Patient:** Good morning, Doctor. I've been having some difficulties. My breathing has been more troublesome than usual, especially at night. I also find myself using my inhaler more frequently.
+
+**Doctor:** I'm sorry to hear that. Can you describe these breathing difficulties in more detail? Are you experiencing wheezing, coughing, or shortness of breath?
+
+**Patient:** Yes, I've been wheezing quite a bit and there's a persistent cough. The shortness of breath is most noticeable when I climb stairs or try to do anything physically demanding.
+
+**Doctor:** That sounds concerning. How often are you using your rescue inhaler now?
+
+**Patient:** Lately, I've been using it about three times a day, sometimes more if I'm really struggling.
+
+**Doctor:** I see. And have you noticed any triggers that might be exacerbating your symptoms, such as dust, smoke, or changes in temperature?
+
+**Patient:** It's hard to say, but I feel it gets worse with the cold air in the morning and when I'm around my neighbor's cigarette smoke.
+
+**Doctor:** That makes sense. Let's take a closer look. I’m going to listen to your lungs now. Please take a deep breath in and out for me. *[Doctor uses a stethoscope]*
+
+**Patient:** *[Breathes deeply]*
+
+**Doctor:** Your lungs sound quite wheezy, especially on the exhale. This indicates that your asthma may not be well-controlled at the moment. Have you been taking your preventer medication as prescribed?
+
+**Patient:** I have, but I missed a couple of doses last week.
+
+**Doctor:** Consistency is key with preventer medications. Missing doses can lead to increased symptoms. I think we need to review your asthma action plan and possibly adjust your medication. 
+
+**Patient:** Okay, what do you suggest?
+
+**Doctor:** Since your symptoms have increased, I recommend temporarily increasing the dosage of your inhaled corticosteroid. We can also consider adding a long-acting bronchodilator if needed. Additionally, avoiding known triggers like cigarette smoke will help.
+
+**Patient:** That sounds like a plan. I’ll try to be more consistent with my medication.
+
+**Doctor:** Great. I'll provide you with an updated asthma action plan, which outlines when to use your medications and what to do if your symptoms worsen. I'll also schedule a follow-up appointment in two weeks to reassess your condition.
+
+**Patient:** Thank you, Doctor. I appreciate your help.
+
+**Doctor:** You're welcome, Mr. Thompson. If your symptoms worsen before then, or if you have any new concerns, don't hesitate to contact us. Take care.
+
+**Patient:** I will. Thanks again.
+
+---

@@ -1,0 +1,46 @@
+Duration: 5 Minutes
+Age: 55
+Gender: Female
+Is after hours: No
+
+CONVERSATION:
+
+Doctor: Good morning, Mrs. Thompson. How are you feeling today?
+
+Patient: Good morning, Doctor. I'm doing okay, but I've been having this persistent issue with my skin that I'd like to discuss.
+
+Doctor: Of course. Could you tell me more about what's been happening with your skin?
+
+Patient: Sure. I've noticed a small growth on my forearm. It's been there for a few months now, and I think it's getting slightly larger. It's not painful, but occasionally it gets itchy.
+
+Doctor: I see. Has it changed in color or shape, or have you noticed any bleeding from it?
+
+Patient: No bleeding, but it has gotten a bit darker over time. I think the shape is still the same, just a bit bigger.
+
+Doctor: Have you had anything similar in the past, or any family history of skin issues or skin cancer?
+
+Patient: Not really. My mother did have some moles removed, but they were benign.
+
+Doctor: Okay, let's have a look at it. [Doctor examines the patient's forearm.] The lesion is about 5 millimeters in diameter. It appears to be a dome-shaped, pigmented growth. I'll perform a dermoscopic examination to get a closer look at the structure. 
+
+[Doctor uses a dermatoscope.]
+
+Doctor: The lesion exhibits a symmetric pattern and uniform pigmentation, which is reassuring. However, given its change in size and color, it would be prudent to remove it for histopathological analysis to rule out any malignancy. This would be a minor surgical procedure, and we could do it here at the clinic.
+
+Patient: That sounds good. Is it a complicated procedure?
+
+Doctor: Not at all. It's a simple excision under local anesthesia. We'll clean the area, numb it, and then remove the lesion. You might have a small scar, but it should heal well. I'll send the sample to the lab to ensure everything is alright. Any concerns about the procedure?
+
+Patient: No, that seems straightforward. I'm just a little anxious about the results, but I guess it's better to know.
+
+Doctor: Absolutely. Early detection is key. We'll support you through the process. I'll have my nurse schedule you for the procedure. In the meantime, continue monitoring the rest of your skin for any new or changing lesions. Also, ensure you're using adequate sun protection.
+
+Patient: I will, thank you. What about the billing for this procedure?
+
+Doctor: For today, this consultation falls under a standard Level B consultation, which includes a brief assessment and management. The minor surgical procedure will be billed separately as a specific item under the MBS. I'll make sure you have all the details before you leave. Do you have any other questions or concerns?
+
+Patient: No, that's all clear. Thank you for your help, Doctor.
+
+Doctor: You're welcome, Mrs. Thompson. We'll take good care of this. My assistant will provide you with the relevant information and schedule your procedure. Take care and see you soon.
+
+Patient: Thank you, Doctor. See you soon.

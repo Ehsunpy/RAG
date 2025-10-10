@@ -1,0 +1,72 @@
+Duration: 50 Minutes
+Age: 39
+Gender: Female
+Is after hours: Yes
+
+CONVERSATION:
+
+**Doctor:** Good evening, Sarah. Thank you for coming in after hours. I understand this is a busy time for you, and I appreciate your flexibility. How have you been feeling lately?
+
+**Patient:** Hi, Doctor. It's been a bit of a rollercoaster, to be honest. With managing my chronic conditions and the pregnancy, I've been feeling quite overwhelmed. 
+
+**Doctor:** I can imagine. Let’s start by discussing your chronic conditions. You’ve had Type 2 Diabetes and hypertension for a few years now. How are you managing your blood glucose levels and blood pressure?
+
+**Patient:** Well, my blood sugar levels have been fluctuating, especially with the changes in my diet now that I'm pregnant. I check them regularly, but sometimes they spike, even when I think I'm being careful.
+
+**Doctor:** I see. Have you been noticing any particular patterns with these spikes, like after certain meals or activities?
+
+**Patient:** It seems to happen mostly after meals, especially if I'm eating out or trying new recipes. 
+
+**Doctor:** That’s helpful to know. How about your blood pressure? Have you been monitoring it at home?
+
+**Patient:** Yes, I check it about twice a week. It's usually around 135/85, but sometimes it goes higher when I'm stressed or not feeling well.
+
+**Doctor:** It's important to keep an eye on that, especially during pregnancy. Now, let's talk about your antenatal care. You're in your second trimester, correct?
+
+**Patient:** Yes, I'm 24 weeks now. I've been trying to keep up with all the recommended check-ups and tests.
+
+**Doctor:** Good. Have you had your anatomy scan yet? Any concerns from that?
+
+**Patient:** Yes, I had it done last week. Everything looked fine, but they mentioned my iron levels were a bit low.
+
+**Doctor:** That's quite common during pregnancy. Are you taking any supplements for that?
+
+**Patient:** I've been taking a prenatal vitamin, but I guess it might not be enough.
+
+**Doctor:** We might need to add an iron supplement as well. Have you been experiencing any symptoms like fatigue, dizziness, or palpitations?
+
+**Patient:** Definitely. I've been feeling really tired, and I get dizzy sometimes when I stand up too quickly.
+
+**Doctor:** That could be related to the low iron levels. We’ll address that. Let’s move on to your postnatal preparation. Have you thought about what kind of postnatal support you might need?
+
+**Patient:** I have, but it's all a bit overwhelming. I'm not sure where to start.
+
+**Doctor:** That’s completely understandable. We can discuss options today, such as lactation consultants and postnatal physiotherapy. But first, let's do a quick physical examination to check your current health status. 
+
+**Patient:** Sure, that sounds good.
+
+**Doctor:** Alright, I’ll start by checking your blood pressure. (Doctor uses sphygmomanometer) It’s reading 140/90. Slightly elevated, but we’ll keep monitoring it. Now, let’s check your heart and lungs. (Doctor uses stethoscope) Heart sounds are normal and lungs are clear. Any tenderness or swelling in your legs?
+
+**Patient:** No, they seem fine. Just the usual tiredness.
+
+**Doctor:** Okay, that’s good. Now, let’s palpate your abdomen gently. Any tenderness when I press here?
+
+**Patient:** Just a bit of pressure, but nothing painful.
+
+**Doctor:** That’s normal. Everything else seems fine on examination. Based on our discussion and examination, I’d like to adjust your diabetes management slightly. I’ll prescribe a different meal plan tailored for pregnancy, and we may need to adjust your insulin if necessary. Also, let’s add an iron supplement to your routine.
+
+**Patient:** That makes sense. I’ll follow the new meal plan and start the iron supplement.
+
+**Doctor:** Great. For your blood pressure, let’s continue monitoring it closely. I’ll give you a list of warning signs to watch out for. Regarding postnatal care, I can refer you to a lactation consultant and a postnatal physiotherapist to help with recovery and breastfeeding once the baby arrives.
+
+**Patient:** Thank you, Doctor. That helps a lot.
+
+**Doctor:** You're welcome, Sarah. We’ll schedule another appointment in about four weeks unless you have any concerns before then. Please feel free to call if you notice any significant changes or have any questions.
+
+**Patient:** I will. Thanks again for making time for me tonight.
+
+**Doctor:** My pleasure, Sarah. Take care, and remember, I’m here to support you through this journey. See you at the next appointment.
+
+**Patient:** Thank you, Doctor. Goodbye.
+
+**Doctor:** Goodbye, Sarah.

@@ -1,0 +1,66 @@
+Duration: 35 Minutes
+Age: 27
+Gender: Male
+Is after hours: No
+
+CONVERSATION:
+
+**Doctor:** Good morning, Alex. How have you been feeling lately?
+
+**Patient:** Hi, Doctor. I've been having a rough time. My asthma's been acting up more than usual, and I've been feeling pretty down. I think my anxiety is getting worse.
+
+**Doctor:** I'm sorry to hear that. Let's take a closer look at everything. How often are you experiencing asthma symptoms now, and what's triggering them?
+
+**Patient:** It seems to be worse at night, maybe three or four times a week. Exercise is also a big trigger, and I've noticed that stress makes it worse as well.
+
+**Doctor:** That sounds quite disruptive. Are you using your inhaler more frequently?
+
+**Patient:** Yes, I'm using my reliever inhaler almost every day now.
+
+**Doctor:** It sounds like we need to adjust your asthma management plan. Tell me more about your anxiety. How often do you feel anxious, and how is it affecting your daily life?
+
+**Patient:** It's almost constant, Doctor. I feel on edge all the time, and it's hard to concentrate at work. I also have trouble sleeping because my mind just keeps racing.
+
+**Doctor:** That must be very challenging. Have you noticed any specific situations or thoughts that trigger your anxiety?
+
+**Patient:** Work deadlines really get to me, and I've been worrying a lot about my health, especially with my asthma getting worse.
+
+**Doctor:** It's understandable to feel that way, especially with multiple health concerns. Let's also review your current medications. Are you taking anything for anxiety or your asthma besides the inhaler?
+
+**Patient:** Just my inhaler for asthma. For anxiety, I haven't been on any medication.
+
+**Doctor:** Okay, let's do a quick physical examination to check your respiratory status and overall health. Please take a deep breath for me... Any discomfort there?
+
+**Patient:** A little tightness.
+
+**Doctor:** Your lung sounds indicate some wheezing, which aligns with the increased asthma symptoms you've described. I also want to check your blood pressure and heart rate... They're within normal ranges, which is good. Now, let’s discuss a management plan focusing on both your asthma and anxiety.
+
+**Patient:** That would be great. I really need some relief.
+
+**Doctor:** For your asthma, we need to consider stepping up your medication. I recommend starting you on a low-dose inhaled corticosteroid to reduce inflammation and hopefully decrease your dependency on the reliever inhaler. We'll review your asthma management plan, including avoidance of triggers.
+
+**Patient:** That sounds good. What about my anxiety?
+
+**Doctor:** For your anxiety, we have a few options. Cognitive Behavioral Therapy (CBT) is highly effective and can help you manage stress more constructively. Would you be open to seeing a psychologist?
+
+**Patient:** Yes, I'd be willing to try that.
+
+**Doctor:** Excellent. I can refer you to a psychologist under a Mental Health Treatment Plan, which will allow for Medicare rebates for up to 10 sessions per calendar year. I'll also prescribe a short course of an anti-anxiety medication to help stabilize your symptoms while you start therapy. We’ll carefully monitor this.
+
+**Patient:** Thank you, Doctor. That plan sounds reassuring.
+
+**Doctor:** You're welcome, Alex. Let's discuss how these conditions might interact. Stress and anxiety can exacerbate asthma symptoms, so managing your mental health is crucial for improving your respiratory health. Regular follow-ups will be essential.
+
+**Patient:** I understand. I’ll make sure to attend all sessions.
+
+**Doctor:** Great to hear. Now, regarding billing: today’s consultation involves chronic disease management, mental health planning, and a significant degree of complexity due to multiple co-morbidities. We’ll use MBS item 36 for a long consultation during normal hours, item 721 for the chronic disease management plan, and item 2715 for the mental health care plan.
+
+**Patient:** Makes sense. I appreciate you explaining that.
+
+**Doctor:** No problem. We'll schedule a follow-up in two weeks to reassess your asthma control and mental health progress. Please contact us if you need any adjustments before then.
+
+**Patient:** Thank you, Doctor. I feel more hopeful with a concrete plan.
+
+**Doctor:** You're doing the right thing, Alex. We’re here to help you every step of the way. Take care, and see you soon.
+
+**Patient:** Thanks again, Doctor. See you soon.

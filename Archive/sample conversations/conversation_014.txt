@@ -1,0 +1,76 @@
+Duration: 23 Minutes
+Age: 56
+Gender: Male
+Is after hours: Yes
+
+CONVERSATION:
+
+**Doctor:** Good evening, Mr. Johnson. I’m Dr. Smith. Thank you for coming in after hours. I understand you’ve been having some issues with sleep. Can you tell me more about what’s been going on?
+
+**Patient:** Good evening, Doctor. Yes, I’ve been having trouble sleeping for several months now. I just can’t seem to get a good night's rest.
+
+**Doctor:** I see. Can you describe your sleep patterns for me? For instance, how long does it usually take you to fall asleep?
+
+**Patient:** It feels like I’m tossing and turning for at least an hour before I actually fall asleep. Some nights, it can be even longer.
+
+**Doctor:** That sounds frustrating. Do you wake up during the night, and if so, how often?
+
+**Patient:** Yes, I wake up at least two or three times a night. Sometimes I wake up and feel wide awake, and it takes a while to get back to sleep.
+
+**Doctor:** Are there particular times during the night when you wake up, or is it random?
+
+**Patient:** It’s pretty random, although I do notice it tends to happen around 2 or 3 a.m. more often than not.
+
+**Doctor:** And when you wake up in the morning, how do you feel? Are you refreshed or still tired?
+
+**Patient:** Definitely tired. I feel like I haven’t slept at all, even if I’ve been in bed for eight hours.
+
+**Doctor:** I understand. Do you have any issues with snoring or anyone mentioning that you stop breathing during your sleep?
+
+**Patient:** My partner says I snore quite loudly and sometimes it sounds like I stop breathing for a moment.
+
+**Doctor:** That’s important to note. Do you feel drowsy during the day or have any difficulty concentrating?
+
+**Patient:** Yes, I often feel drowsy in the afternoons, and I’ve been struggling to focus at work. It’s becoming quite a problem.
+
+**Doctor:** I can imagine. Have you noticed any changes in your weight recently?
+
+**Patient:** I’ve put on a few kilos over the past year, but I haven’t changed my diet or exercise habits much.
+
+**Doctor:** That’s helpful to know. Now, I’d like to ask about your lifestyle and habits. Do you consume caffeine, and if so, how much?
+
+**Patient:** I do drink coffee, usually about three cups a day. I try to avoid it in the afternoon, though.
+
+**Doctor:** What about alcohol or tobacco?
+
+**Patient:** I have a couple of beers in the evening, but I don’t smoke.
+
+**Doctor:** Thanks for sharing that. Do you have any stress or anxiety, perhaps related to work or personal life?
+
+**Patient:** Work has been pretty stressful lately with deadlines and projects piling up. I suppose that could be affecting my sleep.
+
+**Doctor:** Stress can indeed play a significant role. Now, let’s do a quick physical examination. I’ll check your blood pressure, heart rate, and have a listen to your lungs. Please take a seat here.
+
+[The doctor performs the physical examination.]
+
+**Doctor:** Your blood pressure is a bit elevated at 145/90, and your heart rate is within normal range. Lungs sound clear, which is good.
+
+**Patient:** Is the blood pressure something to worry about?
+
+**Doctor:** It’s something we should keep an eye on, especially with your sleep issues and snoring. It could be related to a condition called sleep apnea, which we might need to investigate further.
+
+**Patient:** I’ve heard about sleep apnea. What should I do next?
+
+**Doctor:** Given your symptoms and the physical findings, I recommend you undergo a sleep study. This will help us determine if you have sleep apnea or another sleep disorder. Meanwhile, try to maintain a regular sleep schedule, reduce caffeine, and limit alcohol. Losing a bit of weight might also help improve your symptoms.
+
+**Patient:** That sounds like a plan. How do I go about getting a sleep study?
+
+**Doctor:** I’ll refer you to a sleep specialist who can arrange a polysomnography test. They’ll monitor your sleep overnight in a lab or with a home testing kit. We’ll get more insight into what’s happening with your sleep.
+
+**Patient:** Okay, I’ll do that. Thanks for your help, Doctor.
+
+**Doctor:** You’re welcome, Mr. Johnson. We’ll follow up after the sleep study to discuss the results and any further steps. Take care.
+
+**Patient:** Thank you, Doctor. I appreciate it.
+
+**Doctor:** Have a good evening, and see you soon.

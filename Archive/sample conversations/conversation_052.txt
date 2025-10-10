@@ -1,0 +1,50 @@
+Duration: 5 Minutes
+Age: 37
+Gender: Female
+Is after hours: Yes
+
+CONVERSATION:
+
+Doctor: Good evening, Sarah. I understand you wanted to discuss some concerns regarding your sexual health. How can I help you today?
+
+Patient: Hi, Doctor. Yes, I've been experiencing some discomfort recently, and I thought it was best to get it checked out. I've noticed some unusual discharge and a bit of itching.
+
+Doctor: I see. Thank you for bringing this up. Can you describe the discharge for me? Is there a color or smell that you've noticed?
+
+Patient: It's kind of a white, thick discharge, and it doesn't have a strong smell, but it's definitely different from what I usually experience.
+
+Doctor: Understood. And how long have you been experiencing these symptoms?
+
+Patient: It's been about a week now. I thought it might go away on its own, but it hasn't.
+
+Doctor: Have you noticed any other symptoms, like pain during intercourse or while urinating?
+
+Patient: Yes, I did feel some discomfort during intercourse a couple of times, but not every time. Urination seems normal, though.
+
+Doctor: Have there been any changes in your personal or sexual health routine recently? New partner, change in birth control, or recent antibiotics?
+
+Patient: I started seeing someone new a few months ago, and we haven't been consistently using protection. I'm not on any birth control or antibiotics.
+
+Doctor: Thanks for sharing that. It sounds like it could be a yeast infection, but given the unprotected intercourse, it's important to rule out any sexually transmitted infections. Have you had any previous history of similar infections or any STIs?
+
+Patient: I had a yeast infection a couple of years ago, but that's about it. No STIs that I know of.
+
+Doctor: Okay, let's proceed with a physical examination. I'll quickly check for any signs of redness or swelling and take a swab sample of the discharge for testing. Is that alright with you?
+
+Patient: Yes, that's fine.
+
+[Physical Examination]
+
+Doctor: Alright, I've taken the swab, and I can see some typical signs of a yeast infection, but we'll confirm with the lab results. In the meantime, I'll prescribe an antifungal medication that you can start right away. Also, it's important to consider STI testing given your recent change in partners. Are you comfortable proceeding with that?
+
+Patient: Yes, I think that's a good idea.
+
+Doctor: Excellent. We'll run a full STI panel. Given that this is an after-hours consultation and considering the complexity of your case, we'll use MBS item 5023 for the billing, which covers a standard after-hours consultation with potential follow-up required. You'll also receive a follow-up appointment once we have all test results.
+
+Patient: Thank you, Doctor. I appreciate the thoroughness.
+
+Doctor: You're welcome, Sarah. Please start the antifungal treatment today, and avoid intercourse until we have all the results and your symptoms have cleared. If you notice any worsening symptoms or have further concerns, don't hesitate to contact the clinic. We'll call you as soon as your results are in.
+
+Patient: I will. Thank you so much for your help.
+
+Doctor: Take care, Sarah. We'll be in touch soon.

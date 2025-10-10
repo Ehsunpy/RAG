@@ -1,0 +1,69 @@
+Duration: 12 Minutes
+Age: 37
+Gender: Female
+Is after hours: No
+
+CONVERSATION:
+
+**Doctor:** Good morning, Sarah. How have you been since we last spoke?
+
+**Patient:** Hi, Doctor. I've been managing, but I feel like there's so much paperwork and assessments related to my disability and the NDIS. It's a bit overwhelming.
+
+**Doctor:** I understand. Let’s take this step by step. Can you remind me of your primary health concerns that we need to address for the NDIS?
+
+**Patient:** Sure. I have fibromyalgia, which causes widespread pain and fatigue. I also have some issues with anxiety and depression, which can be quite debilitating.
+
+**Doctor:** That sounds challenging. Let's start with the fibromyalgia. Can you describe your current symptoms and how they've been affecting your daily activities?
+
+**Patient:** The pain is pretty constant, mostly in my shoulders, neck, and back. I also get these flare-ups that make it hard to do anything. The fatigue is just as bad; it feels like I've run a marathon some days when I've done very little.
+
+**Doctor:** On a scale from one to ten, how would you rate your pain on an average day?
+
+**Patient:** It’s usually around a six, but during flare-ups, it can spike to an eight or nine.
+
+**Doctor:** And how often are you experiencing these flare-ups?
+
+**Patient:** About two to three times a week. They can last for a few hours or sometimes a whole day.
+
+**Doctor:** I see. Regarding the anxiety and depression, how have you been coping?
+
+**Patient:** Not great. The anxiety makes it hard to go out and do simple things, and when the depression hits, I just don't have the motivation to do anything.
+
+**Doctor:** Are you currently seeing a psychologist or counselor for your mental health?
+
+**Patient:** Yes, I see a psychologist once a fortnight, and it helps, but some days are just harder than others.
+
+**Doctor:** That’s good. It’s important to have that support. Now, let's talk a bit about how these conditions impact your ability to work or study.
+
+**Patient:** I had to stop working about a year ago. On bad days, I can't even manage basic self-care, let alone hold a job. I’ve thought about studying something part-time, but the fatigue and brain fog are real barriers.
+
+**Doctor:** Understood. I’ll make a note of that for your NDIS assessment. Let's do a quick physical examination, focusing on the areas where you experience the most pain. Could you please stand up?
+
+**Patient:** Sure.
+
+**Doctor:** (conducts examination) Please let me know if you feel any tenderness or increased pain as I palpate your shoulders and back. Any discomfort here?
+
+**Patient:** Yes, that's quite tender.
+
+**Doctor:** I can feel some muscle tension here. How about when I press on your lower back?
+
+**Patient:** That's also sore, especially on the right side.
+
+**Doctor:** Thank you, Sarah. You can sit back down. Based on our discussion and the examination, it’s clear that your fibromyalgia and mental health conditions significantly impact your daily life. For your NDIS assessment, I’ll prepare a comprehensive report detailing these issues and how they affect your functional capacity.
+
+**Patient:** That would be great. I really want to make sure they understand what I'm going through.
+
+**Doctor:** Absolutely. We’ll outline the chronic nature of your fibromyalgia, the frequency and severity of your symptoms, and how they limit your activities. We’ll also include your mental health challenges and the support you’re receiving.
+
+**Patient:** Thank you, Doctor. It’s a relief to have your support.
+
+**Doctor:** You’re welcome, Sarah. For ongoing management, I recommend continuing with your psychologist. I’ll also refer you to a physiotherapist for a personalized exercise program to help manage your pain and fatigue. Let's schedule a follow-up appointment in a month to review your progress and any new developments.
+
+**Patient:** That sounds like a plan. Thank you for your help.
+
+**Doctor:** Anytime, Sarah. Take care, and I’ll see you next month.
+
+**Patient:** Thanks, Doctor. See you then.
+
+---
+

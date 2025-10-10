@@ -1,0 +1,80 @@
+Duration: 31 Minutes
+Age: 30
+Gender: Female
+Is after hours: No
+
+CONVERSATION:
+
+**Doctor:** Good morning, Sarah. How have you been since your last visit?
+
+**Patient:** Hi, Doctor. I've been managing, but I feel like things are getting a bit overwhelming. My asthma has been acting up more lately, and I've been feeling quite anxious on top of everything else.
+
+**Doctor:** I’m sorry to hear that. Let’s take a closer look at everything. Let’s start with your asthma. Can you describe your recent symptoms for me?
+
+**Patient:** Sure. I've had more frequent wheezing and shortness of breath, particularly in the mornings and at night. I’ve also been using my inhaler more often than usual.
+
+**Doctor:** How often are you using your inhaler now?
+
+**Patient:** About four times a day, sometimes more if I have to go up the stairs or do any exercise.
+
+**Doctor:** That's quite frequent. Are you experiencing any other symptoms, like chest tightness or coughing?
+
+**Patient:** Yes, a tight chest sometimes, and I’ve been coughing, especially at night.
+
+**Doctor:** It sounds like your asthma might not be as controlled as we’d like. Have you noticed any particular triggers recently, like changes in the weather, stress, or exposure to allergens?
+
+**Patient:** I think stress might be playing a big role. I’ve been really anxious lately, and it feels like it's making my asthma worse.
+
+**Doctor:** Stress can definitely exacerbate asthma symptoms. Let’s address your anxiety as well. How have you been feeling mentally?
+
+**Patient:** I've been quite anxious, especially with work being so hectic. I often feel on edge and have trouble sleeping. Sometimes, I even have panic attacks.
+
+**Doctor:** I’m sorry to hear that. Your mental health is just as important as your physical health. How often are these panic attacks happening?
+
+**Patient:** Maybe once or twice a week, usually when I'm feeling really overwhelmed.
+
+**Doctor:** I see. It’s important to manage both your asthma and anxiety effectively. They can indeed influence each other. Do you have any existing strategies or treatments in place for your anxiety?
+
+**Patient:** I’ve been trying some breathing exercises and mindfulness, but it doesn’t always help.
+
+**Doctor:** Those are good techniques, but it seems we might need to explore further options. Have you considered or tried any medication for anxiety before?
+
+**Patient:** No, I haven’t. I was hoping to manage without medication, but I’m open to it if it helps.
+
+**Doctor:** It might be worth considering a low-dose medication to help manage your anxiety more effectively. Let’s also discuss your chronic disease management. Have you noticed any changes or challenges there?
+
+**Patient:** I think everything else has been okay, but I do wonder if the anxiety is affecting my overall health.
+
+**Doctor:** It’s possible. Mental health can greatly influence physical health, and vice versa. Let’s conduct a physical examination to check your respiratory system and overall health. I’ll check your breathing, lungs, and heart.
+
+**[The doctor performs a physical examination, listening to the patient's lungs and checking her heart rate.]**
+
+**Doctor:** Your lungs sound a bit tight, confirming what you’ve been experiencing. Your heart rate is slightly elevated, which could be linked to your anxiety. Let's discuss a management plan. For your asthma, I recommend adjusting your current medication. We could increase your inhaled corticosteroid to help control the symptoms better. How does that sound?
+
+**Patient:** That sounds good. I really want to get this under control.
+
+**Doctor:** Great. For your anxiety, I suggest starting with a selective serotonin reuptake inhibitor (SSRI). These are often effective for anxiety and have a good safety profile. We’ll start with a low dose and monitor your progress closely.
+
+**Patient:** Okay, I’m willing to try that.
+
+**Doctor:** Excellent. I’ll also refer you to a psychologist for some cognitive behavioral therapy, which can be very effective alongside medication. It’s important to have a comprehensive approach.
+
+**Patient:** That would be helpful, thank you.
+
+**Doctor:** For the chronic disease management aspect, let’s make sure we have a follow-up in place. I’ll set up a care plan that includes regular check-ins, both for your asthma and mental health management. We’ll also include some lifestyle modifications to help reduce stress, like incorporating regular exercise and a balanced diet.
+
+**Patient:** That sounds like a good plan.
+
+**Doctor:** Regarding the billing, given the complexity of managing multiple conditions and the duration of our consultation, we’ll be looking at MBS item 36, which covers a prolonged consultation involving complex decision-making. This includes the coordination of care for chronic disease management, asthma, and mental health.
+
+**Patient:** Okay, I understand.
+
+**Doctor:** We’ll also look at creating a Mental Health Treatment Plan under MBS item 2715, which will allow us to refer you to a psychologist for further support.
+
+**Patient:** Thank you, Doctor. I appreciate your help.
+
+**Doctor:** You’re welcome, Sarah. Remember, we’re here to support you. I’ll print out the prescriptions and referrals, and we’ll schedule your follow-up appointments. Don’t hesitate to reach out if you have any concerns before then.
+
+**Patient:** Thanks, I will. I feel better knowing we have a plan.
+
+**Doctor:** Take care, and we’ll see you soon.

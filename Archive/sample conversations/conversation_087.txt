@@ -1,0 +1,72 @@
+Duration: 10 Minutes
+Age: 21
+Gender: Male
+Is after hours: Yes
+
+CONVERSATION:
+
+**Doctor:** Hello, is this Mr. Smith?
+
+**Patient:** Yes, this is John Smith.
+
+**Doctor:** Hi John, this is Dr. Roberts. I understand you're calling for a telehealth consultation. What seems to be the issue today?
+
+**Patient:** Well, I've been feeling quite unwell for the last couple of days. I've had a fever, some headaches, and a sore throat.
+
+**Doctor:** I see. Let's start by getting some more details. How high has your fever been?
+
+**Patient:** It peaked at around 101°F yesterday but has been hovering around 99°F today.
+
+**Doctor:** And how about the headaches? Are they constant or do they come and go?
+
+**Patient:** They come and go, but when I do have them, they're pretty intense, mostly around my temples.
+
+**Doctor:** Are you experiencing any other symptoms, like a cough, shortness of breath, or any nasal congestion?
+
+**Patient:** I've had a bit of a cough, but it's not constant. No shortness of breath, though.
+
+**Doctor:** Any nausea, vomiting, or diarrhea?
+
+**Patient:** No, none of those.
+
+**Doctor:** Okay, and regarding the sore throat, how severe is it? Does it hurt when you swallow?
+
+**Patient:** Yes, swallowing is painful, and it feels really scratchy, especially in the morning.
+
+**Doctor:** Have you had any recent exposure to someone who's been sick, or any recent travel?
+
+**Patient:** Not that I'm aware of. I've mostly been at home or at work.
+
+**Doctor:** Have you noticed any rashes, swollen glands, or unusual fatigue?
+
+**Patient:** I do feel more tired than usual, but I haven't noticed any rashes or swollen glands.
+
+**Doctor:** Alright, John. Based on your symptoms, it sounds like you could have a viral infection, possibly the flu or another upper respiratory infection. Let's talk about your medical history. Do you have any chronic conditions or take any medications regularly?
+
+**Patient:** No chronic conditions, and I'm not on any regular medication.
+
+**Doctor:** Are you allergic to any medications?
+
+**Patient:** No, no known allergies.
+
+**Doctor:** That's good to know. Given that we're doing this over a telehealth session, I can't physically examine you, but your symptoms align with a viral infection. For now, I recommend plenty of fluids, rest, and over-the-counter medications like acetaminophen for the fever and headaches.
+
+**Patient:** Okay, I can do that. Is there anything else I should be concerned about?
+
+**Doctor:** If your symptoms worsen, such as experiencing difficulty breathing, persistent pain or pressure in your chest, new confusion, or if your fever lasts more than three days, you should seek in-person medical care immediately.
+
+**Patient:** Got it.
+
+**Doctor:** Also, since this consultation is after hours and via telehealth, I'll be billing this in line with the MBS guidelines. I'll use the appropriate item number for an after-hours telehealth consultation, which ensures you get the Medicare rebate.
+
+**Patient:** That makes sense. Thank you for explaining.
+
+**Doctor:** You're welcome. Lastly, if you don’t feel better in the next couple of days, or if you have any concerns, don't hesitate to reach out again or visit a clinic for a more thorough examination.
+
+**Patient:** Okay, thanks, Dr. Roberts. I appreciate your help.
+
+**Doctor:** No problem, John. Take care and get some rest.
+
+**Patient:** I will. Thank you. Goodbye.
+
+**Doctor:** Goodbye.

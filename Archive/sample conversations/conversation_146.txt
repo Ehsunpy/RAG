@@ -1,0 +1,76 @@
+Duration: 45 Minutes
+Age: 45
+Gender: Male
+Is after hours: Yes
+
+CONVERSATION:
+
+**Doctor:** Good evening, Mr. Thompson. How are you feeling today?
+
+**Patient:** Hi, Doctor. I've been better. I'm just dealing with a lot right now, both physically and mentally.
+
+**Doctor:** I'm sorry to hear that. Let's make sure we address everything today. I understand you have several ongoing health issues. Can we start by going over your chronic conditions? How is your diabetes management going?
+
+**Patient:** Well, I've been trying to keep my blood sugar under control, but it's been fluctuating a lot lately. My last few readings were all over the place, and it's stressing me out.
+
+**Doctor:** I see. Are you still following the medication plan we discussed last time? Are you taking your Metformin and insulin as prescribed?
+
+**Patient:** Yes, I am. I haven't missed any doses, but I think my diet has slipped a bit. With everything else going on, meal planning has been tough.
+
+**Doctor:** I understand. Managing diabetes can be challenging, especially when life gets hectic. We'll revisit your diet plan to make it more manageable. Have you noticed any symptoms like increased thirst, frequent urination, or fatigue?
+
+**Patient:** Definitely more tired than usual, and I'm thirsty all the time.
+
+**Doctor:** Those can be signs of higher blood sugar. Let's also talk about your hypertension. Are you monitoring your blood pressure at home?
+
+**Patient:** Yes, I check it every morning. It's been higher than usual, around 150/95.
+
+**Doctor:** Those numbers are concerning. We'll need to adjust your medication. Are you still taking Lisinopril?
+
+**Patient:** Yes, still on the same dose.
+
+**Doctor:** We might need to increase that, but I want to ensure there are no interactions with your other medications. Speaking of which, how is your mental health? I know you mentioned feeling stressed.
+
+**Patient:** It's been rough. I've been feeling overwhelmed and anxious. Some days I struggle to get out of bed.
+
+**Doctor:** I'm sorry to hear that. Have you had any thoughts of self-harm or feelings of hopelessness?
+
+**Patient:** No, nothing like that. It's more that everything feels really heavy.
+
+**Doctor:** Thanks for sharing that. It's important to monitor your mental health closely, especially given your chronic conditions. How is the counseling going?
+
+**Patient:** I've been seeing a therapist once a week. It's helping, but I think I might need more support.
+
+**Doctor:** We can certainly look into additional resources or perhaps adjust your medication. Are you still on Sertraline?
+
+**Patient:** Yes, 50 mg daily.
+
+**Doctor:** Given the increased stress, we might consider a dosage adjustment or adding cognitive-behavioral strategies. Let's also assess your lifestyle. Are you able to exercise regularly?
+
+**Patient:** Not really. I feel too exhausted most days.
+
+**Doctor:** Regular physical activity can help with both your diabetes and mental health. I suggest starting with light activities like walking. Let's make a plan that fits your current energy levels.
+
+**Patient:** Okay, I can try walking more.
+
+**Doctor:** Great. Moving on, have you had any new symptoms, such as chest pain or dizziness?
+
+**Patient:** Occasionally, I get a bit dizzy when I stand up too fast.
+
+**Doctor:** That could be related to your blood pressure. I'll check your vitals now. [Doctor performs a physical examination, including blood pressure, heart rate, and a basic neurological assessment.] Your blood pressure is indeed elevated at 148/92, and your heart rate is 88 bpm. Your reflexes and balance seem normal.
+
+**Patient:** Is there anything else I should be doing?
+
+**Doctor:** We'll adjust your Lisinopril to 20 mg once daily. Continue monitoring your blood pressure and keep a log. For your diabetes, let's revisit your diet plan. I’ll have our dietitian consult with you to create a more practical meal plan. As for your mental health, consider increasing your therapy sessions if possible, and I’ll refer you to a mental health specialist for a more comprehensive evaluation.
+
+**Patient:** That sounds good. I appreciate your help.
+
+**Doctor:** Of course. Let's talk about the billing and follow-ups. Given the complexity of managing your conditions, I’ll be using MBS item number 36 for the prolonged consultation. For the mental health aspect, we'll add item 2713 for the mental health plan review. Since this is an after-hours consultation, item 5020 will apply as well.
+
+**Patient:** Thank you for explaining that.
+
+**Doctor:** You're welcome. I'll schedule a follow-up in two weeks to see how the medication adjustments are working and to reassess your mental health. In the meantime, feel free to reach out if you have any concerns or worsening symptoms.
+
+**Patient:** I will. Thanks again, Doctor.
+
+**Doctor:** Take care, Mr. Thompson. We'll work together to get everything under control.

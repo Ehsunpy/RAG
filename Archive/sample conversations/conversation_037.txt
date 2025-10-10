@@ -1,0 +1,60 @@
+Duration: 6 Minutes
+Age: 78
+Gender: Male
+Is after hours: No
+
+CONVERSATION:
+
+Doctor: Good morning, Mr. Thompson. How have you been feeling lately?
+
+Patient: Morning, Doctor. I've been alright, but I'm here because I've got a couple of concerns. I've been thinking about my sexual health and also whether I need any vaccinations for my job.
+
+Doctor: Alright, let's tackle these one by one. First, let's talk about your sexual health. Are you experiencing any specific symptoms or concerns?
+
+Patient: Well, I've noticed some changes. Over the past few months, I've been having some issues with erectile dysfunction. It's been a bit frustrating.
+
+Doctor: I'm sorry to hear that. Erectile dysfunction can be quite common in your age group. Can you tell me more about these changes? Are you having difficulty achieving an erection, maintaining it, or both?
+
+Patient: It's more about maintaining an erection. I can get one, but it doesn't last long enough to be satisfying.
+
+Doctor: Understood. Have you experienced any other symptoms such as pain, changes in libido, or any urinary issues?
+
+Patient: No pain or changes in libido, but sometimes I feel like I have to urinate more frequently, especially at night.
+
+Doctor: Thanks for sharing that. Frequent urination at night, known as nocturia, can sometimes be related. Have you noticed any changes in your energy levels, mood, or weight recently?
+
+Patient: Not really, my energy and mood have been stable. My weight's been pretty steady as well.
+
+Doctor: That's helpful to know. Regarding the second concern—vaccinations—what kind of occupational risk are you exposed to?
+
+Patient: I volunteer at a local wildlife rescue, so I'm often around various animals. I want to make sure I'm protected.
+
+Doctor: Definitely a good idea to stay updated on vaccines. We should ensure you're up to date on tetanus and consider a rabies vaccination if you're frequently handling mammals. Have you had these vaccinations before?
+
+Patient: I got a tetanus shot about five years ago, but I've never had a rabies shot.
+
+Doctor: We should be able to schedule those for you. Now, if you don't mind, let's perform a quick physical exam to check things like your blood pressure and heart rate, and also a brief examination related to your symptoms.
+
+[Doctor conducts a brief physical exam, checking vital signs and performing a focused genitourinary exam.]
+
+Doctor: Your blood pressure is within normal ranges, and everything else seems normal. For your erectile dysfunction, I would recommend starting with some lifestyle changes—like regular exercise and a healthy diet. We can also discuss medications if needed. 
+
+As for the vaccinations, we can administer the rabies vaccine series here. You'll need a few doses over the next few weeks.
+
+Patient: That sounds good. Are there any side effects from the rabies vaccine?
+
+Doctor: Most people only experience mild side effects like soreness at the injection site or a slight fever. Serious reactions are rare.
+
+Patient: Alright, I can manage that.
+
+Doctor: Great. I'll arrange for the vaccinations, and I'll give you some information on lifestyle changes and possibly starting a medication like sildenafil for your erectile dysfunction. We can review how you’re going with that in a month or so. Does that sound okay?
+
+Patient: Yes, that sounds like a plan. Thank you, Doctor.
+
+Doctor: You're welcome, Mr. Thompson. We'll get those vaccinations scheduled, and if you have any questions or concerns in the meantime, feel free to reach out.
+
+Patient: Will do. Thank you again.
+
+Doctor: Take care, and see you soon.
+
+[The consultation ends, matching the 6-minute duration for billing considerations.]

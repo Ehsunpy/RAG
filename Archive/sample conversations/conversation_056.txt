@@ -1,0 +1,38 @@
+Duration: 6 Minutes
+Age: 42
+Gender: Female
+Is after hours: Yes
+
+CONVERSATION:
+
+**Doctor:** Good evening, Sarah. I understand you’ve come in for a skin check and to discuss some recent blood tests. How have you been feeling?
+
+**Patient:** Hi, Doctor. Yes, I've been feeling okay, but I noticed a few moles that seem a bit different, and I’m curious about my blood test results since I’ve been feeling more tired than usual.
+
+**Doctor:** Let’s start with the skin check. Have you noticed any specific changes in the moles, like size, shape, or color?
+
+**Patient:** Yes, there’s one on my back that seems darker, and a small one on my arm that looks like it's gotten a bit bigger.
+
+**Doctor:** I'll examine those closely. If you could just sit forward a bit... [performs a dermoscopic examination] The one on your back appears slightly asymmetric with some color variation, but we’ll keep an eye on it. The one on your arm is larger than I’d like. It might be wise to excise it for further analysis. Have you had any itching or bleeding from these moles?
+
+**Patient:** No, no itching or bleeding, just the visual changes.
+
+**Doctor:** That’s good to hear. I’ll take some photos for your records so we can monitor any changes over time. Now, regarding your blood tests, you mentioned feeling more tired. Have you noticed any other symptoms like dizziness or shortness of breath?
+
+**Patient:** I've felt dizzy a few times when standing up quickly, and I’ve been a bit more breathless than usual when climbing stairs.
+
+**Doctor:** I see. Your blood tests show a mild iron deficiency, which could explain the fatigue and dizziness. Have you been experiencing any changes in your diet or menstrual cycle that might contribute to this?
+
+**Patient:** My periods have been a bit heavier than usual, but I haven’t changed my diet much.
+
+**Doctor:** That could certainly be contributing to your iron levels. I recommend starting an iron supplement and increasing iron-rich foods in your diet, like spinach and red meat. We should also investigate the heavier periods further. I’d like to refer you for an ultrasound to check for any uterine abnormalities.
+
+**Patient:** That sounds like a plan. I’ve been worried about my energy levels, so I’m glad there’s a potential solution.
+
+**Doctor:** Absolutely, Sarah. We’ll manage this step by step. I’ll write a referral for the ultrasound. In the meantime, I’ll prescribe you an iron supplement, and let’s schedule a follow-up in about a month to reassess your symptoms and iron levels. Do you have any other questions or concerns?
+
+**Patient:** No, that covers it. Thank you for your help, Doctor.
+
+**Doctor:** You’re welcome. We’ll get those moles checked and monitor your iron levels closely. If you notice any new symptoms or changes, please don’t hesitate to contact us. Have a good evening!
+
+**Patient:** Thanks, you too.

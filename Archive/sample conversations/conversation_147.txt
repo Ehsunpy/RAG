@@ -1,0 +1,77 @@
+Duration: 41 Minutes
+Age: 44
+Gender: Female
+Is after hours: Yes
+
+CONVERSATION:
+
+**Doctor:** Good evening, Sarah. Thanks for coming in after hours. I understand you’ve got a few concerns today. Can you tell me what's been going on?
+
+**Patient:** Hi, Doctor. Thanks for seeing me. Lately, I've been feeling really overwhelmed and anxious. Also, I've been having some problems with allergies—not sure if it's something I'm eating or something in the environment.
+
+**Doctor:** I see. Let’s tackle these one at a time. Let's start with your mental health. How long have you been feeling this way?
+
+**Patient:** It's been about six months. Initially, I thought it was just work stress, but it’s been getting worse. I feel anxious almost every day.
+
+**Doctor:** I'm sorry to hear that. Can you describe your anxiety symptoms for me? What are you experiencing?
+
+**Patient:** Well, I get this tight feeling in my chest, sometimes my heart races, and I feel really restless. I also worry a lot, even about small things.
+
+**Doctor:** That sounds difficult. Have you noticed any triggers or patterns to your anxiety, like situations or times when it gets worse?
+
+**Patient:** It’s usually worse in the evenings. I think it might be related to work deadlines and sometimes after I've had a stressful day.
+
+**Doctor:** Okay. How is this affecting your sleep and daily life?
+
+**Patient:** I’m not sleeping well at all. I wake up several times a night, and during the day, I find it hard to concentrate and stay focused at work.
+
+**Doctor:** It sounds like this is having a significant impact on your life. Have you experienced any changes in appetite or mood?
+
+**Patient:** Yes, I’ve lost my appetite. Some days I barely eat, and I’ve been feeling down a lot, like I have no energy to do anything.
+
+**Doctor:** I’m glad you’re sharing this with me. It’s important to address these feelings. Have you ever spoken to anyone about your mental health before, or tried any treatments?
+
+**Patient:** No, this is the first time I’ve talked to a doctor about it. I didn’t think it was serious enough before.
+
+**Doctor:** It’s good that you’ve come in. We can certainly help you manage this. Now, let’s discuss the allergy issues. What symptoms are you experiencing?
+
+**Patient:** I’ve been having itchy eyes and a runny nose almost every day, and sometimes I get hives on my skin.
+
+**Doctor:** Have you noticed if these symptoms occur after eating certain foods or in particular environments?
+
+**Patient:** It seems worse when I'm outside, especially in the park, and sometimes after I eat nuts or shellfish.
+
+**Doctor:** Have you had any severe allergic reactions in the past, like difficulty breathing or swelling of the face or throat?
+
+**Patient:** No, nothing that serious. Just the itching and hives.
+
+**Doctor:** It sounds like you might have a couple of different triggers. Let’s do a brief physical examination to check for any signs of allergy or other issues. I’ll check your eyes, nose, and skin.
+
+**Patient:** Sure.
+
+**Doctor:** [Performing examination] Your eyes do look a bit irritated, and I can see some mild hives on your arms. Your nose is slightly congested too. This fits with allergic rhinitis and possibly food allergies.
+
+**Patient:** What can I do about it?
+
+**Doctor:** For your mental health, I’d like to recommend starting with some cognitive behavioral therapy, which can be very effective for anxiety. We can also discuss medication options if needed, but let's see how you respond to therapy first.
+
+**Patient:** That sounds good. I’d like to try therapy.
+
+**Doctor:** Great. I’ll refer you to a psychologist we work closely with. As for the allergies, I suggest we do some allergy testing to identify specific triggers. In the meantime, an over-the-counter antihistamine can help manage your symptoms.
+
+**Patient:** I’ll try that. Should I avoid certain foods?
+
+**Doctor:** Until we know more, it would be wise to avoid nuts and shellfish since you've noticed reactions with those. We’ll tailor a plan once we have your test results.
+
+**Patient:** Thank you, Doctor. I feel a bit more hopeful now.
+
+**Doctor:** I’m glad to hear that. We’ll work through this together. I’ll also provide you with some resources and information about managing anxiety and allergies. Let’s schedule a follow-up in two weeks to review how you’re doing and discuss any test results.
+
+**Patient:** Thank you so much for your help.
+
+**Doctor:** You’re welcome, Sarah. Take care, and I’ll see you soon. Remember, if anything changes or worsens, don’t hesitate to reach out.
+
+**Patient:** I will. Thank you, Doctor.
+
+---
+

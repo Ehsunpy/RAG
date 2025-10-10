@@ -1,0 +1,70 @@
+Duration: 40 Minutes
+Age: 48
+Gender: Female
+Is after hours: Yes
+
+CONVERSATION:
+
+**Doctor:** Good evening, Sarah. Thank you for coming in today. I understand we’re here to discuss a few ongoing health concerns. How have you been feeling lately?
+
+**Patient:** Hi, Doctor. Thanks for seeing me after hours. I've been feeling quite overwhelmed. My asthma has been acting up more frequently, and my anxiety seems to be getting worse. I’m also having trouble managing my blood pressure.
+
+**Doctor:** I see. Let’s take a step-by-step approach to address each of these issues. First, regarding your asthma, how often are you experiencing symptoms?
+
+**Patient:** Lately, it’s been almost every day. I’m using my inhaler more than usual, sometimes even at night.
+
+**Doctor:** That's concerning. Are you also experiencing any increased shortness of breath or wheezing, especially during exercise?
+
+**Patient:** Yes, I get short of breath even when I'm doing light activities, like walking up the stairs.
+
+**Doctor:** Have you noticed any triggers that seem to worsen your symptoms, such as allergens, stress, or changes in weather?
+
+**Patient:** Stress definitely makes it worse, and it’s been quite cold lately, which doesn’t help.
+
+**Doctor:** Let’s also talk about your anxiety. Can you describe what’s been happening there?
+
+**Patient:** Sure. I feel anxious almost all the time. My mind races with worries about work and my health, and I have trouble sleeping. It’s hard to concentrate, and sometimes, I feel this tightness in my chest.
+
+**Doctor:** Have you experienced any panic attacks or significant changes in your mood or appetite?
+
+**Patient:** I had a panic attack last week. It was terrifying. I feel more irritable lately, and I’ve lost a bit of weight because I just don’t feel like eating.
+
+**Doctor:** It sounds challenging. Your mental health is just as important as your physical health, so we’ll make sure to address this thoroughly. Now, regarding your blood pressure, I noticed it was slightly elevated during your last visit. Have you been monitoring it at home?
+
+**Patient:** Yes, I’ve been checking it twice a day. It’s usually around 140/90, sometimes higher.
+
+**Doctor:** And are you currently taking any medication for your blood pressure?
+
+**Patient:** I’m on lisinopril, but I’m not sure if it’s helping enough.
+
+**Doctor:** Let's take a look at your current medication regimen, including your inhalers and any anxiety medications or supplements you might be taking. Could you list them for me?
+
+**Patient:** Sure. I’m on lisinopril for my blood pressure, albuterol and fluticasone for asthma, and I sometimes take lorazepam when my anxiety gets too bad.
+
+**Doctor:** Thank you for sharing that. Let's do a quick physical examination to assess your current state. I’ll listen to your lungs and heart, check your blood pressure, and have a look at your throat.
+
+**Patient:** Okay.
+
+**Doctor:** [Conducts examination] Your lungs have some wheezing, which aligns with your asthma symptoms. Your blood pressure is a bit elevated at 145/92. Your heart rate is normal, though, and there are no signs of infection in your throat. 
+
+**Patient:** What do you think?
+
+**Doctor:** Based on what we’ve discussed and observed, I believe we need to adjust your asthma management to prevent frequent exacerbations and address your anxiety more effectively. We may also consider tweaking your blood pressure medication.
+
+**Patient:** I’m open to suggestions.
+
+**Doctor:** For your asthma, let’s increase the dose of your inhaled corticosteroid and add a long-acting bronchodilator. This should help with your symptoms. We’ll also schedule a follow-up in a month to reassess and perhaps refer you to a pulmonologist if necessary.
+
+**Patient:** That sounds good. And for my anxiety?
+
+**Doctor:** I recommend starting a selective serotonin reuptake inhibitor (SSRI), which can help with both anxiety and depression. We’ll start with a low dose and adjust as needed. I’d also like to refer you to a therapist for cognitive behavioral therapy, which can be very effective.
+
+**Patient:** I’ve heard about CBT. I’m willing to try it.
+
+**Doctor:** Great. In the meantime, practice some relaxation techniques, like deep breathing or meditation, especially when you feel overwhelmed. Finally, for your blood pressure, let’s add a low-dose diuretic to your regimen. This should help bring your numbers down.
+
+**Patient:** Thank you, Doctor. I really appreciate your help.
+
+**Doctor:** You’re welcome, Sarah. I’ll see you in a month for a review, but don’t hesitate to reach out if you have any concerns before then. Take care.
+
+**Patient:** Thank you. I will.

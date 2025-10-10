@@ -1,0 +1,73 @@
+Duration: 11 Minutes
+Age: 42
+Gender: Female
+Is after hours: No
+
+CONVERSATION:
+
+**Doctor:** Good morning, Ms. Thompson. How are you today?
+
+**Patient:** Good morning, Doctor. I'm doing okay, thank you. Just here for my regular check-up and also to talk about my asthma, which has been a bit bothersome lately.
+
+**Doctor:** Of course, let's start with the general check-up. How have you been feeling overall? Any new symptoms or concerns?
+
+**Patient:** Generally, I feel fine, but I've noticed that I've been getting short of breath more frequently, especially when I'm doing house chores or going up stairs. It's a bit more than usual.
+
+**Doctor:** I see. Have you noticed any changes in your asthma triggers, like pollen levels, dust, or changes in the weather?
+
+**Patient:** Not really. It seems to happen indoors more often, and I don’t think I’ve changed anything in my routine.
+
+**Doctor:** Okay. How often are you using your inhaler, and which one are you currently on? 
+
+**Patient:** I use Ventolin as a reliever, about three times a week. I also use Flixotide as a preventer twice a day.
+
+**Doctor:** And when you use the Ventolin, does it help relieve your symptoms quickly?
+
+**Patient:** Yes, it does help, but I sometimes feel tightness in my chest a few hours later.
+
+**Doctor:** Thanks for sharing that. Let’s check your lung function now. I’ll listen to your breathing. Could you please take a deep breath in and out for me?
+
+**Patient:** [Breathes deeply.]
+
+**Doctor:** I can hear some mild wheezing in your lungs. It suggests that your asthma might not be as well-controlled as we’d like. Have you had any recent colds or respiratory infections?
+
+**Patient:** Not really, no colds or anything like that.
+
+**Doctor:** Alright. Based on what you've described, it sounds like your asthma could be exacerbating due to some unidentified triggers or possibly an underlying issue. Let’s also quickly review your lifestyle. Are you exposed to any smoke, pets, or mold at home?
+
+**Patient:** We don’t smoke, and we have a cat, but she’s been with us for years without any issues. I haven’t noticed any mold.
+
+**Doctor:** Got it. Do you notice if the symptoms are worse at any particular time of day or night?
+
+**Patient:** They seem to be worse in the evenings, especially after dinner.
+
+**Doctor:** Interesting. This could be related to allergens or even something dietary. We’ll look into that. Have you been experiencing any other symptoms like coughing, fever, or chills?
+
+**Patient:** No fever or chills, but I do have a dry cough sometimes, mostly in the evenings.
+
+**Doctor:** Thanks for that information. Given your symptoms, it might be worth reviewing your asthma action plan and possibly adjusting your medication. We may need to consider a higher dose of your preventer or adding a long-acting beta agonist. Also, have you had a spirometry test recently?
+
+**Patient:** Not since last year.
+
+**Doctor:** I recommend getting a spirometry test to assess your current lung function. This will help us tailor your treatment more effectively. In the meantime, let’s also consider doing a review of your inhaler technique to ensure optimal delivery of the medication.
+
+**Patient:** That sounds like a good plan, thank you.
+
+**Doctor:** You're welcome. I’ll arrange for the spirometry test and follow up with you once we have the results. Meanwhile, try to monitor and record any symptoms, especially if they worsen or if you identify any new triggers. We’ll also schedule a follow-up appointment in two weeks to review your progress and the test results.
+
+**Patient:** Alright, I’ll keep track of everything. Thank you, Doctor.
+
+**Doctor:** No problem. Before you go, let’s quickly discuss your general health. Are you up to date with your vaccinations, and have you had any recent blood tests?
+
+**Patient:** I think I’m due for a flu shot, but I had my blood work done last year.
+
+**Doctor:** I'll arrange for a flu vaccination today. It's important, especially with asthma. Regarding blood tests, we might consider a routine check-up soon to monitor your overall health parameters. I'll include that in our plan.
+
+**Patient:** Perfect, thank you so much for your help.
+
+**Doctor:** You're welcome, Ms. Thompson. Let’s work on getting your asthma well-managed. If you have any questions or if your symptoms change, feel free to contact my office. Take care!
+
+**Patient:** I will, thank you. Goodbye!
+
+**Doctor:** Goodbye!
+

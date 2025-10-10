@@ -1,0 +1,70 @@
+Duration: 9 Minutes
+Age: 59
+Gender: Female
+Is after hours: No
+
+CONVERSATION:
+
+**Doctor:** Good morning, Mrs. Thompson. How are you today?
+
+**Patient:** Good morning, Doctor. I'm doing alright, but I've been experiencing some discomfort that I'd like to discuss with you.
+
+**Doctor:** Of course. I see from your file that we're monitoring some antenatal and postnatal concerns, as well as musculoskeletal issues. Can you tell me more about what’s been bothering you?
+
+**Patient:** Sure, I’ve been having this persistent lower back pain. It started a few weeks ago. It’s a dull ache most of the time, but it can become quite sharp when I bend or lift things.
+
+**Doctor:** I see. On a scale of 1 to 10, with 10 being the most severe pain, how would you rate it?
+
+**Patient:** It’s usually around a 4, but it spikes to a 7 or 8 when I’m doing activities like lifting my toddler or when I’ve had a long day on my feet.
+
+**Doctor:** That sounds uncomfortable. Have you noticed any other symptoms, like numbness or tingling in your legs, changes in bowel or bladder habits, or any muscle weakness?
+
+**Patient:** No, none of those. It's just the pain in my lower back.
+
+**Doctor:** Alright. Have you had any recent falls or injuries that could have triggered this pain?
+
+**Patient:** No falls or injuries that I can recall. It just seemed to start gradually.
+
+**Doctor:** And are you currently taking any medications or supplements that we should know about?
+
+**Patient:** I’m taking prenatal vitamins and a calcium supplement. I also occasionally take ibuprofen when the pain gets too bothersome.
+
+**Doctor:** Understood. Ibuprofen can help manage the pain, but we should be cautious with its frequent use. Now, considering your antenatal and postnatal care, have you noticed any issues related to that?
+
+**Patient:** Well, I've been a bit more tired than usual, but I think that comes with taking care of a toddler. Other than that, nothing specific.
+
+**Doctor:** Tiredness is common, but it’s good to keep an eye on it. Let’s have a look at your back. I’d like to do a quick physical examination to assess your musculoskeletal health. Please stand up and perform a few movements for me.
+
+**Patient:** Sure, what do you need me to do?
+
+**Doctor:** Please try bending forward, backward, and then side-to-side. Let me know if any of these movements cause increased pain.
+
+**Patient:** [Performs movements] Bending forward definitely makes it worse. The other movements aren’t too bad.
+
+**Doctor:** Thank you. Now, please lie down on the examination table. I’ll palpate your lower back and check for any tender areas or muscle spasms. Let me know if you feel any discomfort.
+
+**Patient:** [Lies down] Okay.
+
+**Doctor:** [Palpates] Do you feel any pain here?
+
+**Patient:** Yes, right there. That spot is quite tender.
+
+**Doctor:** Alright, it seems like you have some muscle tension in the lumbar region. Given your symptoms and the physical exam findings, it’s likely a case of mechanical lower back pain, possibly due to muscle strain from lifting or prolonged standing.
+
+**Patient:** That makes sense. What can we do about it?
+
+**Doctor:** First, let's manage the pain and prevent further strain. I recommend continuing with ibuprofen as needed, but no more than 1,200 mg per day, and ensure you take it with food. Also, try applying a warm compress to your back a few times a day.
+
+**Patient:** Okay, I can do that.
+
+**Doctor:** I’ll refer you to a physiotherapist who can guide you through exercises to strengthen your back muscles and improve your posture. This will help in reducing the pain and preventing future episodes.
+
+**Patient:** That sounds helpful.
+
+**Doctor:** Lastly, let’s keep an eye on your energy levels and overall well-being. If the tiredness persists or worsens, please come back for further evaluation. It might just be the demands of parenting, but we want to rule out any other causes.
+
+**Patient:** I will. Thank you for your help.
+
+**Doctor:** You're welcome, Mrs. Thompson. I'll send the referral for physiotherapy to your email and let’s schedule a follow-up in two weeks to see how you’re progressing. Take care.
+
+**Patient:** Thank you, Doctor. I appreciate it.

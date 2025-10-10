@@ -1,0 +1,66 @@
+Duration: 32 Minutes
+Age: 37
+Gender: Male
+Is after hours: No
+
+CONVERSATION:
+
+**Doctor:** Good morning, John. How have you been since our last appointment?
+
+**Patient:** Morning, Doctor. I've been okay, I guess, but I've been feeling pretty overwhelmed lately. It's been hard to keep everything in check with my diabetes, and I've been feeling more anxious than usual.
+
+**Doctor:** I'm sorry to hear that. Let’s take a comprehensive look at what's going on. Can you tell me more about the anxiety? When did it start getting worse?
+
+**Patient:** It's been building up over the last few months. I think managing my diabetes is part of it. I’m constantly worried about my blood sugar levels, and that just adds to the stress.
+
+**Doctor:** It’s understandable to feel stressed when managing a chronic condition like diabetes. Have you noticed any particular triggers for your anxiety, or is it more generalized?
+
+**Patient:** It’s mostly around meal times and when I’m at work. I feel like I don’t have enough time to eat properly or check my blood sugar, and that just heightens everything.
+
+**Doctor:** That sounds challenging. Let’s explore how we can better manage your diabetes to ease some of this stress. How have your blood sugar levels been lately?
+
+**Patient:** They’ve been fluctuating more than I’d like. My fasting levels are sometimes a bit high, around 8 or 9 mmol/L, even though I’m trying to stick to my plan.
+
+**Doctor:** Thank you for sharing that. It seems like we may need to adjust your management plan. Are you still taking Metformin as prescribed?
+
+**Patient:** Yes, I’m taking 1000 mg twice a day, but it doesn’t seem to be enough anymore.
+
+**Doctor:** We might need to consider adding another medication or adjusting your current dosage. Have you experienced any side effects from your current medications?
+
+**Patient:** Not really, just the occasional upset stomach, but nothing too severe.
+
+**Doctor:** That’s good to know. Let’s also discuss your preventive health screenings. Have you had your cholesterol levels and blood pressure monitored recently?
+
+**Patient:** I had a cholesterol test about a year ago. I think it was borderline high, but I haven’t checked since. My blood pressure was fine at my last GP visit.
+
+**Doctor:** It’s important to monitor these regularly, especially since they can interact with your diabetes and increase cardiovascular risk. We should get those checked today. I’ll also conduct a physical examination, if that's alright with you.
+
+**Patient:** Sure, that’s fine.
+
+**Doctor:** (Conducts physical examination) Your blood pressure is 138/85, which is slightly elevated. Let’s check your cholesterol today, and I’ll order an HbA1c test to get an average of your blood glucose levels over the past three months. Does that sound okay?
+
+**Patient:** Yes, that makes sense.
+
+**Doctor:** Regarding your mental health, have you had any previous counseling or therapy for anxiety?
+
+**Patient:** No, I haven’t. I’ve been thinking about it, but I’m not sure where to start.
+
+**Doctor:** We can certainly explore options for you. I think a Mental Health Care Plan could be beneficial, which will allow you to access a psychologist. We can schedule a time for that if you’re interested.
+
+**Patient:** That would be helpful, actually.
+
+**Doctor:** Great. Now, about your medications, I’m considering adding a SGLT2 inhibitor to your regimen, which can help with glucose control and may have cardiovascular benefits as well. We'll need to monitor your kidney function with this medication. How do you feel about that?
+
+**Patient:** If it can help manage my blood sugar better, I’m open to trying it.
+
+**Doctor:** Very good. I’ll write you a prescription and set a follow-up appointment in about a month to see how you’re doing with the new medication. We'll also review your mental health progress and any feedback from counseling.
+
+**Patient:** Sounds like a plan. Thank you for your help.
+
+**Doctor:** You’re welcome. For today’s consultation, I’ll be billing it under MBS item 36 due to the length and complexity of managing your diabetes, mental health, and preventive care needs. We’ll also do the pathology tests, which will help us tailor your treatment further.
+
+**Patient:** That’s fine. I appreciate you taking the time to go through everything with me.
+
+**Doctor:** It’s my pleasure, John. Let’s book your follow-up appointment at reception before you leave. Take care, and I’ll see you soon.
+
+**Patient:** Thank you, Doctor. I’ll do that.

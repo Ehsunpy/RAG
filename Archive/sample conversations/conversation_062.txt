@@ -1,0 +1,68 @@
+Duration: 18 Minutes
+Age: 42
+Gender: Male
+Is after hours: Yes
+
+CONVERSATION:
+
+**Doctor:** Good evening, Mr. Thompson. Thanks for coming in. I understand we have a couple of things to cover today, including setting up some care plans and discussing travel medicine. How have you been feeling lately?
+
+**Patient:** Hi, Doctor. I'm doing alright, though I've been feeling a bit overwhelmed trying to keep everything organized with my health. I’m planning a trip soon, and I want to make sure I’m all set before I go.
+
+**Doctor:** I understand. Traveling can certainly add another layer to managing your health. Let's start with your care plans. I see here that you’ve been working with a physiotherapist and a dietitian. How are those going?
+
+**Patient:** The physiotherapy has been helping with my back pain, but I think I need more sessions. The dietitian has been great, too. We’ve been focusing on managing my cholesterol levels, and I've seen some improvement.
+
+**Doctor:** That’s good to hear. We can definitely look into renewing your care plans for additional sessions. Just to clarify, with your physiotherapy, are you experiencing any new symptoms or changes in your back pain?
+
+**Patient:** Not really new symptoms, but the pain does flare up if I sit for too long. It’s more of a dull ache that sometimes sharpens, especially towards the end of the day.
+
+**Doctor:** Okay, and does anything alleviate the pain, like heat or certain movements?
+
+**Patient:** Yes, applying a heating pad helps a lot, and some of the exercises the physiotherapist recommended seem to relieve the discomfort.
+
+**Doctor:** That’s helpful information. Now, regarding your dietitian sessions, have you noticed any changes in your diet that have been beneficial or otherwise?
+
+**Patient:** I've cut down on red meat and started incorporating more fish and vegetables. It’s been a bit of an adjustment, but it seems to be working.
+
+**Doctor:** Excellent. It sounds like you’re making some positive changes. Moving on to your upcoming travel plans, where are you headed?
+
+**Patient:** I’m going to Southeast Asia for about three weeks.
+
+**Doctor:** Alright. There are a few things we should consider for your trip. Have you had any travel vaccinations in the past?
+
+**Patient:** It’s been a while. I think the last time was when I traveled to South America two years ago.
+
+**Doctor:** For Southeast Asia, we should ensure you're up-to-date with vaccinations like Hepatitis A and Typhoid. Depending on your exact destinations and activities, we might also consider Japanese Encephalitis and Malaria prophylaxis. Are you planning to visit rural areas?
+
+**Patient:** Yes, I’ll be spending some time in both urban and rural areas.
+
+**Doctor:** In that case, Japanese Encephalitis might be something to consider, especially if you’ll be spending a lot of time outdoors. I’ll check your vaccination records to confirm what you’ve had, and we can plan from there. Do you have any concerns about the vaccinations?
+
+**Patient:** Not really, just want to make sure I’m protected.
+
+**Doctor:** Absolutely. We’ll make sure you're covered. Now, let's do a quick examination to ensure nothing is amiss before your trip. I’ll check your blood pressure, heart rate, and listen to your lungs. 
+
+**Patient:** Sounds good.
+
+**Doctor:** [Performing the examination] Your blood pressure is well within normal limits, and your heart and lungs sound healthy. Everything seems in good order physically. 
+
+**Patient:** That’s a relief to hear.
+
+**Doctor:** I’ll prepare the care plan documents for your physiotherapy and dietitian, authorizing more sessions. For the vaccinations, I’ll order what you need based on the destination, and we’ll schedule those in the next few days. I’ll also provide some advice on travel health precautions, like safe eating practices and staying hydrated.
+
+**Patient:** Thank you, Doctor. That would be really helpful.
+
+**Doctor:** You're welcome. Lastly, since this is an after-hours consultation, I’ll need to bill this under the appropriate MBS item number, which will be a bit higher than a standard daytime consult. Does that sound okay to you?
+
+**Patient:** Yes, that’s fine. I appreciate you seeing me at this time.
+
+**Doctor:** Great. We’ll finalize everything today and get you set up with the appointments and vaccines. If you have any more questions or concerns before your trip, feel free to reach out.
+
+**Patient:** Will do. Thanks for all your help, Doctor.
+
+**Doctor:** My pleasure. Safe travels, and we’ll see you soon for the vaccinations.
+
+**Patient:** Thank you. Have a good night.
+
+**Doctor:** You too, Mr. Thompson. Take care.

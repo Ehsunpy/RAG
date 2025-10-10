@@ -1,0 +1,76 @@
+Duration: 31 Minutes
+Age: 55
+Gender: Female
+Is after hours: No
+
+CONVERSATION:
+
+**Doctor:** Good morning, Mrs. Thompson. How have you been feeling since our last visit?
+
+**Patient:** Good morning, Doctor. I've been having a bit of a tough time lately, to be honest. My arthritis has been quite painful, and I've been feeling more anxious than usual.
+
+**Doctor:** I'm sorry to hear that. Let's address each of those issues. Can you tell me more about your arthritis symptoms? When do you notice the pain the most?
+
+**Patient:** The pain is usually worse in the morning, but it does ease up a bit as the day goes on. It's mostly in my knees and hands, and it's been making it hard to do my usual activities around the house.
+
+**Doctor:** That sounds quite uncomfortable. Have you noticed any swelling or redness around your joints?
+
+**Patient:** Yes, there's some swelling, especially in my fingers. It can get pretty stiff, too.
+
+**Doctor:** I see. And regarding your anxiety, what symptoms have you been experiencing?
+
+**Patient:** I've been feeling quite on edge, and it's hard to relax. My sleep has been disrupted as well. I wake up in the middle of the night and find it hard to get back to sleep.
+
+**Doctor:** That must be exhausting. How often would you say you're experiencing these feelings of anxiety?
+
+**Patient:** Almost daily now. It's been building up over the past couple of months.
+
+**Doctor:** I'm glad you mentioned it. Mental health is an important part of overall health. Have you noticed if your anxiety affects your arthritis pain or vice versa?
+
+**Patient:** Yes, when I get really anxious, it seems like the pain gets worse. It's like a vicious cycle.
+
+**Doctor:** They can definitely interact with each other. Stress and anxiety can increase inflammation, which might be why you're seeing a flare-up in your arthritis symptoms. Let's also talk about your general health. How's your blood pressure been?
+
+**Patient:** It's been okay, I think. I try to check it at the pharmacy when I can.
+
+**Doctor:** We'll check it today to be sure. Any changes in your weight or appetite?
+
+**Patient:** I've lost a bit of weight, but I think that's because I've been too anxious to eat sometimes.
+
+**Doctor:** Alright. Let's do a quick physical examination now. I'll check your blood pressure, heart rate, and take a look at those swollen joints. Can you please roll up your sleeve?
+
+**Patient:** Sure.
+
+**Doctor:** [Performs examination] Your blood pressure is a bit elevated at 145/90, and I can see some swelling in your joints. Your heart rate is slightly elevated as well, which could be related to your anxiety. 
+
+**Patient:** Is that something we should be worried about?
+
+**Doctor:** It's something we'll keep an eye on. Managing your anxiety could help improve these numbers. Now, let's discuss a management plan. For your arthritis, are you currently on any medication?
+
+**Patient:** Yes, I'm taking naproxen, but it doesn't seem to help much anymore.
+
+**Doctor:** We might need to adjust your medication. I'll consider adding a disease-modifying antirheumatic drug (DMARD) or possibly a corticosteroid to help reduce inflammation more effectively. We'll also need to monitor your liver function with these medications.
+
+**Patient:** Okay. And what about my anxiety?
+
+**Doctor:** For your anxiety, I suggest we start with some cognitive behavioral therapy (CBT) sessions, which can be very effective. I'll refer you to a psychologist. If we don't see improvement, we might consider medication. How does that sound?
+
+**Patient:** That sounds good. I'm open to trying therapy.
+
+**Doctor:** Excellent. I'll also give you some relaxation techniques to practice at home. In terms of your overall health, regular exercise can help both your arthritis and anxiety. Gentle activities like swimming or yoga could be beneficial.
+
+**Patient:** I used to love swimming. Maybe I should start again.
+
+**Doctor:** That's a great idea. Let's aim for at least 30 minutes a day. Regarding your elevated blood pressure, we'll recheck it in a couple of weeks and see if these lifestyle changes help. If not, we might need to start an antihypertensive.
+
+**Patient:** Alright, I'll keep an eye on it.
+
+**Doctor:** I'll write up the referrals and prescriptions for you. Before we finish, I need to consider the billing for today's consultation. Given the complexity and the duration, we'll be using MBS item number 36, which covers a consultation of over 20 minutes during regular hours that involves complex decision-making.
+
+**Patient:** That makes sense. Thank you, Doctor.
+
+**Doctor:** You're welcome, Mrs. Thompson. Let's schedule a follow-up in four weeks to see how you're progressing with these changes and to reassess your symptoms. Remember, I'm here if you need anything in the meantime.
+
+**Patient:** Thank you so much. I appreciate it. See you in a few weeks.
+
+**Doctor:** Take care, Mrs. Thompson. See you soon.

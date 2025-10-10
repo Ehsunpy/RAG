@@ -1,0 +1,76 @@
+Duration: 39 Minutes
+Age: 21
+Gender: Male
+Is after hours: No
+
+CONVERSATION:
+
+Doctor: Good morning, Alex. How have you been feeling recently?
+
+Patient: Hi, doctor. I've been okay, but there are a few things that have been bothering me lately. 
+
+Doctor: Alright, let's go through them one by one. I see from your file that we're managing some chronic conditions. Can you tell me how your asthma has been?
+
+Patient: My asthma has been mostly under control, but I've noticed that I've been using my inhaler more often this past month, especially with the change in weather.
+
+Doctor: I see. Have you noticed any particular triggers, like allergens or physical activity, that might be worsening your symptoms?
+
+Patient: It seems to flare up more when I'm out running, which I try to do a couple of times a week. Also, dust seems to bother me a lot.
+
+Doctor: Okay, that's helpful to know. We'll definitely address that. Now, I also wanted to check in on your eczema. How is your skin condition right now?
+
+Patient: The eczema is flaring up too. It seems to get worse when my asthma does. My skin is quite itchy, and the usual spots on my elbows and knees are red and irritated.
+
+Doctor: Have you been using the topical corticosteroid cream I prescribed last time?
+
+Patient: Yes, but it doesn't seem to be as effective as before. The itching is really persistent.
+
+Doctor: It might be time to reassess your current treatment plan for both conditions. The interplay between asthma and eczema is quite common, as they both involve inflammatory responses that can sometimes exacerbate each other. Now, let's shift to discuss your mental health. How have you been managing stress and your mood overall?
+
+Patient: I've been feeling quite anxious lately. University is stressful, and I'm finding it hard to concentrate on my studies. There are days when I just feel overwhelmed.
+
+Doctor: I'm sorry to hear that, Alex. Have these feelings of anxiety and being overwhelmed affected your sleep or appetite?
+
+Patient: Yes, my sleep is definitely affected. I find it hard to fall asleep, and when I do, I don't stay asleep for long. My appetite is all over the place too. Some days I eat a lot, and other days I just don't feel like eating at all.
+
+Doctor: That sounds challenging. Anxiety can certainly impact both sleep and appetite. It's important we address this to help improve your overall well-being. Have you had any thoughts of harm or self-harm?
+
+Patient: No, nothing like that. It's more just the constant worry and feeling like there's too much on my plate.
+
+Doctor: I'm glad to hear that, but it's still crucial that we find a way to manage these symptoms. Have you tried any relaxation techniques or spoken with a counselor before?
+
+Patient: I've tried some breathing exercises, but I've never seen a counselor.
+
+Doctor: Breathing exercises are a great start. I think it would be beneficial to refer you to a mental health professional who can work with you on managing anxiety. I'll prepare a Mental Health Treatment Plan for you, which will allow you to access Medicare-subsidized sessions with a psychologist.
+
+Patient: That sounds like a good idea. Thank you.
+
+Doctor: Of course. Let’s also discuss some preventive health measures. Have you had a cervical screening test or any vaccinations recently?
+
+Patient: I had the flu shot last year, but that's about it.
+
+Doctor: Since you're 21, you're due for some vaccinations, and we should check if you're up-to-date with your HPV vaccine series. It’s a preventive measure to protect against certain cancers. I’ll order those tests and vaccinations as necessary.
+
+Patient: Okay, I didn't realize I needed those.
+
+Doctor: It's good to keep up with preventive measures while you're young. Now, let's do a quick physical examination. Please take a seat on the examination table. [Doctor performs a thorough examination focusing on respiratory system, skin inspection, and basic neurological assessment.]
+
+Doctor: Your lungs are clear, but given the increased use of your inhaler, I might consider adjusting your asthma medication. Your skin looks inflamed, so we may need a stronger topical treatment or possibly an oral medication for the eczema. 
+
+Patient: Alright. What would you suggest?
+
+Doctor: For the asthma, I’ll prescribe a combination inhaler that contains both a steroid and a long-acting bronchodilator, which should help reduce inflammation and prevent frequent flare-ups. For the eczema, we can try a different topical treatment and discuss the possibility of an oral antihistamine to help with the itching. 
+
+Patient: That sounds like a plan.
+
+Doctor: Great. Let's summarize our management plan: 1) Update your asthma medication and monitor your use; 2) Prescribe stronger medication for eczema; 3) Initiate a Mental Health Care Plan and refer you to a psychologist; 4) Ensure you're updated on your vaccinations and preventive screenings. 
+
+Regarding your billing, this consultation will involve several MBS items. For the duration and complexity, we'll use item 36 for a detailed consultation, item 2715 for the Mental Health Treatment Plan, and I'll order some tests and vaccinations under the appropriate items as well.
+
+Patient: Thank you for explaining everything, doctor. I appreciate the help.
+
+Doctor: You're welcome, Alex. We'll follow up in a month to see how you're doing with the new treatment plan. If you have any concerns before then, please don't hesitate to reach out.
+
+Patient: I will, thanks again.
+
+Doctor: Take care, Alex. See you soon.

@@ -1,0 +1,70 @@
+Duration: 9 Minutes
+Age: 64
+Gender: Female
+Is after hours: No
+
+CONVERSATION:
+
+**Doctor:** Good morning, Ms. Thompson. How are you feeling today?
+
+**Patient:** Good morning, Doctor. I've been better. I'm having some trouble with my lower back and knee, especially after a fall I had at work a few weeks ago.
+
+**Doctor:** I'm sorry to hear that. Let’s talk a little more about the fall. Can you describe what happened?
+
+**Patient:** I was lifting a box at the warehouse where I work, and I lost my balance. I fell backward and landed on my back and right knee.
+
+**Doctor:** That sounds painful. Have you experienced any swelling, bruising, or changes in skin color around your knee or back since then?
+
+**Patient:** Yes, my knee was swollen and bruised immediately after the fall. The swelling has gone down a bit, but it still hurts, especially when I try to bend it or put weight on it. My back feels stiff and sore most of the time.
+
+**Doctor:** I see. Are you experiencing any numbness, tingling, or weakness in your legs or any difficulty with bladder or bowel control?
+
+**Patient:** Thankfully, no numbness or tingling, and I haven't had any issues with my bladder or bowels.
+
+**Doctor:** That's good to hear. Have you taken any medications for the pain?
+
+**Patient:** I've been taking ibuprofen every six hours. It helps a bit, but the pain doesn't completely go away.
+
+**Doctor:** Okay. Let’s take a closer look, starting with your back. Could you please stand up and point to where it hurts the most?
+
+**Patient:** Sure, it's mostly here in the lower part of my back, to the right side.
+
+**Doctor:** [Observes and palpates the lower back] Does it hurt when I press here?
+
+**Patient:** Yes, that's quite tender.
+
+**Doctor:** Alright. Now, could you try bending forward, backward, and side to side for me? Let me know if you feel any sharp pain or restriction.
+
+**Patient:** [Bends forward and backward] It’s uncomfortable, but no sharp pain. [Attempts to bend sideways] The right side feels tight and sore.
+
+**Doctor:** I understand. Now, let's check your knee. Could you sit up on the examination table? I'll gently move your knee.
+
+**Patient:** Sure.
+
+**Doctor:** [Examines the knee] Any pain when I do this? [Flexes and extends the knee]
+
+**Patient:** Yes, it's sore when you bend it past 90 degrees.
+
+**Doctor:** Noted. There's some tenderness around the joint, but no obvious swelling now. I’m going to check your knee stability by moving it gently in different directions. Let me know if there’s any discomfort.
+
+**Patient:** It feels a bit unstable when you move it side to side, but the pain is manageable.
+
+**Doctor:** Thank you for letting me know. Based on our examination and your history, it seems you may have a lumbar strain and a possible ligament strain in your knee from the fall. Given your work duties, these injuries might take a little time to heal.
+
+**Patient:** That makes sense. What should I do next?
+
+**Doctor:** We’ll need to manage this carefully. I recommend rest and avoiding activities that aggravate your symptoms. Continue with ibuprofen for pain, but let’s add a topical anti-inflammatory gel for your knee. I’d like to refer you to a physiotherapist for both your back and knee to support your recovery. Since this is a work-related injury, I'll also complete the necessary WorkCover documentation to ensure you're covered for medical expenses and physiotherapy.
+
+**Patient:** Thank you, Doctor. Will I need any imaging tests?
+
+**Doctor:** If there’s no improvement in a couple of weeks or if you experience any new symptoms like increased pain or weakness, we may consider an X-ray or MRI. For now, let’s focus on conservative management with medication and physiotherapy.
+
+**Patient:** Alright, I’ll do that. How often should I see the physiotherapist?
+
+**Doctor:** I recommend starting with twice a week for the first two weeks, and we can reassess your progress after that. I’ll schedule a follow-up appointment with me in three weeks to evaluate how you’re doing.
+
+**Patient:** Sounds like a plan. Thank you for your help, Doctor.
+
+**Doctor:** You’re welcome, Ms. Thompson. Take care, and I’ll see you in a few weeks. Don’t hesitate to contact me earlier if you have any concerns.
+
+**Patient:** Will do. Thanks again.

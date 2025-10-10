@@ -1,0 +1,84 @@
+Duration: 46 Minutes
+Age: 38
+Gender: Female
+Is after hours: No
+
+CONVERSATION:
+
+**Doctor:** Good morning, Sarah. How are you doing today?
+
+**Patient:** Good morning, Doctor. I'm feeling a bit overwhelmed, to be honest. There’s just a lot going on with my health.
+
+**Doctor:** I understand. Let's take our time to go through everything. Could you start by telling me about your main concerns today?
+
+**Patient:** Well, I've been having trouble managing my diabetes. My blood sugar levels have been all over the place. Plus, I've been feeling quite down lately, and my energy levels are really low.
+
+**Doctor:** I’m sorry to hear that. It sounds like there's a lot to unpack. Let’s start with your diabetes. How have you been managing it recently? Are you sticking to your medication and diet plan?
+
+**Patient:** I've been trying, but it’s hard. I’m on Metformin, but sometimes I skip doses because I forget. My diet's been inconsistent too, especially with work being so busy.
+
+**Doctor:** Managing diabetes can be challenging, especially with a busy schedule. Have you noticed any patterns with your blood sugar levels? For example, are they higher at certain times of the day?
+
+**Patient:** They seem to spike in the mornings. I think it might be because I often skip breakfast and then have a big lunch.
+
+**Doctor:** That could definitely contribute. Skipping meals can lead to fluctuations in your blood sugar. We might need to adjust your meal plan to stabilize these levels. How are you monitoring your blood sugar at home?
+
+**Patient:** I check it with a glucometer, usually twice a day. But sometimes I forget, especially when I’m feeling stressed.
+
+**Doctor:** Stress can have a significant impact on blood sugar levels as well. Let’s talk about the stress and low mood you mentioned. Can you tell me more about how you’ve been feeling mentally?
+
+**Patient:** I’ve been feeling quite anxious and down. I’m not sleeping well, and I’m just constantly tired. It’s hard to get through the day sometimes.
+
+**Doctor:** It sounds like your mental health is really being affected. Have you experienced anything like this before, or is this a new development?
+
+**Patient:** I’ve had bouts of anxiety in the past, but it’s never been this bad. It started a few months ago, and I just can't seem to shake it off.
+
+**Doctor:** Mental health is incredibly important, and it’s great that you’re bringing this up. Do you have any support at home or someone you talk to about these feelings?
+
+**Patient:** My partner is supportive, but I haven’t really talked to anyone else. I think I'm just embarrassed.
+
+**Doctor:** There’s no need to feel embarrassed. Mental health is just as important as physical health. It’s possible that your mood and energy are linked to both your diabetes and the stress you’re experiencing. Have you considered talking to a psychologist or counselor?
+
+**Patient:** I’ve thought about it, but I’m not sure where to start.
+
+**Doctor:** We can help with that. I can refer you to a psychologist through a Mental Health Care Plan, which would allow you to access Medicare-subsidized sessions. How does that sound?
+
+**Patient:** That sounds helpful. I think I’d like to try it.
+
+**Doctor:** Great. Now, let’s consider how all these issues might be interacting. Poor blood sugar control can affect your mood and energy levels, and feeling low can make managing your diabetes more difficult. It’s a bit of a cycle.
+
+**Patient:** That makes sense. I hadn’t thought about how they’re all connected.
+
+**Doctor:** Exactly. Now, I’d like to do a physical examination to check a few things, like your blood pressure and weight, and listen to your heart and lungs. Is that okay?
+
+**Patient:** Sure, that’s fine.
+
+**Doctor:** [Conducts physical examination] Your blood pressure is slightly elevated, which can be related to stress or your diabetes. Your heart and lungs sound normal, though. We’ll want to keep an eye on that blood pressure.
+
+**Patient:** Okay. What should I do about it?
+
+**Doctor:** I’d recommend some lifestyle changes first, like increasing physical activity and managing stress, which you can also discuss with the psychologist. If there’s no improvement, we might consider medication.
+
+**Patient:** Alright, I can try that.
+
+**Doctor:** Excellent. Let’s put together a management plan. For your diabetes, I recommend sticking to regular meal times and not skipping meals. We’ll also increase your Metformin dose slightly to see if that helps stabilize your levels. I’ll write you a prescription for that.
+
+**Patient:** I can do that. And what about the mental health side?
+
+**Doctor:** We’ll set up a Mental Health Care Plan today and refer you to a psychologist. It would also be beneficial to incorporate some relaxation techniques or mindfulness exercises into your routine. These can help reduce stress and improve your mood.
+
+**Patient:** I’ve heard of mindfulness. I think I’ll give it a try.
+
+**Doctor:** That’s great. I’ll also have you come back in a month for a follow-up to see how you’re doing with these changes. We’ll check your blood sugar levels and discuss how the mental health support is going.
+
+**Patient:** Sounds good. Thank you, Doctor. I feel a bit more hopeful now.
+
+**Doctor:** You’re welcome, Sarah. Remember, you’re not alone in this, and we’re here to support you. We’ll also bill today’s consultation under MBS item number 36, given the complexity and duration of our discussion. Do you have any other questions before you go?
+
+**Patient:** No, I think that covers everything. Thank you for your help.
+
+**Doctor:** Anytime. Take care, and I’ll see you in a month. Don’t hesitate to reach out if you have any concerns before then.
+
+**Patient:** I will. Thank you, Doctor. Goodbye.
+
+**Doctor:** Goodbye, Sarah.

@@ -1,0 +1,72 @@
+Duration: 38 Minutes
+Age: 43
+Gender: Female
+Is after hours: No
+
+CONVERSATION:
+
+Doctor: Good morning, Sarah. How have you been doing since our last visit?
+
+Patient: Good morning, Doctor. I've been alright, but there have been a few things on my mind. I've been feeling quite fatigued lately, and I'm not sure if it's due to my pregnancy or something else. 
+
+Doctor: I see. Let's talk about that. You're in your second trimester now, correct? How far along are you?
+
+Patient: Yes, I'm 22 weeks pregnant today.
+
+Doctor: Great. Congratulations on reaching this stage. Fatigue can definitely be a part of pregnancy, but it's important we rule out other causes, especially considering your history with chronic conditions. Are you experiencing any other symptoms apart from fatigue?
+
+Patient: Well, I have occasional headaches, and my blood sugars have been a bit erratic. I have type 2 diabetes, as you know, and I've been trying to keep it under control, but it's been challenging.
+
+Doctor: Understood. It's good that you're monitoring your blood sugar levels closely. How often are you checking them, and what have the readings been like?
+
+Patient: I've been checking them about four times a day. In the mornings, my fasting glucose is usually around 130 mg/dL, which is higher than usual. After meals, it sometimes spikes to 180 or even 190 mg/dL.
+
+Doctor: Those readings are a bit elevated, especially considering pregnancy. We'll need to address that. Have you noticed any changes in your diet or activity levels recently?
+
+Patient: I've been trying to eat healthier, more whole grains and lean proteins. But with the fatigue, I haven't been as active as I would like. I used to walk every day, but now it's maybe every other day.
+
+Doctor: Your efforts with diet are excellent, but we might need to adjust your activity levels and perhaps your medication. Are you currently on metformin, and what's the dosage?
+
+Patient: Yes, I'm on metformin, 1000 mg twice a day.
+
+Doctor: Given your pregnancy and these glucose levels, we might need to consider adjusting your medication or possibly adding insulin. We'll discuss this further once we complete the examination. Have you experienced any other symptoms, like dizziness or changes in vision?
+
+Patient: I do get dizzy sometimes, especially when I stand up too quickly. Vision changes, not really, although my eyes do feel a bit more strained lately.
+
+Doctor: Dizziness can be related to both blood sugar fluctuations and changes in blood pressure. How's your blood pressure been?
+
+Patient: I check it at home a couple of times a week. It’s usually around 135/85.
+
+Doctor: That's slightly elevated, and we'll keep monitoring it. Let me do a physical exam now. I'll check your blood pressure, heart rate, and do a quick check for any swelling or other physical signs.
+
+[Physical examination sounds]
+
+Doctor: Your blood pressure is 138/86 today, and your heart rate is slightly elevated at 92 beats per minute. There's no significant swelling, which is good. Let's take a look at your fundal height as well.
+
+[Physical examination continues]
+
+Doctor: Everything seems on track with the pregnancy itself. The fundal height is appropriate for 22 weeks. Now, regarding your fatigue and headaches, these could be linked to your blood sugar levels, so managing those may help alleviate these symptoms.
+
+Patient: That makes sense. What do you recommend?
+
+Doctor: First, let's adjust your diabetes management. I recommend we start you on a low dose of insulin to help stabilize your blood sugar levels. We'll also maintain your current metformin dose. I'll refer you to a diabetes educator who can help with insulin administration and dietary advice tailored for pregnancy.
+
+Patient: That sounds like a good plan. I'm a bit nervous about starting insulin, though.
+
+Doctor: I understand. Starting insulin can be daunting, but it's important for your health and the health of your baby. The diabetes educator will provide support and guidance. Additionally, try to incorporate some light activity daily, even short walks, which can help with blood sugar levels and overall energy.
+
+Patient: I'll try to be more consistent with walking. What about the headaches?
+
+Doctor: We'll monitor those alongside your blood sugar. They might improve as your glucose levels stabilize. If they persist or worsen, let me know. We might need to explore further, possibly considering other causes or treatments.
+
+Patient: Okay, I will. How often should we meet to follow up on these changes?
+
+Doctor: I suggest we meet again in two weeks to review your blood sugar log, check on your symptoms, and adjust your treatment if needed. In the meantime, if you experience any severe symptoms or have concerns, don't hesitate to contact the clinic.
+
+Patient: Thank you, Doctor. I appreciate your help.
+
+Doctor: You're welcome, Sarah. You're doing a great job managing everything, and we're here to support you. I'll arrange for the diabetes educator to contact you, and you can pick up your insulin prescription at the pharmacy.
+
+Patient: Thank you. I'll see you in two weeks.
+
+Doctor: Take care, Sarah. See you soon.

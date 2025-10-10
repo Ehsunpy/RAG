@@ -1,0 +1,60 @@
+Duration: 16 Minutes
+Age: 61
+Gender: Female
+Is after hours: No
+
+CONVERSATION:
+
+Doctor: Good morning, Mrs. Thompson. I understand you're here for an allergy assessment and to discuss some medical certificates. How have you been feeling?
+
+Patient: Good morning, Doctor. I've been having some issues with allergies. It seems like every time I'm around dust or certain pollens, I start sneezing and get really congested. My eyes also get itchy and watery. It’s been quite uncomfortable.
+
+Doctor: I see. Allergies can be quite bothersome. Let’s start by getting a little more detailed history. When did you first notice these symptoms, and have they changed over time?
+
+Patient: I first noticed them about a couple of years ago, but they've definitely gotten worse over the past few months. Initially, it was just occasional sneezing, but now it's happening more frequently, and the congestion lasts longer.
+
+Doctor: Have you noticed if certain times of the year are worse for you, like during spring or fall?
+
+Patient: Spring is definitely the worst. I think it might be the pollen. But I also have trouble indoors, especially when I'm cleaning or if there's dust around.
+
+Doctor: That’s helpful to know. Have you tried any medications or remedies, and if so, have they provided any relief?
+
+Patient: I've been using over-the-counter antihistamines, like loratadine. They help a little, but not completely. Sometimes I still feel congested and tired.
+
+Doctor: Okay. Along with your allergy symptoms, have you experienced any other issues, like skin rashes, difficulty breathing, or any gastrointestinal symptoms?
+
+Patient: No skin rashes or digestive issues, but occasionally my throat feels a bit scratchy. I haven't had any breathing difficulties, though.
+
+Doctor: That's good to hear. Do you have any known allergies to medications or other substances?
+
+Patient: None that I'm aware of.
+
+Doctor: Great. Let me perform a physical examination to check your nasal passages and throat, as well as listen to your lungs. Could you please sit up on the examination table?
+
+Patient: Sure.
+
+[Doctor performs a physical examination, checking nasal passages, throat, and auscultating the lungs.]
+
+Doctor: Your nasal passages are quite swollen, which is consistent with allergic rhinitis. Your throat looks a bit irritated as well, but your lungs sound clear, which is reassuring. 
+
+Patient: That’s good to know.
+
+Doctor: Based on your symptoms and the examination, it seems like you're dealing with a combination of seasonal allergic rhinitis and perhaps some perennial allergies due to dust. I recommend continuing with the antihistamines, but you might benefit from a nasal corticosteroid spray like fluticasone to help reduce inflammation and congestion.
+
+Patient: I've never tried a nasal spray before. Is it easy to use?
+
+Doctor: Yes, it's quite straightforward. I'll explain how to use it properly to get the best results. You’ll need to use it daily for it to be most effective. Also, try to minimize exposure to dust by using allergen-proof covers for your bedding and doing regular cleaning with a damp cloth.
+
+Patient: I'll definitely try that. What about the medical certificates I need for work? I've had to call in sick a couple of times because of these symptoms.
+
+Doctor: Certainly, I can provide medical certificates for those days. It's important to manage these symptoms so they're less disruptive to your daily life. If your symptoms don’t improve with this plan, we might consider allergy testing or referral to an allergist for further management. 
+
+Patient: Thank you, Doctor. I hope this new treatment helps.
+
+Doctor: You're welcome. I'll write up the prescription for the nasal spray and the medical certificates now. Please come back and see me in about a month to review how you're doing. If your symptoms worsen before then, don't hesitate to call.
+
+Patient: I appreciate it. I'll see you next month. Thank you for your help.
+
+Doctor: Take care, Mrs. Thompson. Have a good day.
+
+[Doctor completes necessary documentation and provides the prescription and medical certificates.]

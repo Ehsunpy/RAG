@@ -1,0 +1,78 @@
+Duration: 38 Minutes
+Age: 40
+Gender: Female
+Is after hours: Yes
+
+CONVERSATION:
+
+**Doctor:** Good evening, Sarah. It's nice to see you again. How have you been feeling lately?
+
+**Patient:** Hi, Doctor. It's been a bit challenging, to be honest. I'm managing, but I've been feeling quite fatigued and dealing with some back pain. Plus, I'm a bit worried about my blood pressure. 
+
+**Doctor:** I understand. Let's take a closer look at everything. First, let's address the fatigue. Has it been persistent, or does it come and go?
+
+**Patient:** It's pretty constant. I feel exhausted even after a full night's sleep. It's been like this for the past few weeks. 
+
+**Doctor:** I see. Are you experiencing any other symptoms, such as shortness of breath, weight changes, or mood swings?
+
+**Patient:** I've gained a little weight, maybe about five pounds, and I've been feeling a bit more anxious than usual.
+
+**Doctor:** Okay, and how's your back pain? Can you describe it for me?
+
+**Patient:** It’s a dull ache that sometimes turns into a sharper pain, especially when I've been sitting or standing for too long. It's mostly in my lower back.
+
+**Doctor:** Has anything helped alleviate the pain? Heat, rest, or any particular medications?
+
+**Patient:** Rest helps a bit, and I've been using a heating pad. I try to avoid taking painkillers unless it's really bad.
+
+**Doctor:** Good to know. You mentioned concerns about your blood pressure. Have you been monitoring it at home?
+
+**Patient:** Yes, I have. It's been slightly elevated, around 135/85, but sometimes it spikes higher.
+
+**Doctor:** All right, let's check your blood pressure here to compare. [Doctor takes the patient's blood pressure.]
+
+**Doctor:** It's currently 138/86, which is slightly elevated. Given your chronic condition, we need to keep a closer eye on it. When was your last antenatal visit?
+
+**Patient:** About a month ago. Everything was fine with the baby, but they mentioned keeping an eye on my blood pressure.
+
+**Doctor:** That makes sense. Have you noticed any swelling in your hands, feet, or face?
+
+**Patient:** A little bit of swelling in my feet, but I thought it was just from standing too much.
+
+**Doctor:** It's important to monitor that, particularly with your history. Now, regarding your postnatal care, how have you been adjusting?
+
+**Patient:** It's been a bit overwhelming with the new baby, and I'm trying to balance everything. My sleep is obviously disrupted, which doesn't help with the fatigue.
+
+**Doctor:** Understandable. It's crucial to have support during this time. Are you getting any help at home?
+
+**Patient:** My partner's been great, but he's also working full-time, so it's a bit of a juggling act.
+
+**Doctor:** It sounds like you have a lot on your plate. Let's examine your back now. Please stand up and bend forward as far as you comfortably can. [Doctor observes the patient's movement.]
+
+**Doctor:** I can see where the tension might be. Your range of motion seems slightly restricted. Let's palpate the area. [Doctor gently palpates the lower back.]
+
+**Doctor:** There's some tenderness here. I'd recommend physiotherapy to help manage the back pain. It can also provide you with exercises to strengthen your back muscles, which may alleviate some of the pain. 
+
+**Patient:** That sounds helpful. I’ll try anything at this point.
+
+**Doctor:** Great, I'll give you a referral to a physiotherapist. Now, considering your blood pressure, I'd like to adjust your medication. We'll switch to a different antihypertensive that is safe during pregnancy and lactation. Does that sound okay?
+
+**Patient:** Yes, that sounds good. I want to make sure everything's safe for the baby.
+
+**Doctor:** Absolutely. Also, maintaining a healthy diet and moderate exercise when you can will help manage your blood pressure and weight. 
+
+**Patient:** I’ll try to incorporate that. It’s just a bit tricky with the baby.
+
+**Doctor:** I understand. Small changes can make a big difference over time. Lastly, let's schedule more frequent check-ups to monitor both your chronic conditions and your postnatal recovery. Would every two weeks work for you?
+
+**Patient:** Yes, that should be fine. 
+
+**Doctor:** Excellent. I'll write up the new prescription, the referral for physiotherapy, and make sure you have the details for your follow-up appointments. Do you have any other questions or concerns?
+
+**Patient:** I think that covers everything for now. Thank you for your help.
+
+**Doctor:** You're welcome, Sarah. Remember, if anything changes or if you have any concerns, feel free to reach out. Take care, and I'll see you in two weeks.
+
+**Patient:** Thank you, Doctor. I'll see you then.
+
+---

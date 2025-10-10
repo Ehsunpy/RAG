@@ -1,0 +1,68 @@
+Duration: 43 Minutes
+Age: 41
+Gender: Female
+Is after hours: No
+
+CONVERSATION:
+
+**Doctor:** Good morning, Sarah. How have you been feeling lately?
+
+**Patient:** Morning, Doctor. I've been having a bit of a tough time managing everything. My asthma seems to be acting up more than usual, and I've been feeling quite anxious, which isn't helping.
+
+**Doctor:** I'm sorry to hear that. Let's break it down a bit. How has your asthma been manifesting recently?
+
+**Patient:** I've been experiencing shortness of breath more frequently, especially at night. I've had to use my inhaler almost every day this week, which is more than usual.
+
+**Doctor:** That sounds uncomfortable. Have you noticed any specific triggers that might be making your asthma worse?
+
+**Patient:** It's hard to pinpoint, but stress might be a factor. And with the change in weather, there's been more pollen around, which I think is affecting me too.
+
+**Doctor:** It's not uncommon for stress and environmental changes to exacerbate asthma symptoms. Let's talk about your mental health. You mentioned feeling anxious. Can you tell me more about that?
+
+**Patient:** I just feel overwhelmed. Between work, managing my health, and everything else, it's hard to keep calm. I've been feeling on edge, and sometimes I have trouble sleeping because of it.
+
+**Doctor:** It sounds like there's a lot on your plate. When you say “trouble sleeping,” do you mean difficulty falling asleep, staying asleep, or waking up too early?
+
+**Patient:** Mostly staying asleep. I wake up in the middle of the night with my mind racing.
+
+**Doctor:** I see. Anxiety can indeed affect sleep, which in turn can worsen asthma symptoms due to fatigue and stress. Have you tried any strategies to manage your anxiety or improve your sleep?
+
+**Patient:** I've tried deep breathing exercises and cutting down on caffeine, but they don't always work.
+
+**Doctor:** Those are good strategies. We might need to explore additional options to help you manage the anxiety more effectively. Now, let's discuss your chronic disease management. Are you still taking all your prescribed medications regularly?
+
+**Patient:** Yes, I take them as prescribed. I'm on the preventer inhaler for asthma, and I have the ventolin as needed. For anxiety, I've been taking the medication we discussed last time.
+
+**Doctor:** Great to hear you're keeping up with your medications. Let's do a quick examination to check your respiratory function and overall health. Can you take some deep breaths for me while I listen to your lungs with the stethoscope?
+
+**Patient:** Sure.
+
+**Doctor:** [Listening] Your breath sounds are slightly wheezy, but nothing alarming. Your oxygen saturation is at 98%, which is good. Let’s also check your blood pressure… It’s 130/85, slightly elevated but manageable. Have you been monitoring it at home?
+
+**Patient:** Occasionally, it’s usually around the same range.
+
+**Doctor:** Given the stress and anxiety, it's not unusual for blood pressure to be slightly elevated. Now, considering the complexity of managing asthma, anxiety, and your chronic condition, it’s crucial that we tailor a management plan that addresses all these areas cohesively.
+
+**Patient:** That sounds good. What do you suggest?
+
+**Doctor:** For your asthma, let's ensure your action plan is up-to-date. I’ll prescribe a spacer to use with your inhaler, which can improve medication delivery. We might also consider a different preventer if your symptoms don't improve.
+
+**Patient:** Okay.
+
+**Doctor:** Regarding your anxiety, I suggest we explore cognitive-behavioral therapy (CBT). It’s quite effective for managing anxiety and can complement your medication. I'll refer you to a psychologist. How does that sound?
+
+**Patient:** I’m open to trying CBT. I've heard it's helpful.
+
+**Doctor:** Excellent. I’ll also provide some resources on mindfulness techniques, which can help manage both anxiety and stress-induced asthma symptoms. As for your chronic condition, we’ll keep monitoring your progress and adjust medications as necessary.
+
+**Patient:** That sounds comprehensive. I appreciate the detailed approach.
+
+**Doctor:** Let's schedule a follow-up in about four weeks to review your progress and make any needed adjustments. Now, regarding the billing, given the complexity and duration of today's consultation, I'll be using MBS item number 36 for a long consultation addressing multiple issues. Additionally, the mental health care plan will be billed under item number 2715. Are you familiar with the billing process?
+
+**Patient:** Yes, that makes sense. Thank you for explaining.
+
+**Doctor:** You're welcome, Sarah. Please feel free to reach out if you notice any changes or have concerns before our next appointment. We’re here to support your health journey.
+
+**Patient:** Thanks, Doctor. I feel more at ease knowing we have a plan in place.
+
+**Doctor:** Take care, and see you soon.

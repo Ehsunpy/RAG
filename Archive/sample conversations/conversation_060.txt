@@ -1,0 +1,49 @@
+Duration: 6 Minutes
+Age: 67
+Gender: Female
+Is after hours: Yes
+
+CONVERSATION:
+
+**Doctor:** Good evening, Mrs. Thompson. I understand this is an after-hours consultation. How are you feeling today?
+
+**Patient:** Hello, Doctor. I’m feeling a bit overwhelmed, to be honest. I’ve been having difficulty managing my symptoms, and I’m worried about how this is affecting my family, especially my grandchildren.
+
+**Doctor:** I’m sorry to hear that. Let’s take a moment to address your concerns. I understand you’re currently receiving palliative care. Could you tell me more about what symptoms you’ve been experiencing lately?
+
+**Patient:** Well, the pain has become more persistent, especially in my back and legs, and I’m feeling more fatigued than usual. I’ve also had a bit of trouble breathing at times.
+
+**Doctor:** Thank you for sharing that. It’s important we manage these symptoms effectively. On a scale of 1 to 10, how would you rate your pain right now?
+
+**Patient:** It’s about a 7 most of the time, but it can spike up to a 9 in the evenings.
+
+**Doctor:** That sounds quite uncomfortable. Let’s also address your breathing. Are you experiencing shortness of breath mostly at rest, or is it more pronounced with activity?
+
+**Patient:** It’s more noticeable when I’m trying to do simple things, like walking to the kitchen or getting dressed.
+
+**Doctor:** I see. Let’s take a moment to check your vitals and do a brief physical exam. [Doctor performs a brief physical examination, checking heart rate, respiratory rate, and blood pressure.]
+
+**Doctor:** Your blood pressure and heart rate look stable. I notice some wheezing when you breathe, which could be contributing to your shortness of breath. I think we need to adjust your pain management plan and perhaps consider a bronchodilator to help with your breathing.
+
+**Patient:** That would be helpful. I’ve been hesitant to take more medication, but I know I need to feel better to spend quality time with my family.
+
+**Doctor:** It’s understandable to feel that way. Balancing symptom control with maintaining your quality of life is crucial. For the pain, I suggest we increase the dose of your current medication slightly. We can also introduce a low-dose bronchodilator to help with your breathing. 
+
+**Patient:** That sounds reasonable. I’m open to trying that.
+
+**Doctor:** Excellent. I will coordinate with your palliative care team to ensure these adjustments are made smoothly. It's also important to have a conversation with your family about how they can support you during this time. Have you been able to discuss your wishes with them?
+
+**Patient:** We’ve talked a bit, but I think we need to have a more detailed discussion.
+
+**Doctor:** I can assist with that by providing some resources and perhaps scheduling a family meeting. This way, everyone’s on the same page, and you feel supported. Let’s also schedule a follow-up to review how these changes are working for you.
+
+**Patient:** Thank you, Doctor. I appreciate your help.
+
+**Doctor:** You’re welcome, Mrs. Thompson. I’ll write up the prescriptions and notes for your care team. Please reach out if your symptoms change or if you have any concerns before our next appointment.
+
+**Patient:** I will. Thanks again for seeing me after hours.
+
+**Doctor:** Of course. Take care, and I’ll see you soon.
+
+---
+

@@ -1,0 +1,61 @@
+Duration: 44 Minutes
+Age: 46
+Gender: Female
+Is after hours: No
+
+CONVERSATION:
+
+**Doctor:** Good morning, Sarah. How have you been feeling since your last visit?
+
+**Patient:** Good morning, Doctor. I've been feeling quite overwhelmed, to be honest. Juggling my diabetes management with the pregnancy and the aftercare has been challenging.
+
+**Doctor:** I understand. It sounds like you have a lot on your plate. Let's break this down. How has your blood sugar control been recently?
+
+**Patient:** It’s been a bit erratic. My fasting sugars are sometimes above 7 mmol/L, and I occasionally spike after meals. I feel like I'm doing my best with diet, but it's tough to keep everything balanced.
+
+**Doctor:** That's concerning, especially since maintaining good glycemic control is crucial during pregnancy. Are you still on metformin, or have there been any changes to your medication regimen?
+
+**Patient:** Yes, I'm still on metformin, but I was wondering if we need to adjust the dose or consider insulin.
+
+**Doctor:** We might need to consider that. Have you noticed any patterns with your blood sugar levels, like specific foods or times of day that are more problematic?
+
+**Patient:** Mornings are definitely the hardest. I usually have a high reading, even if I eat a light dinner.
+
+**Doctor:** That's helpful to know. It might be worth checking your evening snacks and possibly adjusting your metformin timing. Regarding your pregnancy, how many weeks along are you now?
+
+**Patient:** I’m 28 weeks today.
+
+**Doctor:** Great. Have you experienced any symptoms like swelling, headaches, or visual changes?
+
+**Patient:** I’ve had some swelling in my ankles, but I assumed it’s just normal pregnancy stuff. I also get headaches occasionally, but they’re not severe.
+
+**Doctor:** Swelling can be common, but we need to monitor it closely, especially with your history of hypertension. Let me check your blood pressure now. 
+
+[Physical examination sounds: blood pressure cuff inflating]
+
+**Doctor:** Your blood pressure is 135/85, which is higher than we’d like during pregnancy. We'll need to keep an eye on that. Have you been feeling your baby move regularly?
+
+**Patient:** Yes, quite a bit, actually. It's reassuring.
+
+**Doctor:** That’s a good sign. Now, regarding postnatal care, have you thought about how you’ll manage your diabetes and your newborn care? 
+
+**Patient:** I’m nervous about it. I’ve been reading, but it seems overwhelming. I’m not sure how I’ll manage my own health while taking care of a baby.
+
+**Doctor:** That’s completely understandable. Let’s put a postnatal plan in place. We’ll arrange for a diabetes educator to visit you after delivery, and you might benefit from a lactation consultant, especially if breastfeeding impacts your blood sugar levels.
+
+**Patient:** That sounds like a good idea. I want to do everything I can to keep myself and my baby healthy.
+
+**Doctor:** Absolutely. Let’s also schedule regular follow-ups to monitor both your diabetes and blood pressure. We’ll also do an ultrasound to check on the baby’s growth.
+
+**Patient:** I appreciate that. I feel more at ease knowing there’s a plan.
+
+**Doctor:** For now, let’s increase your monitoring and keep a detailed log of your blood sugar levels. We might need to adjust your metformin or consider adding insulin if your levels don’t stabilize. Also, let's test your urine for protein to ensure there's no preeclampsia developing.
+
+**Patient:** Sounds good. I’ll do my best to keep track of everything.
+
+**Doctor:** You’re doing great, Sarah. Remember, you’re not alone in this. We’ll work together to keep you and your baby healthy. Let’s book your next appointment in two weeks, and don’t hesitate to call if you have any concerns in the meantime.
+
+**Patient:** Thank you, Doctor. I really appreciate your help.
+
+**Doctor:** You’re welcome. Take care, and see you soon.
+

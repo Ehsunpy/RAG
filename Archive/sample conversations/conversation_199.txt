@@ -1,0 +1,68 @@
+Duration: 40 Minutes
+Age: 20
+Gender: Male
+Is after hours: No
+
+CONVERSATION:
+
+**Doctor:** Good morning, Alex. How have you been since our last appointment?
+
+**Patient:** Morning, Doctor. I've been okay, I guess. Just trying to manage everything, but it's been a bit tough lately.
+
+**Doctor:** I'm sorry to hear that. Let's dive into that a bit. I see from your records that we're managing asthma and some chronic disease issues. Could you tell me more about what's been going on, particularly any new symptoms or changes?
+
+**Patient:** Sure. My asthma has been acting up more than usual. I’ve had more wheezing and shortness of breath, especially at night or early in the morning. It’s affecting my sleep as well.
+
+**Doctor:** That sounds uncomfortable. How often would you say you use your inhaler now?
+
+**Patient:** I’ve been using my rescue inhaler almost every day, sometimes twice a day. And my preventive one, I’m taking it twice as prescribed.
+
+**Doctor:** Okay, so increased use of the rescue inhaler. Have you noticed any specific triggers, like allergens or weather changes?
+
+**Patient:** It seems to get worse with stress and when the weather changes, like when it gets colder.
+
+**Doctor:** Stress can indeed exacerbate asthma. Speaking of which, I understand you’re also dealing with some mental health challenges. How have you been managing your stress levels and mental health overall?
+
+**Patient:** Not too well, to be honest. I've been feeling more anxious and down. University is stressful, and sometimes it feels overwhelming. I’m not sure how to balance everything.
+
+**Doctor:** That sounds challenging. Have you been able to use any coping strategies or perhaps see a therapist?
+
+**Patient:** I tried to see a therapist, but I only managed a couple of sessions. I couldn't keep it up with my schedule, and it felt like too much to handle.
+
+**Doctor:** I understand. It's important to address both your mental health and asthma, as they can definitely interact. Stress can worsen asthma, and having asthma can increase stress and anxiety, making it a bit of a vicious cycle. 
+
+**Patient:** Yeah, I’ve noticed that. When I struggle to breathe, I get anxious, and then it feels like it’s even harder to breathe.
+
+**Doctor:** Exactly. Let’s work on a plan that addresses both. For your asthma, we might need to adjust your medication regimen. I’d like to consider stepping up your preventive therapy to see if we can get better control.
+
+**Patient:** That sounds good. Whatever helps.
+
+**Doctor:** Great. I’ll also perform a quick physical exam to check your lung function and see if there’s anything else we need to address. Do you mind if I listen to your lungs?
+
+**Patient:** Go ahead.
+
+**Doctor:** [The doctor uses a stethoscope to listen to Alex's lungs.] I can hear some wheezing, particularly on the exhale, which is indicative of asthma exacerbation. We'll definitely need to adjust your treatment. Now, regarding your mental health, would you be open to trying therapy again if we could find a more convenient option, perhaps online?
+
+**Patient:** I think I could try that. Online sessions might be easier to fit into my schedule.
+
+**Doctor:** That's a good step. Additionally, I can refer you for a Mental Health Care Plan, which allows you to access Medicare rebates for up to 10 sessions with a psychologist. How does that sound?
+
+**Patient:** That would be really helpful.
+
+**Doctor:** Excellent. I’ll include that in our plan. Now, let's consider how we’ll proceed with your asthma and chronic management. I’d like to review your asthma action plan and ensure you have a clear understanding of when to use each inhaler. We can also look into a guided meditation or relaxation technique to help with stress. How does that sound?
+
+**Patient:** That sounds like a plan. I could definitely use some guidance on what to do when things get bad.
+
+**Doctor:** Perfect. I’ll print out an updated asthma action plan for you. Also, I’d like to schedule a follow-up appointment in about four weeks to see how you’re progressing with these changes. Does that work for you?
+
+**Patient:** Yeah, that should work.
+
+**Doctor:** Great. Now, let's discuss the MBS billing. Today’s consultation involved complex medical decision-making given the interaction between your asthma and mental health, and the chronic nature of your conditions. This will be billed under a long consultation, which is appropriate for the time and complexity involved. We’ll also initiate a Mental Health Care Plan, which is covered under a specific Medicare item number.
+
+**Patient:** That makes sense to me. Thanks for explaining it.
+
+**Doctor:** No problem, Alex. It’s important to me that you understand not only your health plan but also how the billing works. Let’s get these documents ready for you, and I’ll see you in four weeks. Remember, if you have any severe symptoms or concerns before then, don’t hesitate to contact the clinic.
+
+**Patient:** Thanks, Doctor. I appreciate all your help.
+
+**Doctor:** You’re welcome, Alex. Take care, and I’ll see you soon.

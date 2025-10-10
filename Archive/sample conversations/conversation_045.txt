@@ -1,0 +1,44 @@
+Duration: 7 Minutes
+Age: 24
+Gender: Female
+Is after hours: No
+
+CONVERSATION:
+
+**Doctor:** Good morning! I’m Dr. Smith. How can I assist you today?
+
+**Patient:** Hi, Dr. Smith. I’m here for a pre-employment and insurance medical exam, and I also need some advice on a wound I have.
+
+**Doctor:** Certainly, we can address both today. Let's start with the pre-employment and insurance medical. Are there specific forms or tests you need for that?
+
+**Patient:** Yes, I have these forms from my employer and the insurance company. They require a general health assessment and some basic tests like blood pressure and BMI.
+
+**Doctor:** Great, we’ll get to those shortly. Now, regarding the wound, can you tell me more about it? How did you get it, and how long ago?
+
+**Patient:** I accidentally cut my forearm while cooking about four days ago. It seemed minor at first, but now it's a bit red and sore.
+
+**Doctor:** I see. Have you noticed any discharge or pus from the wound? Any fever or swelling in the area?
+
+**Patient:** There's been some clear fluid, but no pus. I haven't noticed any fever, but it is a bit swollen.
+
+**Doctor:** Thank you for that information. Let's start with a quick physical exam. I’ll check your blood pressure, heart rate, and then have a look at that wound. Is that alright?
+
+**Patient:** Sure, no problem.
+
+**Doctor:** [Performs blood pressure and heart rate check] Your blood pressure is 118/76, and your heart rate is normal at 72 beats per minute. Now, let’s have a look at your wound. [Examines wound] The wound is slightly inflamed, but it doesn’t appear to be infected, which is good. I’ll clean it and apply a fresh dressing, but you should keep an eye on it for any signs of infection like increased redness, warmth, or pus.
+
+**Patient:** Okay, I’ll do that. Should I use any specific ointment on it?
+
+**Doctor:** An over-the-counter antibiotic ointment should suffice. Apply it once or twice a day before dressing the wound. Now, I’ll quickly calculate your BMI. [Calculates BMI] Your BMI is 22, which is within the normal range. Everything looks good for your pre-employment and insurance forms.
+
+**Patient:** Great, that's a relief. Is there anything else I need to do?
+
+**Doctor:** For the forms, I’ll fill them out now, and we can arrange for any additional tests if needed, but everything seems in order. If the wound doesn’t improve or worsens, please return for a follow-up. Otherwise, you should be good to go.
+
+**Patient:** Thank you, Dr. Smith. I appreciate it.
+
+**Doctor:** You’re welcome. I’ll hand these forms to the front desk for you to pick up on your way out. Take care and don’t hesitate to reach out if you have any other concerns.
+
+**Patient:** Will do. Thanks again!
+
+---

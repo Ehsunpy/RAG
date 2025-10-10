@@ -1,0 +1,64 @@
+Duration: 17 Minutes
+Age: 58
+Gender: Male
+Is after hours: Yes
+
+CONVERSATION:
+
+**Doctor:** Good evening, Mr. Thompson. How are you feeling today?
+
+**Patient:** Evening, Doctor. I’m doing okay, but there are a few things I wanted to go over with you, especially after my recent blood tests.
+
+**Doctor:** Of course, let's go through everything. I see here that your blood tests indicate a few areas of concern, particularly your cholesterol levels and blood glucose. Have you noticed any symptoms recently, like increased thirst, frequent urination, or fatigue?
+
+**Patient:** I have been feeling more tired than usual, and I guess I am drinking more water, but I thought it was because of the weather.
+
+**Doctor:** That could be related. Your blood glucose levels suggest we might be looking at early signs of diabetes. I’d like to explore this further. Have you had any changes in your weight, or noticed any blurry vision?
+
+**Patient:** I haven’t really checked my weight, but now that you mention it, my vision does seem a bit off sometimes, especially when I’m reading.
+
+**Doctor:** I see. We’ll need to monitor those symptoms closely. I'll also check your blood pressure and listen to your heart and lungs in a moment. But first, you mentioned you wanted to discuss some paperwork?
+
+**Patient:** Yes, I’ve been thinking about getting my affairs in order, you know, just in case. I want to set up an advanced care directive and sort out any legal stuff like my power of attorney.
+
+**Doctor:** That's a wise decision, Mr. Thompson. It’s important to have those documents in place. Advanced care directives ensure your medical preferences are respected if you’re unable to communicate them yourself. Do you have specific wishes or concerns about your future care?
+
+**Patient:** I’d like to make sure that I don’t end up on life support if there’s no significant chance of recovery. I’ve talked to my son about it, but I want it to be clear in writing.
+
+**Doctor:** Understood. We can help you draft a directive that outlines your wishes regarding resuscitation, life support, and other medical interventions. I’ll provide you with a form you can complete, and it might be helpful to discuss these plans with your family and a lawyer as well.
+
+**Patient:** Yes, I’ll definitely do that. What about the power of attorney?
+
+**Doctor:** A power of attorney is crucial for managing your financial affairs if you’re unable to do so. You’ll need to select someone you trust. Have you thought about who you might appoint?
+
+**Patient:** I was thinking about my son. He’s very responsible and knows what I want.
+
+**Doctor:** That sounds like a good choice. You’ll need to complete a legal document for that. I can guide you on where to find the forms, but it’s best to have a lawyer review them to ensure everything is correct.
+
+**Patient:** That makes sense. I’ll work on that soon. 
+
+**Doctor:** Excellent. Let’s move to the examination. I’ll check your blood pressure first. [The doctor performs the blood pressure check.] Your blood pressure is slightly elevated today, but not alarmingly high. Could be due to stress. We’ll continue to monitor it.
+
+**Patient:** Alright. I have been a bit stressed with everything going on.
+
+**Doctor:** Understandable. Stress can impact both your blood pressure and blood sugar levels. [The doctor listens to the heart and lungs.] Everything sounds normal with your heart and lungs, which is good. Now, let’s talk about the management plan.
+
+**Patient:** Yes, please.
+
+**Doctor:** First, I’d like you to start monitoring your blood sugar levels at home. I’ll prescribe a glucometer and show you how to use it. We’ll also schedule a follow-up appointment to discuss the results and make any necessary adjustments to your diet or medication.
+
+**Patient:** Okay, I can do that.
+
+**Doctor:** For your cholesterol, I recommend lifestyle changes such as a balanced diet low in saturated fats and regular exercise. If there's no improvement, we may need to consider medication.
+
+**Patient:** I’ll work on my diet and try to get more active.
+
+**Doctor:** Great. Lastly, I’ll provide you with the forms for the advanced care directive and the contact information for a legal advisor regarding the power of attorney. Do you have any other questions?
+
+**Patient:** No, I think that covers it. Thank you for your help, Doctor.
+
+**Doctor:** You’re welcome, Mr. Thompson. Remember, I’m here if you need any further assistance. Let’s schedule that follow-up appointment in two weeks to review your glucose readings and discuss any progress. Take care.
+
+**Patient:** Will do, thanks again.
+
+(End of consultation)

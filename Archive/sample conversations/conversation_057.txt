@@ -1,0 +1,76 @@
+Duration: 16 Minutes
+Age: 51
+Gender: Female
+Is after hours: No
+
+CONVERSATION:
+
+Certainly! Here's a detailed and realistic consultation:
+
+---
+
+**Doctor:** Good afternoon, Mrs. Smith. I understand this is a telehealth consultation. How have you been feeling lately?
+
+**Patient:** Hi, Doctor. I've been having more trouble with my asthma recently. My inhaler doesn't seem to be working as well as it used to.
+
+**Doctor:** I'm sorry to hear that. Let's try to get to the bottom of this. Can you describe the symptoms you've been experiencing?
+
+**Patient:** Sure. I've been having shortness of breath, especially when I'm active, like when I'm cleaning the house or walking up the stairs. I also wake up at night coughing, and my chest feels tight.
+
+**Doctor:** How often are you using your inhaler?
+
+**Patient:** Lately, I've been using it almost every day, sometimes twice a day.
+
+**Doctor:** It sounds like your asthma control has worsened. Have you noticed any triggers that make your symptoms worse, like pollen, dust, or stress?
+
+**Patient:** I think dust might be a trigger. We had some construction work done in the house recently, and it’s been quite dusty.
+
+**Doctor:** That could definitely contribute. Have you experienced any changes in your symptoms with the weather or during specific times of the day?
+
+**Patient:** It seems worse in the mornings and at night. The recent colder weather might also be affecting it.
+
+**Doctor:** That makes sense. Have you had any recent respiratory infections or colds?
+
+**Patient:** I had a mild cold about three weeks ago, but it seemed to clear up pretty quickly.
+
+**Doctor:** Okay. Let’s discuss your current asthma action plan. Which medications are you currently taking for your asthma?
+
+**Patient:** I use a Ventolin inhaler, and I have a Symbicort inhaler that I use regularly.
+
+**Doctor:** You mentioned increased use of your Ventolin inhaler. How often are you using the Symbicort?
+
+**Patient:** Twice a day, as you prescribed.
+
+**Doctor:** It sounds like we might need to adjust your treatment plan. Before we do that, let's ensure there are no other underlying issues. Have you experienced any fever, weight loss, or night sweats?
+
+**Patient:** No, none of those symptoms.
+
+**Doctor:** Good to hear. Have you had any other medical issues recently, like heart palpitations, or any new medications?
+
+**Patient:** No new medications, and no heart palpitations.
+
+**Doctor:** Great. Based on what you've described, it seems like your asthma isn't well-controlled at the moment. Given the increased symptoms and use of your inhaler, we should consider escalating your treatment.
+
+**Patient:** What does that involve?
+
+**Doctor:** I recommend stepping up your Symbicort dose to see if that helps control your symptoms better. We'll also discuss some environmental control measures, like using air purifiers or avoiding dust exposure.
+
+**Patient:** That sounds good. Is there anything else I should do?
+
+**Doctor:** Ensure you continue to follow your asthma action plan closely. Monitor your peak flow readings if you have a peak flow meter at home, and keep track of your symptoms and inhaler use. If your symptoms persist or worsen, we might need to consider a specialist referral for further evaluation.
+
+**Patient:** I can do that. Is there anything specific I should watch for?
+
+**Doctor:** Yes, if you experience worsening shortness of breath, your reliever inhaler isn't working, or if you wake up frequently at night due to asthma symptoms, seek medical attention promptly.
+
+**Patient:** Understood. I'll keep an eye on it and follow the plan.
+
+**Doctor:** Excellent. I’ll send you an updated asthma action plan via email. If your symptoms don’t improve with these changes, we’ll need to reassess soon.
+
+**Patient:** Thank you, Doctor. I appreciate your help.
+
+**Doctor:** You’re welcome. Take care, and feel free to reach out if anything changes. Goodbye, Mrs. Smith.
+
+**Patient:** Goodbye, Doctor.
+
+---

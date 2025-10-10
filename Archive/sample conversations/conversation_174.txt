@@ -1,0 +1,74 @@
+Duration: 54 Minutes
+Age: 51
+Gender: Female
+Is after hours: No
+
+CONVERSATION:
+
+**Doctor:** Hello, Mrs. Smith. It's nice to see you again. How have you been feeling since our last appointment?
+
+**Patient:** Hi, Doctor. I've been okay overall, but there are a few things that have been bothering me. My blood pressure readings have been fluctuating a bit, and I've been feeling quite anxious lately. Also, I think it's time for my routine screenings.
+
+**Doctor:** I see. Let's start by addressing your blood pressure. Have you been monitoring it at home, and if so, what have your readings been like?
+
+**Patient:** Yes, I've been checking it every morning and evening. In the mornings, it's usually around 135/85, but in the evenings, it sometimes spikes to 150/95.
+
+**Doctor:** It's good that you're keeping track. Do you notice any particular activities or times of the day when these spikes occur?
+
+**Patient:** It seems to be higher after work. I have a pretty stressful job, and by the time I get home, I'm often feeling tense.
+
+**Doctor:** Stress can certainly impact blood pressure. We'll need to consider this in your management plan. Have you had any other symptoms, like headaches or dizziness?
+
+**Patient:** I've had a few headaches, mostly in the evenings, but no dizziness.
+
+**Doctor:** Okay, let's talk a bit about your anxiety. Can you describe what you've been experiencing?
+
+**Patient:** Lately, I've been feeling on edge quite often, especially at work. Sometimes I have trouble concentrating, and I worry about a lot of things. It’s been hard to relax, even at home.
+
+**Doctor:** It sounds like anxiety is playing a significant role here. Have you noticed any changes in your sleep pattern or appetite?
+
+**Patient:** My sleep has been quite disrupted. I wake up several times during the night and often feel tired during the day. My appetite is okay, though.
+
+**Doctor:** Sleep disturbances can exacerbate anxiety and affect your blood pressure too. We should look into strategies to improve your sleep. Now, about your preventive screenings, when was your last mammogram and Pap smear?
+
+**Patient:** I had my last mammogram about two years ago and my Pap smear a year ago.
+
+**Doctor:** It's time to schedule another mammogram, given the current guidelines recommend one every two years for someone your age. We should also consider a full blood panel, including cholesterol and glucose levels, given your family history of heart disease.
+
+**Patient:** That sounds good. I’m due for those checks.
+
+**Doctor:** Great, I'll arrange for those tests. Now, let's perform a physical examination. I'll check your blood pressure, and we’ll do a general assessment.
+
+**[Doctor performs physical examination, noting blood pressure is 142/92, heart rate is regular, and no abnormalities in heart and lung sounds.]**
+
+**Doctor:** Your blood pressure is a bit elevated, but consistent with what you've been monitoring at home. Overall, your physical exam is quite normal, which is reassuring.
+
+**Patient:** That’s good to hear.
+
+**Doctor:** Let's put together a comprehensive management plan. First, for your blood pressure, we’ll continue with your current medication but add a calcium channel blocker, which should help with the evening spikes. It’s important to maintain your lifestyle measures—exercise, a balanced diet, and reducing salt intake.
+
+**Patient:** That makes sense. I’ve been trying to watch my diet, but I could definitely exercise more.
+
+**Doctor:** We can also explore stress-reducing techniques like mindfulness or yoga, which might help with both your blood pressure and anxiety. For your anxiety, I'm recommending a referral to a psychologist for cognitive behavioral therapy. It's very effective for managing anxiety.
+
+**Patient:** I’d be open to trying therapy. I've heard good things about CBT.
+
+**Doctor:** Excellent. I'll provide you with a referral. Additionally, I'll prescribe a mild sedative to help with your sleep in the short term, but we'll aim to manage it through therapy and lifestyle adjustments.
+
+**Patient:** Thank you. I hope it will help me sleep better.
+
+**Doctor:** Regarding your preventive health, we’ll arrange for a mammogram and update your Pap smear when due. I'll also order a blood panel to check your cholesterol, glucose, and other routine markers. 
+
+**Patient:** That sounds like a good plan.
+
+**Doctor:** For billing today, given the complexity and duration of our consultation, we'll use MBS item 44, which is appropriate for a long consultation involving complex decision-making.
+
+**Patient:** I appreciate you taking the time to go through everything with me.
+
+**Doctor:** Of course, it’s important to address all aspects of your health comprehensively. I'll see you for a follow-up in about a month to review how your new medication is working and to check in on your anxiety and sleep. In the meantime, please reach out if you have any questions or concerns.
+
+**Patient:** Thank you, Doctor. I feel more at ease having a clear plan.
+
+**Doctor:** You're welcome, Mrs. Smith. Take care, and I'll see you soon.
+
+**[Doctor and Patient exchange goodbyes as the consultation concludes.]**

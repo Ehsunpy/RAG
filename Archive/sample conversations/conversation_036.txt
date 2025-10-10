@@ -1,0 +1,52 @@
+Duration: 9 Minutes
+Age: 42
+Gender: Male
+Is after hours: No
+
+CONVERSATION:
+
+**Doctor:** Good morning, Mr. Thompson. How have you been feeling since your last visit?
+
+**Patient:** Morning, Doctor. I've been managing okay, but I've noticed my back pain is still quite persistent, and it's affecting my ability to exercise regularly. I’m also concerned about my blood pressure, which was a bit high last time.
+
+**Doctor:** I see. We'll definitely address both of those today. Can you describe the back pain a bit more for me? How often are you experiencing it, and what activities seem to aggravate it?
+
+**Patient:** It's a dull, constant ache in my lower back, but it gets sharper when I try to lift things or when I'm on my feet for too long. I’d say it’s worse in the afternoons after work.
+
+**Doctor:** And what kind of work do you do again? Is it mostly sedentary or more physical?
+
+**Patient:** I work in IT, so I'm sitting for most of the day. I try to stand up and move around, but I don't always get the chance.
+
+**Doctor:** That might be contributing to your discomfort. Have you tried any treatments or exercises since we last spoke?
+
+**Patient:** I’ve been doing some stretching exercises in the mornings, but I’m not sure if they’re the right ones. I haven’t had time to see a physiotherapist yet.
+
+**Doctor:** Stretching is a good start. We might need to get you a more structured exercise plan, perhaps with a physiotherapist. Regarding your blood pressure, have you been monitoring it at home?
+
+**Patient:** Yes, I’ve been checking it a couple of times a week. It’s been around 140/90 most times.
+
+**Doctor:** That’s a bit on the higher side. We’ll need to keep an eye on that. Let’s check it again today. [Doctor measures blood pressure] It’s 142/92, so consistent with your readings. Are you experiencing any headaches, dizziness, or vision changes?
+
+**Patient:** Occasionally, I get mild headaches, but nothing severe.
+
+**Doctor:** All right. Let’s also quickly check your back. Could you stand up for me? [Doctor performs a brief physical examination, checking posture, range of movement, and any pain upon palpation] Does it hurt when I press here?
+
+**Patient:** Yes, that spot is quite tender.
+
+**Doctor:** That’s likely where the muscle tension is. Based on what you've described, I think a referral to a physiotherapist would be beneficial. They can provide you with specific exercises that could help relieve your back pain. Additionally, I’d like to include a dietitian in your care plan to help manage your blood pressure through dietary changes.
+
+**Patient:** That sounds like a good idea. I’ve been meaning to eat healthier, but I’m not sure where to start.
+
+**Doctor:** A dietitian can help create a plan that fits your lifestyle and preferences. I’ll prepare an Enhanced Primary Care plan for you, which will allow you to have Medicare-subsidized visits to these allied health professionals. This will cover up to five visits per calendar year.
+
+**Patient:** That’s helpful. How do I proceed with the referrals?
+
+**Doctor:** I’ll take care of the paperwork and provide you with the referrals. You can then contact the physiotherapist and dietitian to schedule your appointments. I’ll input the care plan into the system today, and you should receive confirmation shortly.
+
+**Patient:** Great, thank you. Will I need to come back for a follow-up soon?
+
+**Doctor:** Let’s schedule a follow-up in about six weeks to see how you’re progressing with the physio and diet changes. In the meantime, continue monitoring your blood pressure at home, and let us know if anything changes or if you have any concerns.
+
+**Patient:** I will. Thanks for your help, Doctor.
+
+**Doctor:** You’re welcome, Mr. Thompson. Take care, and I’ll see you in a few weeks.

@@ -1,0 +1,56 @@
+Duration: 49 Minutes
+Age: 3
+Gender: Male
+Is after hours: No
+
+CONVERSATION:
+
+Doctor: Good morning! How are you both doing today?
+
+Patient's Mother: Good morning, Doctor. We're doing okay, thank you. We've noticed a few issues with Sam that we wanted to discuss.
+
+Doctor: Of course. Let’s start by getting a comprehensive picture. How has Sam been doing lately in terms of his overall health?
+
+Patient's Mother: Well, Sam has had some ongoing issues with asthma, which we've been managing with his inhalers. Recently, though, he's been more withdrawn at preschool, and his teacher mentioned that he seems anxious and sometimes gets upset easily. We're also a bit concerned about his eating habits; he's become quite picky.
+
+Doctor: Thank you for sharing that. Let’s address each of these concerns systematically. Starting with his asthma, how often is he using his inhaler now? Any recent flare-ups or hospital visits?
+
+Patient's Mother: He's using it more frequently, at least once every night and sometimes during the day. No hospital visits, but his breathing gets wheezy pretty often.
+
+Doctor: Alright. It sounds like his asthma might not be as well-controlled as we'd like. Have you noticed if the anxiety seems to trigger or worsen his asthma symptoms?
+
+Patient's Mother: Yes, particularly when he gets upset or is around a lot of people, his breathing seems to get worse.
+
+Doctor: That’s important to note. Stress and anxiety can indeed exacerbate asthma. Now, regarding his mental health, have you noticed any specific triggers for his anxiety or any other behavior changes?
+
+Patient's Mother: He seems particularly anxious in new situations or when there are loud noises. He's also been more clingy and often refuses to go to preschool.
+
+Doctor: And you mentioned some changes in his eating habits. Can you tell me more about that?
+
+Patient's Mother: Yes, he used to eat a wider variety of foods, but now he's very selective, mostly sticking to bland foods. He also seems to have lost some weight, but it's hard to tell.
+
+Doctor: I understand. Let’s examine Sam first, and then we’ll talk about a comprehensive management plan. [Conducts physical examination, listening to Sam’s chest, checking his throat, ears, and assessing his growth parameters.]
+
+Doctor: Sam’s chest sounds a bit wheezy, and he's slightly below the growth curve for his age, which aligns with your concerns. His throat is clear, and there's no sign of an acute infection. Let's focus on managing these interconnected issues. 
+
+For his asthma, we may need to adjust his medication plan to achieve better control. I’ll prescribe a daily inhaled corticosteroid to help reduce inflammation. We’ll also ensure you have an updated asthma action plan.
+
+Regarding his anxiety, it could be affecting his asthma control, so addressing this is crucial. I suggest we consider a referral to a child psychologist who specializes in young children. They can work with Sam to develop coping strategies for his anxiety, which may help his overall behavior and possibly improve his eating habits.
+
+Patient's Mother: That sounds like a good idea. What about his picky eating?
+
+Doctor: For his nutrition, I recommend we engage a pediatric dietitian. They can provide strategies to reintroduce a variety of foods gradually and ensure he’s getting the nutrients he needs. We should monitor his growth closely as well.
+
+Now, considering these overlapping issues, we’ll also need to have regular follow-ups. We can coordinate with his preschool to ensure they’re aware of his asthma and anxiety triggers. This multi-disciplinary approach should help manage his conditions effectively.
+
+Patient's Mother: Thank you, Doctor. This gives us a lot of hope.
+
+Doctor: I’m glad to hear that. I’ll prepare the necessary referrals and update his asthma action plan. For billing, given the complexity and duration of our consultation today, this will be billed under the prolonged consultation item 44. We’ll include a chronic disease management plan under MBS item 721, as well as a mental health plan under item 2700, which will help coordinate his care across different providers.
+
+Patient's Mother: That makes sense. I appreciate how thorough you’ve been.
+
+Doctor: It’s my pleasure. We’re here to support Sam’s health in every way we can. Let’s schedule a follow-up in four weeks to assess how he’s doing with the new plan. Don’t hesitate to reach out if you have any questions or if anything changes.
+
+Patient's Mother: We'll do that. Thank you again for your time and care.
+
+Doctor: You’re welcome. Take care, and we’ll see you soon.

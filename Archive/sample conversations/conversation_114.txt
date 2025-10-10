@@ -1,0 +1,89 @@
+Duration: 49 Minutes
+Age: 7
+Gender: Female
+Is after hours: No
+
+CONVERSATION:
+
+**Doctor:** Good morning, Sarah. How are you today?
+
+**Patient:** Hi, Dr. Williams. I'm okay, but my mom says I need to talk to you about some things.
+
+**Doctor:** That's great, Sarah. It's important to talk about how you're feeling. Mrs. Johnson, how have things been at home?
+
+**Mrs. Johnson (Patient's mother):** Well, Sarah has been having some issues with her asthma, and we've noticed she's been a bit more anxious recently. We thought it would be good to have a thorough check-up.
+
+**Doctor:** Absolutely, that's a good idea. Sarah, can you tell me a bit about your asthma? Have you been having any trouble breathing or coughing more than usual?
+
+**Patient:** Sometimes I feel like I can't breathe well, especially when I'm running around at school. I have to use my inhaler a lot.
+
+**Doctor:** I see. How often are you using your inhaler, and which one is it?
+
+**Mrs. Johnson:** She's using her blue reliever inhaler almost every day now.
+
+**Doctor:** That sounds like it might be more frequent than we’d like. Are you using any preventer inhalers, Sarah?
+
+**Patient:** I have a brown one, but I forget to take it sometimes.
+
+**Doctor:** It's important to take your preventer every day, even when you're feeling okay. It helps to keep your asthma under control so you don't have to use the reliever as much. Let's talk more about how we can help you remember to take it.
+
+**Mrs. Johnson:** We've tried setting reminders, but it’s still a bit tricky with school and everything.
+
+**Doctor:** I understand. We can try a few different strategies to help, like setting a routine around breakfast and bedtime. Now, about your feelings, Sarah. You mentioned feeling anxious. Can you tell me more about that?
+
+**Patient:** I just get really worried sometimes, like if something bad is going to happen. And I feel nervous a lot at school.
+
+**Doctor:** That sounds tough. Do you feel nervous about specific things, like schoolwork or being around other kids?
+
+**Patient:** Mostly about my schoolwork and sometimes talking to other kids. I get scared I might say something silly.
+
+**Doctor:** It's completely normal to feel that way. You're doing a great job telling me about it. Have you noticed any other feelings or changes, like in your sleep or appetite?
+
+**Mrs. Johnson:** She's been having trouble falling asleep, and she's not eating as much as she used to.
+
+**Doctor:** Sleep and eating habits can definitely be affected by anxiety. I'm glad you mentioned that. Let's also talk about your general health, Sarah. Have you had any tummy aches, headaches, or any other pains?
+
+**Patient:** Sometimes my stomach hurts, especially when I'm really nervous.
+
+**Doctor:** That can happen with anxiety. It’s important to listen to your body. Let me do a quick check-up, okay? I'll listen to your lungs and check your heart.
+
+**[Doctor performs physical examination, listening to Sarah’s lungs and heart.]**
+
+**Doctor:** Your lungs sound a little tight, which might be why you're using your inhaler more. Your heart sounds good, though. I’d like to check your growth charts too, to make sure everything is on track.
+
+**Mrs. Johnson:** Sure, that would be great.
+
+**Doctor:** [Reviewing growth charts] Sarah, you're growing well, but I can see there's been a bit of a slowdown. It's something to keep an eye on, especially with the appetite changes.
+
+**Patient:** What does that mean?
+
+**Doctor:** It just means we want to make sure you’re getting enough nutrients to keep growing strong. Now, let's talk about what we can do to help you feel better overall. For your asthma, I recommend using the preventer inhaler regularly. We can create a plan that makes it easier to remember.
+
+**Mrs. Johnson:** What about her anxiety?
+
+**Doctor:** For anxiety, Sarah, I think talking to someone about how you're feeling can really help. We can arrange for you to meet with a child psychologist who can teach you some skills to manage those feelings.
+
+**Patient:** Will that help me not feel so scared all the time?
+
+**Doctor:** Yes, it can help a lot. They can teach you ways to feel more in control. And we’ll work together with your school to make sure they know how to support you too.
+
+**Mrs. Johnson:** That sounds like a good plan. Is there anything else we can do?
+
+**Doctor:** Yes, there are a few things we can do at home. Deep breathing exercises can help when you're feeling nervous. We can also talk about some dietary changes to support your growth and energy levels. Would that be okay?
+
+**Patient:** I think I can try that.
+
+**Doctor:** Great, Sarah. You're doing such a good job talking about your feelings. Now, let's talk about the next steps. I’ll write a referral for the psychologist, and we’ll schedule a follow-up in about four weeks to see how you're doing with your asthma and anxiety.
+
+**Mrs. Johnson:** Thank you, Dr. Williams. What about the billing for today?
+
+**Doctor:** Given the complexity of today's consultation, which involved chronic disease management, preventive health, and mental health care, we'll be billing under several MBS item numbers. The time spent and the complexity will be reflected in the billing. Specifically, we might be looking at an extended consultation item number, along with items for chronic disease management and mental health care planning.
+
+**Mrs. Johnson:** Okay, that makes sense. Thank you for explaining.
+
+**Doctor:** You're welcome. I'll have the nurse help you with the bookings and any paperwork. Remember, Sarah, you can always talk to someone if you’re feeling worried. You're not alone in this.
+
+**Patient:** Thank you, Dr. Williams.
+
+**Doctor:** My pleasure, Sarah. Keep up the good work, and I'll see you soon.
+

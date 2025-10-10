@@ -1,0 +1,82 @@
+Duration: 15 Minutes
+Age: 21
+Gender: Male
+Is after hours: No
+
+CONVERSATION:
+
+Doctor: Good morning, James. How are you doing today?
+
+Patient: Good morning, Dr. Smith. I'm doing okay, but I've been having some issues lately that I wanted to discuss.
+
+Doctor: Of course. Why don't you start by telling me what's been going on?
+
+Patient: Well, first off, I recently injured my ankle while playing soccer. It happened about a week ago, and it's still pretty swollen and painful.
+
+Doctor: I'm sorry to hear that. Let's go into a bit more detail. How did the injury happen?
+
+Patient: I twisted it pretty badly when I was going for a tackle. I heard a popping sound, and I couldn’t put weight on it right afterward.
+
+Doctor: That sounds painful. Have you noticed any bruising or instability since the injury?
+
+Patient: Yes, there was quite a bit of bruising for the first few days, and it still feels a bit wobbly when I walk.
+
+Doctor: Alright, and have you been doing anything specific for the swelling and pain?
+
+Patient: I've been trying to rest it as much as I can and using ice packs. I've also been taking ibuprofen to help with the pain.
+
+Doctor: That’s good initial care. I’ll take a closer look at your ankle in a moment. You mentioned you had another issue as well?
+
+Patient: Yes, I've been having some problems with allergies. My eyes have been really itchy and watery, and I've had a persistent runny nose.
+
+Doctor: Have you noticed if these symptoms are triggered by anything specific, like certain environments or activities?
+
+Patient: It seems to get worse when I'm outdoors, especially on windy days or when I'm around freshly cut grass.
+
+Doctor: Sounds like allergic rhinitis. Do you have any history of allergies or asthma?
+
+Patient: I've had mild seasonal allergies in the past, but they've never been this bad. No asthma, though.
+
+Doctor: And any previous treatments for your allergies?
+
+Patient: Just over-the-counter antihistamines, but they don’t seem to be working very well this time.
+
+Doctor: Understood. Let's do a quick physical exam. I'll start with your ankle. Could you please sit up here on the examination table?
+
+Patient: Sure.
+
+Doctor: [Examining the ankle] There's still noticeable swelling and some tenderness. Does this hurt when I press here?
+
+Patient: Yes, that's pretty sore.
+
+Doctor: And how about when I move it like this? Any pain or discomfort?
+
+Patient: It's a bit uncomfortable, but not as bad as before.
+
+Doctor: It seems like a moderate sprain. We’ll need to get an X-ray to rule out any fractures, but I think further management with rest, ice, compression, and elevation is appropriate. Now, let's have a look at your eyes and nasal passages.
+
+Patient: Okay.
+
+Doctor: [Examining eyes and nasal passages] Your eyes are a bit red and watery, and your nasal passages look inflamed, which is consistent with allergic rhinitis.
+
+Patient: Is there anything else I can do for that besides antihistamines?
+
+Doctor: Yes, we can explore a few options. A nasal corticosteroid spray could be more effective. Also, allergy testing might help us identify specific triggers. Does that sound acceptable?
+
+Patient: Yes, definitely. I’d like to know what’s causing it.
+
+Doctor: Great. I'll refer you to a specialist for the allergy testing. In the meantime, I'll prescribe a nasal spray and a different type of antihistamine. For your ankle, I recommend continuing with the R.I.C.E method and using a compression wrap. If there's no improvement in a week, or if it worsens, come back to see me.
+
+Patient: Alright, thank you. I'll do that.
+
+Doctor: Excellent. I’ll have the nurse arrange the X-ray and provide you with the prescriptions and referral. Do you have any other questions or concerns?
+
+Patient: No, that covers everything. Thanks for your help today.
+
+Doctor: You're welcome, James. Take care, and I hope you feel better soon. 
+
+Patient: Thanks, Dr. Smith. I'll see you soon.
+
+Doctor: Take care. Goodbye.
+
+---

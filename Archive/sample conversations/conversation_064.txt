@@ -1,0 +1,73 @@
+Duration: 13 Minutes
+Age: 53
+Gender: Male
+Is after hours: Yes
+
+CONVERSATION:
+
+Doctor: Good evening, Mr. Smith. How are you today?
+
+Patient: Hi, Doctor. I'm doing okay, but I've been having some trouble with my ears. I think they're blocked, and it's been bothering me for a few days now.
+
+Doctor: I'm sorry to hear that. Let’s see if we can sort that out today. When did you first notice the blockage?
+
+Patient: It started about four or five days ago. At first, it was just a little muffled, but it's gotten worse, and now I can't hear well out of my left ear.
+
+Doctor: Have you experienced any pain or discharge from the ear?
+
+Patient: No pain, really. Just a little itchy sometimes. And no discharge that I've noticed.
+
+Doctor: Any history of ear infections or similar issues in the past?
+
+Patient: Not really. I think I had an ear infection as a kid, but nothing recent.
+
+Doctor: Alright. Have you been using cotton swabs or any other objects to clean your ears?
+
+Patient: Umm, yes. I use cotton swabs occasionally, but I try to be careful.
+
+Doctor: Understood. Cotton swabs can sometimes push wax deeper into the ear canal, which might be contributing to the blockage. Any dizziness or ringing in your ears?
+
+Patient: No dizziness, but I do get a slight ringing, mostly when it's quiet.
+
+Doctor: That’s called tinnitus. It might be related to the blockage. Let's also discuss your general health. When was your last preventive health screening?
+
+Patient: It's been a while. I think the last time was about two years ago.
+
+Doctor: At your age, it's important to keep up with regular screenings. We should check your blood pressure, cholesterol levels, and maybe even schedule a colonoscopy if you haven't had one yet. Any family history of chronic conditions like diabetes or heart disease?
+
+Patient: My father had heart disease, but no diabetes that I know of.
+
+Doctor: We’ll keep that in mind. Let me take a look at your ears. [The doctor examines the ears with an otoscope.]
+
+Doctor: I can see quite a bit of wax built up in your left ear, which is likely causing the blockage. The right ear has some wax too, but it's not as severe. I'll perform ear syringing to remove the wax, which should relieve your symptoms.
+
+Patient: That sounds good. Is it a complicated procedure?
+
+Doctor: Not at all. It’s a simple process where I’ll use a syringe to gently irrigate the ear canal with warm water to flush out the wax. It might feel a bit strange, but it shouldn’t be painful.
+
+Patient: Okay, I’m ready.
+
+Doctor: Before we proceed, let’s quickly check your blood pressure and heart rate, since it’s been a while since your last check-up. [The doctor checks the blood pressure and heart rate.]
+
+Doctor: Your blood pressure is slightly elevated at 135/85, but nothing too concerning. We’ll keep an eye on it, especially given your family history. Now, let’s move on to the ear syringing. [The doctor performs ear syringing.]
+
+Doctor: How does that feel now?
+
+Patient: Wow, I can hear much better! That’s a relief.
+
+Doctor: I’m glad to hear that. Make sure to avoid using cotton swabs in the future. You can use ear drops occasionally to help keep the wax soft and prevent buildup.
+
+Patient: I’ll definitely do that. Thanks for the advice.
+
+Doctor: No problem. For your preventive health, I’ll order some blood tests for your cholesterol and blood sugar levels, and we should schedule a colonoscopy. I'll also see you for a follow-up on your blood pressure in a month. Does that sound good?
+
+Patient: Yes, that sounds like a good plan. Thank you for taking care of that today.
+
+Doctor: You're welcome. I'll write everything down for you, including the blood test forms and a referral for the colonoscopy. If you have any other concerns or if the ear blockage returns, don’t hesitate to reach out.
+
+Patient: Thank you, Doctor. I’ll follow up as needed.
+
+Doctor: Great. Have a good evening, Mr. Smith, and take care.
+
+Patient: You too, Doctor. Thanks again.
+

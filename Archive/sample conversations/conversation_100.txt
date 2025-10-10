@@ -1,0 +1,63 @@
+Duration: 45 Minutes
+Age: 34
+Gender: Female
+Is after hours: No
+
+CONVERSATION:
+
+**Doctor:** Good morning, Sarah. How have you been feeling since our last appointment?
+
+**Patient:** Morning, Doctor. I've been feeling a bit overwhelmed lately. With managing my type 2 diabetes and the pregnancy, it's been a lot to handle.
+
+**Doctor:** I can imagine it's quite challenging. Let's tackle things one step at a time. Firstly, how has your blood sugar been these past few weeks?
+
+**Patient:** It's been fluctuating quite a bit. I check it every morning and sometimes before meals. My fasting sugar levels are usually in the higher range, around 8.5 mmol/L, and post-meals, it sometimes spikes to 10 or 11 mmol/L.
+
+**Doctor:** That does sound concerning. Have you noticed any patterns or specific times when it tends to be higher?
+
+**Patient:** It seems to be higher in the mornings and after dinner. I’ve been trying to eat healthier and avoid sugary snacks, but it’s tough with the cravings.
+
+**Doctor:** Understandably so, especially with pregnancy. Speaking of which, how far along are you now?
+
+**Patient:** I'm currently 24 weeks.
+
+**Doctor:** Great, let's also focus on your antenatal progress. Have you had any recent ultrasounds or antenatal tests?
+
+**Patient:** Yes, I had an ultrasound last week. Everything looked good according to the technician, but I haven’t reviewed it with my obstetrician yet.
+
+**Doctor:** That’s reassuring to hear. Are you experiencing any new symptoms since your last visit, like unusual fatigue, excessive thirst, or frequent urination?
+
+**Patient:** I've been more tired than usual, but I assumed it was because of the pregnancy. I do feel more thirsty, and I’ve been running to the bathroom quite a bit.
+
+**Doctor:** Those can be signs of high blood sugar as well as common pregnancy symptoms. It’s important we address both to manage your diabetes effectively alongside your pregnancy. Have you had any swelling in your extremities or sudden weight gain?
+
+**Patient:** My ankles have been swelling a bit by the end of the day, but I haven’t noticed any drastic weight gain.
+
+**Doctor:** Swelling can occur in pregnancy, but it’s good to keep an eye on it. Let’s do a quick physical examination to check your vitals and any visible symptoms. Could you please sit on the examination table?
+
+**Patient:** Sure.
+
+**Doctor:** [Performing examination] Your blood pressure is 135/85, which is slightly elevated. Let’s check your feet for any signs of neuropathy or circulation issues. Are you feeling any tingling or numbness?
+
+**Patient:** No tingling or numbness, but they do feel a bit heavy sometimes.
+
+**Doctor:** Alright, everything else seems normal. We'll keep monitoring your blood pressure closely. For your diabetes, I’d recommend adjusting your diet slightly, focusing on low-glycemic index foods, and perhaps increasing your physical activity with something light like walking or prenatal yoga.
+
+**Patient:** That sounds manageable. I’ll definitely try the yoga.
+
+**Doctor:** Great choice! Now, regarding your pregnancy, have you been taking folic acid and any other recommended prenatal vitamins?
+
+**Patient:** Yes, I’m taking folic acid, iron, and a prenatal multivitamin.
+
+**Doctor:** Perfect. Remember to keep hydrated and rest as needed. Lastly, for your postnatal care, we should start planning now. Do you have any support systems in place for after the baby arrives?
+
+**Patient:** My partner is very supportive, and my mom plans to stay with us for the first few weeks.
+
+**Doctor:** That’s wonderful to hear. It’s important to have a support network. We’ll also schedule a follow-up to discuss postnatal depression signs and ongoing diabetes management. Any questions or concerns you’d like to address today?
+
+**Patient:** No more questions for now. Thank you for the thorough check-up.
+
+**Doctor:** You’re welcome, Sarah. I’ll write you a referral for a diabetes educator and schedule our follow-up in four weeks. Please make sure to call if you have any concerns before then. Take care.
+
+**Patient:** Will do, Doctor. Thank you again.
+

@@ -1,0 +1,72 @@
+Duration: 21 Minutes
+Age: 39
+Gender: Female
+Is after hours: No
+
+CONVERSATION:
+
+**Doctor:** Good morning, Ms. Smith. How are you doing today?
+
+**Patient:** Good morning, Doctor. I'm doing okay, but I've been having some trouble with my medications lately.
+
+**Doctor:** I'm glad you came in. Let's see how we can help. Could you tell me more about the issues you're experiencing?
+
+**Patient:** Sure. I've been feeling dizzy and nauseous, especially in the mornings. I also noticed that my heart seems to race sometimes. I'm not sure if it's related to my medications.
+
+**Doctor:** I see. Let's go over your current medications. Are you still taking Lisinopril for your hypertension?
+
+**Patient:** Yes, I am. I take 10 mg once daily in the morning.
+
+**Doctor:** And how about the Metformin for your type 2 diabetes? Are you still on the same dose?
+
+**Patient:** Yes, I'm taking 500 mg twice a day with meals.
+
+**Doctor:** And any other medications or supplements?
+
+**Patient:** I take a multivitamin in the morning and sometimes ibuprofen for headaches.
+
+**Doctor:** Thank you for that. It sounds like the dizziness and nausea could be related to your Lisinopril, especially if it's occurring mostly in the mornings after you take it. Have you noticed if these symptoms improve as the day goes on?
+
+**Patient:** Yes, they do seem to get better by the afternoon.
+
+**Doctor:** That's helpful to know. Now, about the racing heart, when does that usually happen?
+
+**Patient:** It seems to happen randomly, but more so when I'm just sitting down and relaxing.
+
+**Doctor:** Has this been happening often?
+
+**Patient:** A few times a week, I would say.
+
+**Doctor:** Okay. Have you noticed any other symptoms when this occurs, like chest pain or shortness of breath?
+
+**Patient:** No chest pain, but sometimes I feel a bit out of breath.
+
+**Doctor:** Understood. Any recent changes in your diet or lifestyle, like increased stress, caffeine intake, or changes in your exercise routine?
+
+**Patient:** Well, I've been more stressed at work lately, and I do drink a couple of cups of coffee every morning.
+
+**Doctor:** Stress and caffeine can certainly contribute to palpitations. Let me take a quick listen to your heart and lungs. Please take a seat on the examination table.
+
+**Patient:** Sure.
+
+**Doctor:** [Using stethoscope] Deep breath in... and out. Again, in... and out. Thank you. [Pauses] Your heart sounds regular, but I'll order an EKG to be sure everything's normal. Your lungs sound clear, which is good.
+
+**Patient:** Okay.
+
+**Doctor:** Based on what you're describing, I think we should adjust your Lisinopril dose. We'll try lowering it to 5 mg to see if that alleviates the dizziness and nausea. Regarding the palpitations, I'd recommend monitoring your caffeine intake and stress levels. We'll also check your thyroid function with a blood test, as that can sometimes cause similar symptoms.
+
+**Patient:** That makes sense. Do you think I should stop exercising?
+
+**Doctor:** Not at all. In fact, regular exercise can help manage both your blood pressure and stress. Just be sure to keep it moderate and avoid caffeine before working out.
+
+**Patient:** I can do that. What about the Metformin?
+
+**Doctor:** Your blood sugar levels have been stable, so I think we should keep that dosage as is for now. We'll review it again once we have the results from your blood tests.
+
+**Patient:** Sounds good. How soon should I come back for a follow-up?
+
+**Doctor:** Let's schedule a follow-up in two weeks to review your EKG and blood test results and see how you're feeling with the adjusted medication. If you notice any worsening symptoms before then, please contact us immediately.
+
+**Patient:** Okay, thank you, Doctor. I appreciate your help.
+
+**Doctor:** You're welcome, Ms. Smith. I'll have my nurse set up your tests and appointment on your way out. Take care, and see you soon.

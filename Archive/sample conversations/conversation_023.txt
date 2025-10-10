@@ -1,0 +1,57 @@
+Duration: 15 Minutes
+Age: 15
+Gender: Male
+Is after hours: No
+
+CONVERSATION:
+
+**Doctor:** Hi there, how are you today?
+
+**Patient:** Hi, I'm okay. Just here for a follow-up regarding my disability support and NDIS assessment.
+
+**Doctor:** Great, let's dive into that. So, last time we spoke, we discussed some of the challenges you were facing with school and daily activities. Can you tell me a bit more about how things have been since then?
+
+**Patient:** Well, school is still pretty tough. I find it hard to keep up with the workload, and I often feel really tired and overwhelmed. My teachers are trying to help, but it's still a struggle.
+
+**Doctor:** I understand. Have you noticed any changes in your energy levels or concentration since we last met?
+
+**Patient:** Not really. I still get tired easily, and it's hard to concentrate for long periods. Sometimes I forget things, which makes it even more frustrating.
+
+**Doctor:** That sounds challenging. Are there any physical symptoms that have been bothering you lately?
+
+**Patient:** Yeah, sometimes I get headaches, especially after a long day at school. I also have some muscle stiffness in my legs.
+
+**Doctor:** Do the headaches worsen with certain activities or times of the day?
+
+**Patient:** They usually come on in the afternoon, especially if I’ve had a busy day. They tend to get worse if I’m stressed or haven’t had enough sleep.
+
+**Doctor:** Thank you for sharing that. Let’s take a look at your physical health. Could you hop onto the examination table? I’d like to check your muscle tone and reflexes.
+
+**Patient:** Sure.
+
+**Doctor:** (Doctor performs a physical examination, checking muscle tone, reflexes, and coordination) Your muscle tone seems a bit increased, especially in your legs. Reflexes are slightly brisk, but coordination appears fine. How is your sleep? Are you getting enough rest at night?
+
+**Patient:** I try to go to bed early, but I often wake up feeling tired. It takes me a while to fall asleep because I can’t stop thinking about school and everything else.
+
+**Doctor:** It sounds like stress might be contributing to your sleep problems, which can definitely affect your energy and concentration during the day. Let’s talk about a management plan. I think assessing your eligibility for additional support through the NDIS could be beneficial. This might include therapies like physiotherapy for your muscle stiffness and occupational therapy to help with school tasks.
+
+**Patient:** That sounds good. How do we go about that?
+
+**Doctor:** We'll need to compile a comprehensive report detailing your symptoms, their impact on your daily life, and any interventions that might help. I’ll coordinate with your school and any therapists you're seeing to gather the necessary information. We’ll also look into strategies to improve your sleep, as good rest is crucial.
+
+**Patient:** Okay, I guess that makes sense.
+
+**Doctor:** In the meantime, I’ll refer you to a physiotherapist to help with the muscle stiffness, and we can explore cognitive behavioral strategies to help manage stress and improve your sleep. I’ll also write a letter to support your NDIS application.
+
+**Patient:** Thanks, I really appreciate that. It’s been tough trying to manage everything.
+
+**Doctor:** You're doing great, and we'll get you the support you need. Let’s book a follow-up appointment in a month to see how things are progressing and to touch base on the NDIS assessment.
+
+**Patient:** Sounds good, thank you.
+
+**Doctor:** You're welcome. Take care, and I’ll see you soon.
+
+**Patient:** Thanks, bye.
+
+**Doctor:** Bye.
+

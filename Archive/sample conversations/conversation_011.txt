@@ -1,0 +1,64 @@
+Duration: 23 Minutes
+Age: 62
+Gender: Female
+Is after hours: No
+
+CONVERSATION:
+
+**Doctor:** Good morning, Mrs. Thompson. How are you doing today?
+
+**Patient:** Good morning, Doctor. I'm doing well, thank you. Just here for a check-up and to make sure everything is on track.
+
+**Doctor:** Excellent. It's great that you're taking the initiative to stay on top of your health. Let's start by reviewing your medical history. Are there any new symptoms or concerns you've had recently?
+
+**Patient:** Not really. I feel pretty good most of the time. Just the usual aches and pains, I suppose.
+
+**Doctor:** That's good to hear. At your age, it's important to address any new symptoms as they arise. Let's discuss your preventive health screening. Have you had any check-ups or tests done recently, like mammograms or colonoscopies?
+
+**Patient:** I had a mammogram about a year ago, and everything was normal. I haven't had a colonoscopy yet. My last blood tests were also about a year ago.
+
+**Doctor:** Alright. Given your age, it's important to have a colonoscopy every ten years if your previous results were normal. We'll also want to keep an eye on your blood pressure and cholesterol levels, as these can change over time. Have you noticed any changes in your weight, energy levels, or appetite?
+
+**Patient:** My weight has been stable, and my energy levels are generally good. I try to eat healthily, but I have a bit of a sweet tooth.
+
+**Doctor:** That's understandable. Moderation is key. Let's check your blood pressure and heart rate now. Please roll up your sleeve.
+
+**Patient:** Sure, here you go.
+
+**Doctor:** [Takes blood pressure] Your blood pressure is 128/82, which is within the normal range. Your heart rate is also steady. We'll take a look at some blood tests to ensure your cholesterol and blood sugar levels are where they should be. Have you had any issues with your vision or hearing?
+
+**Patient:** I wear reading glasses, but my vision hasn't changed much. Hearing seems fine, too.
+
+**Doctor:** That's good to hear. Regular eye exams are important, especially if you wear glasses. Now, let's discuss your vaccinations. Are you up to date with the flu shot and the pneumococcal vaccine?
+
+**Patient:** I got the flu shot last year, but I don't think I've ever had the pneumococcal vaccine.
+
+**Doctor:** Since you're over 60, I recommend getting the pneumococcal vaccine to protect against pneumonia. We'll schedule that for you. How about physical activity? Are you able to exercise regularly?
+
+**Patient:** I walk for about 30 minutes most days and do some gardening. I try to keep active.
+
+**Doctor:** That's excellent. Regular physical activity is crucial for maintaining good health. Keep up the good work. Let's go over your medications. Are you currently taking any prescribed medications, supplements, or over-the-counter drugs?
+
+**Patient:** I take a multivitamin every day and sometimes use ibuprofen for joint pain.
+
+**Doctor:** It's important to be cautious with ibuprofen, especially if taken frequently, as it can affect your stomach and kidneys. If joint pain persists, we can explore other options. Have you had any falls or balance issues?
+
+**Patient:** No falls, thankfully. My balance seems fine.
+
+**Doctor:** That's reassuring. Falls are a common concern as we age, so it's good to remain vigilant. Let's move on to a quick physical examination. Please stand up, and I'll check your reflexes and balance.
+
+**Patient:** Okay.
+
+**Doctor:** [Performs examination] Everything looks good. Your reflexes are normal, and your balance is stable. Based on today’s assessment, I'll recommend a few things. First, we should schedule that colonoscopy and get some blood tests done. We'll also plan for the pneumococcal vaccine. I'll provide you with a referral for the colonoscopy, and our nurse can help with the blood test and vaccine scheduling.
+
+**Patient:** Sounds good, Doctor. Thank you for being thorough.
+
+**Doctor:** Of course, it's my pleasure. Preventive care is key to maintaining good health as we age. If any new symptoms arise, please don't hesitate to contact us. Do you have any other questions or concerns?
+
+**Patient:** No, I think we've covered everything. Thank you for your help.
+
+**Doctor:** You're welcome. I'll see you back once we have the results from your tests. Take care, Mrs. Thompson, and have a great day.
+
+**Patient:** You too, Doctor. Thank you.
+
+**Doctor:** [Completes notes and MBS billing] For today’s session, we’ll bill under MBS item 36 for a long consultation during normal hours, given the complexity and preventive care discussed. Have a great day, Mrs. Thompson!

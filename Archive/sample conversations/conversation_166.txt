@@ -1,0 +1,85 @@
+Duration: 54 Minutes
+Age: 59
+Gender: Female
+Is after hours: No
+
+CONVERSATION:
+
+**Doctor:** Good morning, Mrs. Anderson. How have you been feeling since our last visit?
+
+**Patient:** Good morning, Doctor. I've been having some ups and downs. My arthritis has been acting up more than usual, and I've been feeling quite anxious lately.
+
+**Doctor:** I’m sorry to hear that. Let’s go through each issue one by one. Can you tell me more about your arthritis symptoms? 
+
+**Patient:** Sure. The pain in my knees and hands has been more persistent. It’s worse in the morning. I used to feel better after moving around, but lately, that doesn’t help as much. 
+
+**Doctor:** That sounds uncomfortable. On a scale of 1 to 10, how would you rate the pain?
+
+**Patient:** It’s around a 7 most days, but some days it spikes to a 9.
+
+**Doctor:** That’s quite significant. Are you experiencing any swelling or stiffness?
+
+**Patient:** Yes, there’s definitely stiffness in the morning, and my fingers swell sometimes.
+
+**Doctor:** And how’s your mobility? Are you finding it harder to move around or perform daily activities?
+
+**Patient:** Yes, especially in the mornings. It takes me longer to get going, and I’ve noticed I’m slower around the house.
+
+**Doctor:** Let’s check your joints. [Doctor performs a physical examination, checking for swelling, warmth, and range of motion in the hands and knees.] I see there’s some swelling and reduced range of motion. We may need to adjust your medication. Are you still taking the NSAIDs and glucosamine we prescribed?
+
+**Patient:** Yes, but they don’t seem to be as effective anymore.
+
+**Doctor:** We might consider adding a DMARD like methotrexate or exploring biologic therapy if necessary. Let’s move on to your mental health. You mentioned feeling anxious. Can you tell me more about that?
+
+**Patient:** I've been feeling more anxious, especially about my health. Sometimes, I get this overwhelming sense of worry that I just can’t shake off.
+
+**Doctor:** Have you noticed any specific triggers for this anxiety? Or is it more generalized?
+
+**Patient:** It’s mostly about my health, but sometimes it’s just there without any specific reason.
+
+**Doctor:** Are you experiencing any other symptoms, like changes in your sleep pattern or appetite?
+
+**Patient:** I’ve been sleeping poorly. I wake up several times a night and have trouble falling back asleep. My appetite is okay, though.
+
+**Doctor:** Sleep disturbances can definitely contribute to anxiety. Have you had any depressive symptoms, like loss of interest or feelings of hopelessness?
+
+**Patient:** Occasionally, I feel a bit down because of the pain and the anxiety, but I wouldn’t say I’m depressed.
+
+**Doctor:** It’s good to catch these feelings early. We can work on a plan to manage both your anxiety and sleep issues. Now, given your age, I also want to ensure we’re on top of your overall geriatric health. Have you had any falls or noticed any memory issues?
+
+**Patient:** I haven’t fallen, but I do feel unsteady sometimes. My memory is mostly okay, but I occasionally forget small things.
+
+**Doctor:** Balance can be affected by several factors, including arthritis and medications. We’ll need to review your medication list thoroughly. [Doctor reviews the patient’s medication list.]
+
+**Doctor:** You’re on quite a few medications. It’s possible there might be interactions, or some side effects could be contributing to your symptoms. I’ll coordinate with a pharmacist to review these.
+
+**Patient:** That sounds good. I want to be sure I’m not taking anything unnecessary.
+
+**Doctor:** Absolutely. Are you engaging in any physical activity or exercise?
+
+**Patient:** Not as much as I used to. It’s hard with the joint pain.
+
+**Doctor:** Understandable. Gentle exercises like swimming or tai chi might help with both mobility and anxiety. We can also refer you to a physiotherapist.
+
+**Patient:** I’d like that. I miss being active.
+
+**Doctor:** Let’s also talk about your mental health management. Have you considered seeing a psychologist or counselor?
+
+**Patient:** I’ve thought about it, but I wasn’t sure where to start.
+
+**Doctor:** We can set up a mental health care plan and refer you to a psychologist. This will allow you to claim Medicare rebates for up to ten sessions. It’s a good step toward managing anxiety.
+
+**Patient:** That would be helpful.
+
+**Doctor:** Alright, Mrs. Anderson, here’s our plan: We’ll adjust your arthritis medication and consider starting a DMARD. I’ll also refer you to a physiotherapist and psychologist. We should schedule a follow-up in about four weeks to reassess everything.
+
+**Patient:** Thank you, Doctor. I feel better having a plan.
+
+**Doctor:** You’re welcome. Before you go, let’s discuss the billing side. With the complexity and duration of today’s consultation, we’ll be billing this under MBS item 44, which covers prolonged consultations involving complex decision-making. This ensures you get comprehensive care.
+
+**Patient:** That sounds fine. Thank you for explaining everything.
+
+**Doctor:** My pleasure. We’ll see you again soon. Take care, Mrs. Anderson.
+
+**Patient:** Thank you, Doctor. See you next time.
+

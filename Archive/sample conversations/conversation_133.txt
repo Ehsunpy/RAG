@@ -1,0 +1,70 @@
+Duration: 37 Minutes
+Age: 49
+Gender: Female
+Is after hours: Yes
+
+CONVERSATION:
+
+**Doctor:** Good evening, Sarah. I’m Dr. Roberts. I understand you’ve been having some concerns related to mental health and allergies. I’d like to ensure we cover everything thoroughly during this consultation. Shall we start with what brought you in today?
+
+**Patient:** Hi, Dr. Roberts. Yes, it’s been a bit overwhelming. I’ve been feeling anxious a lot lately, and I’ve started having more frequent allergic reactions. It’s been hard to manage everything.
+
+**Doctor:** I’m sorry to hear that. Let’s tackle each issue one by one. Could you tell me more about your anxiety? When did you first notice it, and how has it been affecting your daily life?
+
+**Patient:** I think it started about six months ago. I’ve been feeling on edge, and small things just set me off. It’s hard to concentrate at work, and I’ve been avoiding social gatherings. I feel like I’m in a constant state of worry.
+
+**Doctor:** That sounds difficult. Have you experienced any physical symptoms like palpitations, muscle tension, or changes in sleep patterns?
+
+**Patient:** Yes, I often have a racing heart, especially at night. I’m also having trouble falling asleep and staying asleep. I wake up feeling tired.
+
+**Doctor:** It sounds like your anxiety is significantly impacting your quality of life. Have you had any past mental health issues or treatments?
+
+**Patient:** I had some anxiety during college, but nothing this severe. I haven’t had any treatment for it before.
+
+**Doctor:** Thank you for sharing that. It’s important we address this effectively. Now, regarding your allergies, could you describe your symptoms and any known triggers?
+
+**Patient:** I’ve been getting these itchy rashes and sometimes I sneeze a lot. It seems to happen randomly, but I suspect it’s something I’m eating or maybe something in the environment.
+
+**Doctor:** Have you noticed any particular foods or environmental factors that seem to trigger these reactions?
+
+**Patient:** I’ve noticed it happens sometimes after eating nuts and occasionally when I'm around dust or pollen.
+
+**Doctor:** It sounds like you may have food and environmental allergies. Have you ever had any allergy testing done before?
+
+**Patient:** No, I haven’t. I just tried to avoid things that seemed to cause problems.
+
+**Doctor:** Understood. We can arrange for allergy testing to better identify your triggers. It’s crucial to pinpoint what’s causing these reactions so we can manage them effectively. Let me also ask, have you had any severe reactions, like difficulty breathing or swelling?
+
+**Patient:** Thankfully, no severe reactions like that, just uncomfortable rashes and sneezing.
+
+**Doctor:** That’s a relief, but we should still be cautious. Before we proceed with a management plan, let’s do a quick physical examination to check for any signs of allergy or other related issues. Could you please sit on the examination table?
+
+**Patient:** Sure.
+
+**Doctor:** [While examining] I’ll check your skin for any rashes, your respiratory sounds, and any signs of inflammation. [Pause] Your skin looks clear at the moment, and your breathing is normal. No signs of wheezing, which is good.
+
+**Patient:** That’s good to know.
+
+**Doctor:** Let’s move on to our management plan. For your anxiety, I recommend starting with some cognitive behavioral therapy. It’s effective for managing anxiety symptoms. I’ll refer you to a psychologist who specializes in this area.
+
+**Patient:** That sounds helpful. I’d be willing to try it.
+
+**Doctor:** Great. As for medications, we could consider a selective serotonin reuptake inhibitor (SSRI) if your anxiety doesn't improve with therapy alone, but let’s see how you progress with therapy first.
+
+**Patient:** Okay, I’m open to that.
+
+**Doctor:** Regarding your allergies, I’ll arrange for some blood tests and possibly skin prick tests to identify specific allergens. In the meantime, try to avoid known triggers like nuts and dusty environments, and keep an antihistamine on hand for any mild reactions.
+
+**Patient:** I’ll do that. Is there anything else I should be doing?
+
+**Doctor:** Maintaining a diary of your symptoms and potential triggers can be very helpful. Record what you eat, your activities, and any reactions you notice. This information will be valuable for your allergy assessment.
+
+**Patient:** I’ll start doing that.
+
+**Doctor:** Excellent. For billing purposes, since this is an after-hours consultation that included a mental health assessment and a detailed allergy management plan, we’ll be using a specific MBS item number. I’ll ensure our billing team provides you with all the necessary details.
+
+**Patient:** Thank you, Dr. Roberts. I feel a bit more at ease knowing we have a plan.
+
+**Doctor:** You’re welcome, Sarah. We’re here to support you every step of the way. If you have any questions or need further assistance, don’t hesitate to reach out. Take care, and we’ll follow up after your allergy tests.
+
+**Patient:** Thank you, I appreciate it.

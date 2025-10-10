@@ -1,0 +1,54 @@
+Duration: 6 Minutes
+Age: 56
+Gender: Male
+Is after hours: No
+
+CONVERSATION:
+
+**Doctor:** Good morning, Mr. Johnson. How can I assist you today?
+
+**Patient:** Good morning, doctor. I've come in for some blood tests and pathology collection. I also need a pre-employment and insurance medical done.
+
+**Doctor:** Certainly, we can take care of that. Let's start with the blood tests. Have you been experiencing any symptoms that we should be aware of, like fatigue, unusual weight changes, or any other health concerns?
+
+**Patient:** Well, I have been feeling a bit more tired than usual, but I just thought it was due to stress from looking for a new job.
+
+**Doctor:** That’s understandable. Are there any recent changes in your weight, appetite, or sleep patterns?
+
+**Patient:** Not really. My weight has been stable, and I sleep pretty well. Sometimes I wake up a bit earlier than I’d like, but nothing major.
+
+**Doctor:** Okay, how about any history of chronic conditions like hypertension, diabetes, or heart disease in your family?
+
+**Patient:** My father had high blood pressure, but I’ve never had any issues like that myself.
+
+**Doctor:** It’s good to know your family history. For the insurance and pre-employment medicals, they often require a comprehensive health check. Have you had any major surgeries in the past, or are you currently on any medication?
+
+**Patient:** I had an appendectomy about 10 years ago. I’m not on any medications regularly, just the occasional ibuprofen for a headache.
+
+**Doctor:** Thank you for sharing that. Now, let’s proceed with a quick physical examination. Could you please sit up on the examination table? I’ll check your blood pressure first.
+
+**Patient:** Sure, no problem.
+
+**Doctor:** (Checking blood pressure) Your blood pressure is 122/78, which is within the normal range. Now, I’ll listen to your heart and lungs. Please take a deep breath in and out. (Using stethoscope)
+
+**Patient:** (Breathing deeply) How does it sound, doctor?
+
+**Doctor:** Everything sounds normal. No wheezing or irregular heartbeats. Let’s check your abdominal area for any tenderness or unusual masses. Any discomfort when I press here?
+
+**Patient:** No, it feels fine.
+
+**Doctor:** Great. So, for the blood tests, I’ll order a full blood count, lipid profile, liver function tests, and fasting glucose to cover all bases. These are standard for pre-employment and insurance purposes as well. We’ll also do a urinalysis as part of the complete medical.
+
+**Patient:** That sounds good. How long will it take to get the results back?
+
+**Doctor:** Typically, it takes a couple of days. We can schedule a follow-up appointment once the results are in, or I can call you if they’re all clear. Does that work for you?
+
+**Patient:** Yes, that would be perfect. Thank you.
+
+**Doctor:** You’re welcome. For billing today, because we’re doing a brief consultation mainly for the tests and the medical examination, I’ll bill this under MBS item 23, which covers a standard consultation during normal hours. If we need to discuss any findings in depth later, we’ll adjust accordingly then.
+
+**Patient:** Alright, thank you for explaining that. I appreciate your help.
+
+**Doctor:** My pleasure. The nurse will be in shortly to collect your blood samples. If you have any questions or concerns before the next visit, feel free to call the clinic. Take care, Mr. Johnson.
+
+**Patient:** Thank you, doctor. I’ll see you soon.

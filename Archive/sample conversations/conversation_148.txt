@@ -1,0 +1,74 @@
+Duration: 35 Minutes
+Age: 30
+Gender: Female
+Is after hours: No
+
+CONVERSATION:
+
+**Doctor:** Good morning, Sarah. How have you been feeling lately?
+
+**Patient:** Hi, Doctor. I've been feeling quite overwhelmed and anxious recently. There’s also this persistent issue with my allergies that’s been bothering me.
+
+**Doctor:** I’m sorry to hear that. Let’s take it step by step. Can you tell me more about what’s been causing your anxiety?
+
+**Patient:** Well, I’ve been under a lot of stress at work, and it seems like I can’t shake off this feeling of being constantly worried. It’s affecting my sleep, and I’ve noticed I’m not as interested in things I used to enjoy.
+
+**Doctor:** I see. It sounds like you might be experiencing symptoms of anxiety disorder. How long have you been feeling this way?
+
+**Patient:** It’s been going on for about three months now, and it seems to be getting worse.
+
+**Doctor:** That’s quite a while to be feeling anxious. Have you noticed any physical symptoms, like palpitations, sweating, or shortness of breath?
+
+**Patient:** Yes, sometimes my heart races, especially when I’m at work or thinking about work. I also feel a bit sweaty and dizzy occasionally.
+
+**Doctor:** Those are common symptoms of anxiety. Have you experienced any mood swings or changes in appetite?
+
+**Patient:** Yes, I’ve had some mood swings. One minute I’m okay, and the next I’m on the verge of tears. My appetite has decreased too, and I’ve lost a bit of weight.
+
+**Doctor:** Thank you for sharing this with me. It’s important to address these issues. Now, you also mentioned problems with allergies. Could you describe those symptoms?
+
+**Patient:** Sure. I’ve been having a lot of sneezing, itchy eyes, and a runny nose. Sometimes I get hives on my skin, especially after being outdoors.
+
+**Doctor:** How long have you been experiencing these allergy symptoms?
+
+**Patient:** These have been going on for about a year, but they’ve become more frequent and severe in the past few months.
+
+**Doctor:** Have you noticed any specific triggers, like pollen, dust, or certain foods?
+
+**Patient:** Pollen seems to be a big trigger. I feel worse when I’m outside, especially in areas with a lot of trees or flowers.
+
+**Doctor:** It sounds like you might have seasonal allergic rhinitis, commonly known as hay fever. Have you tried any medications or treatments for your symptoms?
+
+**Patient:** I’ve used over-the-counter antihistamines, but they don’t seem to work as well as they used to.
+
+**Doctor:** It’s possible that your body has become desensitized to them. We might need to consider other options. I’ll conduct a physical exam to assess your condition further. Let’s start with your heart and lungs. Please take a deep breath for me. 
+
+**Patient:** [Breathes deeply]
+
+**Doctor:** Your heart rate is a bit elevated, which is consistent with anxiety. Your lungs sound clear, which is good. Let me take a look at your eyes and throat for any allergic reactions.
+
+**Patient:** Okay.
+
+**Doctor:** Your eyes are slightly red and watery, and your nasal passages look swollen, which aligns with your allergy symptoms. I’d like to perform a skin prick test to identify specific allergens. Have you had this test before?
+
+**Patient:** No, I haven’t.
+
+**Doctor:** It’s a simple procedure where we apply small amounts of common allergens on your skin to see if there’s a reaction. It’ll help us pinpoint the exact triggers of your allergies. Does that sound alright?
+
+**Patient:** Yes, that sounds good.
+
+**Doctor:** Great. We’ll arrange for that test soon. In the meantime, I’d like to discuss a management plan for both the anxiety and the allergies. For your anxiety, I recommend starting with some lifestyle changes, like regular exercise and mindfulness techniques. Cognitive-behavioral therapy could also be beneficial. We can consider medication if these strategies aren’t effective.
+
+**Patient:** I’ve heard of CBT. I’m open to trying it.
+
+**Doctor:** Excellent. I’ll refer you to a psychologist who specializes in CBT. As for your allergies, I’ll prescribe a nasal corticosteroid and a new antihistamine that you haven’t used before. These should provide better control of your symptoms.
+
+**Patient:** Thank you. I really hope this helps.
+
+**Doctor:** I believe it will. Let’s follow up in two weeks to see how you’re doing with the new treatments. Remember, managing stress is key, so try to find moments to relax throughout your day.
+
+**Patient:** I’ll do my best. Thank you for your help, Doctor.
+
+**Doctor:** You’re welcome, Sarah. We’ll work through this together. I’ll see you in two weeks. Take care.
+
+**Patient:** Thank you. Goodbye.

@@ -1,0 +1,61 @@
+Duration: 5 Minutes
+Age: 52
+Gender: Female
+Is after hours: No
+
+CONVERSATION:
+
+Doctor: Good morning, Mrs. Thompson. How can I assist you today?
+
+Patient: Good morning, Doctor. I've been having some trouble with my ears. They feel blocked, and my hearing seems a bit muffled, especially in my right ear.
+
+Doctor: I see. How long have you been experiencing these symptoms?
+
+Patient: It's been about a week now. I thought it might go away on its own, but it's still there.
+
+Doctor: Have you noticed any pain, discharge, or ringing in your ears?
+
+Patient: There's no pain, but I do hear a slight ringing sometimes. No discharge that I've noticed.
+
+Doctor: Any recent history of swimming or using earbuds frequently?
+
+Patient: I do use earbuds quite a bit for work calls, and I was swimming at the local pool last weekend.
+
+Doctor: That could be contributing. Let me have a look at your ears to see if there's any visible blockage or inflammation. Could you please sit up here?
+
+[The doctor uses an otoscope to examine the patient’s ears.]
+
+Doctor: In your right ear, I can see a significant build-up of cerumen, which is earwax. This is likely causing the blockage and the muffled hearing. Your left ear is much clearer, but there’s a little wax there too. This is quite common, especially if you use earbuds often. 
+
+Patient: That makes sense. Is it easy to clear it out?
+
+Doctor: Yes, we can manage this with an ear syringing procedure. It's a simple and effective way to remove the wax. Have you had this done before?
+
+Patient: No, this would be my first time.
+
+Doctor: Don't worry, it’s a straightforward process. I’ll use a gentle stream of warm water to flush out the wax. It might feel a bit strange, but it shouldn’t be painful. After that, I'll give you some advice on ear care to prevent future build-up.
+
+Patient: That sounds good. Is there anything special I need to do afterward?
+
+Doctor: After the procedure, you should avoid using earbuds for a few days to allow your ear canals to recover. Also, try to keep your ears dry if you go swimming again. Using a towel to gently dry the outer ear can help. I'll give you some tips on how to clean your ears safely at home too.
+
+Patient: Thank you, Doctor. I appreciate it.
+
+Doctor: You're welcome. Let’s go ahead with the syringing, then we'll schedule a follow-up if needed. I'll also advise you on over-the-counter drops that can help soften wax if you notice it building up again.
+
+Patient: Great. I’m ready.
+
+Doctor: Excellent. Let’s get started.
+
+[The doctor performs the ear syringing procedure.]
+
+Doctor: All done. How does that feel now?
+
+Patient: Much better! I can hear more clearly already. Thank you, Doctor.
+
+Doctor: I’m glad to hear that. If you have any further issues or concerns, don’t hesitate to come back. Take care, Mrs. Thompson.
+
+Patient: I will. Thanks again, Doctor.
+
+---
+

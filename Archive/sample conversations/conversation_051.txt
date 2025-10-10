@@ -1,0 +1,57 @@
+Duration: 11 Minutes
+Age: 61
+Gender: Female
+Is after hours: No
+
+CONVERSATION:
+
+**Doctor:** Good morning, Mrs. Johnson. How are you doing today?
+
+**Patient:** Good morning, Doctor. I'm doing okay, but I wanted to talk about a few things that have been bothering me.
+
+**Doctor:** Of course, let's go through them. I see from your records that you’re here for a general health check and to discuss some concerns about infectious diseases. What specific symptoms or issues have you been experiencing?
+
+**Patient:** Well, I've been feeling unusually tired for the past couple of weeks, and I've had a low-grade fever on and off. Also, I noticed some swollen lymph nodes in my neck. I’m a bit worried because I’ve recently returned from a trip to Southeast Asia, and I’m concerned about infectious diseases.
+
+**Doctor:** I see. Fatigue, fever, and lymphadenopathy can be indicative of various conditions, especially after travel. Did you have any vaccinations before your trip?
+
+**Patient:** Yes, I had the recommended vaccines, including hepatitis A and typhoid.
+
+**Doctor:** That's good to hear. Did you experience any gastrointestinal symptoms like nausea, vomiting, or diarrhea while you were there or after returning?
+
+**Patient:** I did have a bit of diarrhea for a couple of days while I was there, but it resolved on its own.
+
+**Doctor:** Any recent cough, rash, or night sweats?
+
+**Patient:** No, none of those symptoms. Just the fatigue and occasional fever.
+
+**Doctor:** Thank you for that information. Let me take a closer look. I'll start by examining your lymph nodes, and then we’ll check your temperature and heart rate. 
+
+**Patient:** Sure.
+
+**Doctor:** [Examining] Your lymph nodes are indeed slightly enlarged but not excessively so. Your temperature is 37.5°C, which is slightly elevated, and your pulse is regular at 78 beats per minute.
+
+**Patient:** Is that concerning?
+
+**Doctor:** Enlarged lymph nodes can be a response to infection, and your mild fever supports that there might be an ongoing process. Given your recent travel, I’d like to run some blood tests to rule out infections like malaria or dengue fever, which are endemic to Southeast Asia.
+
+**Patient:** That sounds reasonable. I was careful, but I know there's always a risk.
+
+**Doctor:** Absolutely, and it's good to be cautious. I’ll also include a complete blood count and liver function tests to check for any abnormalities. Meanwhile, have you been taking any over-the-counter medications for the fever?
+
+**Patient:** Yes, I've been taking paracetamol when it gets too uncomfortable.
+
+**Doctor:** That’s fine, but I’d advise against taking anything stronger until we get more information. I’ll write you a blood test referral, and we should have the results within a couple of days. Until then, ensure you get plenty of rest and stay hydrated.
+
+**Patient:** Thank you, Doctor. Is there anything else I should be doing?
+
+**Doctor:** Just monitor your symptoms closely. If you experience a high fever, severe headache, or any other new symptoms, contact me immediately. We’ll schedule a follow-up once the test results are in to discuss the next steps.
+
+**Patient:** Alright, thank you for your help. 
+
+**Doctor:** You’re welcome, Mrs. Johnson. Take care, and I’ll see you soon for the follow-up.
+
+**Patient:** Thank you, Doctor. Goodbye.
+
+---
+

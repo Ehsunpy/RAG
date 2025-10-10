@@ -1,0 +1,74 @@
+Duration: 21 Minutes
+Age: 44
+Gender: Female
+Is after hours: No
+
+CONVERSATION:
+
+**Doctor:** Good morning, Ms. Johnson. How are you doing today?
+
+**Patient:** Good morning, Doctor. I'm doing okay, thank you. I'm here for a few reasons, including workcover and some pre-employment assessments.
+
+**Doctor:** I see. Let's tackle these one at a time. I understand you're dealing with a work-related issue. Could you tell me more about that?
+
+**Patient:** Yes, I've been experiencing some lower back pain for a few months now. It started after I lifted a heavy box at work. I filed a workcover claim for it.
+
+**Doctor:** I'm sorry to hear that. Back pain can be quite debilitating. On a scale from 1 to 10, how severe is the pain?
+
+**Patient:** It varies, but on average, I would say it's around a 6. Some days are better than others.
+
+**Doctor:** And do you notice any particular activities that worsen the pain?
+
+**Patient:** Yes, sitting for too long or lifting anything heavy tends to make it worse.
+
+**Doctor:** Any numbness, tingling, or weakness in your legs?
+
+**Patient:** Occasionally, I feel a bit of tingling in my left leg, but no weakness.
+
+**Doctor:** That's important to note. Have you tried any treatments or interventions for the pain so far?
+
+**Patient:** I've been taking over-the-counter pain relief, and my physiotherapist recommended some exercises, which I've been doing regularly.
+
+**Doctor:** That's a good start. I'll conduct a physical examination to check your range of motion and look for any signs of nerve involvement. Please stand up and try bending forward and then backward for me.
+
+**Patient:** [Patient performs the movements.]
+
+**Doctor:** Do you feel any pain when you do that?
+
+**Patient:** Yes, especially when I bend backward.
+
+**Doctor:** All right. Now, let's check your reflexes and strength in your legs. [Doctor performs the examination.] Everything seems normal in terms of reflexes, but the pain with movement suggests a mechanical component, likely musculoskeletal. We'll manage this conservatively, but I'll refer you for an MRI to rule out any significant disc pathology, given the tingling in your leg.
+
+**Patient:** That sounds like a good plan.
+
+**Doctor:** Now, regarding your pre-employment and insurance medicals, what specific assessments are you required to complete?
+
+**Patient:** The new job requires a general health check to ensure I'm fit for work, and the insurance company wants a full medical report.
+
+**Doctor:** Understood. We'll need to conduct a comprehensive examination, including checking your cardiovascular health, respiratory function, and overall physical condition. Let's start with your blood pressure. [Doctor measures blood pressure.] It's within the normal range, which is great. Do you have any history of chronic conditions such as hypertension, diabetes, or asthma?
+
+**Patient:** No, I've always been relatively healthy.
+
+**Doctor:** That's good to hear. I'll listen to your heart and lungs next. Please take deep breaths while I listen to your chest. [Doctor conducts the examination.]
+
+**Patient:** [Breathes deeply as instructed.]
+
+**Doctor:** Everything sounds normal. Next, I'll check your abdominal area for any tenderness or abnormalities. [Doctor palpates the abdomen.]
+
+**Patient:** I haven't had any stomach issues, thankfully.
+
+**Doctor:** That's reassuring. Finally, I'll assess your musculoskeletal system. Aside from your back pain, have you experienced any other joint pain or stiffness?
+
+**Patient:** Occasionally, my knees feel a bit stiff, especially in the morning, but it usually goes away after I start moving.
+
+**Doctor:** That's fairly common. We'll keep an eye on that. Based on today's examination, you're in good general health, aside from the back issue. I'll complete the necessary documentation for your pre-employment and insurance requirements.
+
+**Patient:** Thank you, Doctor.
+
+**Doctor:** For your back pain, I'll prescribe a non-steroidal anti-inflammatory drug to help with the inflammation and pain. Continue with physiotherapy, and avoid heavy lifting for now. I'll also refer you to a specialist for the MRI. Let's schedule a follow-up appointment in two weeks to review your MRI results and adjust your treatment plan as needed.
+
+**Patient:** That sounds like a good plan. I appreciate your thorough approach.
+
+**Doctor:** It's my pleasure. If you have any questions or concerns before then, don't hesitate to reach out. Take care, and I'll see you in two weeks.
+
+**Patient:** Thank you, Doctor. I'll see you soon.

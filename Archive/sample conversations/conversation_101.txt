@@ -1,0 +1,76 @@
+Duration: 52 Minutes
+Age: 41
+Gender: Female
+Is after hours: No
+
+CONVERSATION:
+
+**Doctor:** Good morning, Sarah. How have you been feeling since our last appointment?
+
+**Patient:** Hi, Dr. Smith. I've been managing, but there are a few things I wanted to discuss today. My asthma has been acting up with the change in weather, and I've been feeling more anxious lately. Plus, my diabetes management feels overwhelming at times.
+
+**Doctor:** That sounds like a lot to handle. Let’s take it one step at a time. You mentioned your asthma has been worse. Can you describe your symptoms?
+
+**Patient:** Sure. I've noticed more wheezing and shortness of breath, especially in the mornings and sometimes at night. I've also been using my inhaler more frequently.
+
+**Doctor:** How often are you using your rescue inhaler now?
+
+**Patient:** About three to four times a week, which is more than usual for me.
+
+**Doctor:** And how about your preventer inhaler? Are you taking that consistently?
+
+**Patient:** I've been trying to take it every day, but I sometimes forget.
+
+**Doctor:** Consistency with the preventer inhaler is key in managing asthma. I recommend setting a daily reminder on your phone. Now, let's talk about your anxiety. How has that been affecting you?
+
+**Patient:** It's been hard. I feel on edge a lot, and it's affecting my sleep. I'm also worried about my diabetes and how stress might be impacting my blood sugar levels.
+
+**Doctor:** It can definitely be a vicious cycle. Stress and anxiety can elevate blood sugar, which can then exacerbate anxiety. Have you noticed any particular triggers or patterns?
+
+**Patient:** Work has been really stressful lately, and I think that's a big part of it. When I’m stressed, I tend to snack more, which doesn’t help my blood sugar.
+
+**Doctor:** It's important to address both the physical and emotional aspects. Have you had any therapy or counseling for anxiety?
+
+**Patient:** I started seeing a counselor a few months ago, but it's been hard to keep up with regular appointments.
+
+**Doctor:** Given the interplay between your mental health and physical conditions, I think we should consider a mental health care plan. This will help you access more sessions with your counselor. Does that sound good?
+
+**Patient:** Yes, I think that would be helpful.
+
+**Doctor:** Great. Now, regarding your diabetes, how have your blood sugar levels been?
+
+**Patient:** They've been a bit erratic. My morning readings are often higher than they should be, and I’m not sure why.
+
+**Doctor:** Let’s do a quick review of your medication and diet. Are you still taking metformin?
+
+**Patient:** Yes, twice a day.
+
+**Doctor:** And how's your diet? Are you following the meal plan we discussed?
+
+**Patient:** I try, but when I'm stressed, I find myself reaching for carbs and sugary snacks.
+
+**Doctor:** It’s understandable. Stress can really affect your eating habits. We should consider involving a dietitian to help you with a meal plan that accommodates these stress periods. Would you be open to that?
+
+**Patient:** Absolutely, I think that would be beneficial.
+
+**Doctor:** Excellent. Let’s also check your physical stats to get a current assessment. I’ll take your blood pressure and listen to your lungs. [Doctor performs physical examination.]
+
+**Doctor:** Your blood pressure is a bit elevated at 138/85, and I can hear some wheezing in your lungs. This aligns with your reports of increased asthma symptoms. We need to optimize your asthma management, likely adjusting your medication.
+
+**Patient:** What changes would you suggest?
+
+**Doctor:** I’ll prescribe a medication called Montelukast, which can be helpful for someone with your symptoms. Also, let’s increase your dose of the preventer inhaler for the next few weeks and see if there's improvement.
+
+**Patient:** Okay, I can do that.
+
+**Doctor:** Let’s summarize your management plan: For asthma, we’ll adjust your inhaler dosage and add Montelukast. For your diabetes, I'll refer you to a dietitian and we’ll keep monitoring your blood sugar closely. And for anxiety, I’ll prepare a mental health care plan so you can access more counseling sessions.
+
+**Patient:** That sounds comprehensive. Thank you.
+
+**Doctor:** You’re welcome, Sarah. Before we finish, I’ll just document today’s visit for your records and consider the appropriate billing item numbers. Given the complexity and duration of our session, I’ll be using MBS item 36 for a long consultation, and since we’re planning a mental health care plan, item 2715 will be appropriate as well.
+
+**Patient:** Thank you, Dr. Smith. I appreciate your help.
+
+**Doctor:** Anytime. I’ll see you again in about a month, unless you need to come in sooner. Take care, Sarah.
+
+**Patient:** Thanks, doctor. See you next time.

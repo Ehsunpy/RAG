@@ -1,0 +1,64 @@
+Duration: 8 Minutes
+Age: 61
+Gender: Female
+Is after hours: Yes
+
+CONVERSATION:
+
+Doctor: Good evening, Mrs. Thompson. I understand it's after hours, so I appreciate you coming in. How can I assist you today?
+
+Patient: Thank you, Doctor. I’ve been experiencing some ongoing health issues and I think I might need referrals to some specialists.
+
+Doctor: Of course, let’s discuss what’s been going on. Can you describe your symptoms for me?
+
+Patient: Certainly. Over the past few months, I've been dealing with persistent fatigue and some joint pain, particularly in my knees and fingers. It’s getting harder to manage my daily activities.
+
+Doctor: I see. Have you noticed any swelling in those joints or any stiffness, especially in the mornings?
+
+Patient: Yes, the stiffness is definitely worse in the morning. It usually takes a couple of hours to ease up. There’s also some swelling, especially in my fingers.
+
+Doctor: That sounds uncomfortable. Have you noticed any other symptoms, like a fever, weight loss, or changes in your appetite?
+
+Patient: No fever or weight loss, but I have lost a bit of my appetite. I just don’t feel like eating sometimes.
+
+Doctor: Alright. How about any skin rashes, changes in your vision, or unusual headaches?
+
+Patient: No skin rashes or vision changes, but I do get headaches more frequently than I used to.
+
+Doctor: Understood. Have you seen any other doctors about these symptoms before today, or is this your first consultation regarding them?
+
+Patient: I saw my GP a couple of weeks ago, and they suggested I might need to see a rheumatologist and maybe a neurologist for the headaches.
+
+Doctor: That makes sense, given your symptoms. I’d like to perform a quick physical examination, focusing on your joints and general physical state. Could you please extend your hands?
+
+Patient: Sure, here you go.
+
+Doctor: [Examines the patient's hands] I’m noticing some swelling and tenderness in the joints of your fingers. Let’s check your knees now. Could you bend and extend your knees?
+
+Patient: [Bends and extends knees] It’s a bit painful, especially when fully extended.
+
+Doctor: I can feel some slight swelling around your knees as well. Based on your symptoms and the physical examination, it sounds like we might be dealing with an inflammatory condition, possibly rheumatoid arthritis. However, we should confirm this with further testing.
+
+Patient: I see. What does the testing involve?
+
+Doctor: I’d recommend some blood tests to check for inflammatory markers and specific antibodies. Additionally, given your headaches, it might be prudent to have an MRI of your brain to rule out any neurological causes.
+
+Patient: That sounds like a good plan. What about the referrals?
+
+Doctor: I’ll write you a referral to a rheumatologist for your joint symptoms. As for the headaches, a neurologist would be appropriate. I’ll include all your symptoms and findings in the referrals to ensure they have a comprehensive view of your situation.
+
+Patient: Thank you. What can I do in the meantime to manage the pain?
+
+Doctor: For now, over-the-counter anti-inflammatories like ibuprofen can help manage the pain and swelling. Ensure you take them with food to avoid stomach upset. Gentle exercise and stretching can also be beneficial, but avoid any activities that exacerbate the pain.
+
+Patient: Alright, I’ll try that. When should I follow up with you?
+
+Doctor: Let’s schedule a follow-up appointment in about two weeks, after you’ve seen the specialists and we have the results from the tests. We can then discuss the findings and plan your treatment accordingly.
+
+Patient: Thank you so much, Doctor. I feel more at ease now.
+
+Doctor: You’re welcome, Mrs. Thompson. Don’t hesitate to reach out if you have any more questions or if your symptoms change. Take care.
+
+Patient: I will. Thank you again. Goodbye.
+
+Doctor: Goodbye. Take care.

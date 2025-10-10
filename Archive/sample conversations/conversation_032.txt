@@ -1,0 +1,52 @@
+Duration: 12 Minutes
+Age: 79
+Gender: Female
+Is after hours: Yes
+
+CONVERSATION:
+
+Doctor: Good evening, Mrs. Thompson. How have you been feeling lately?
+
+Patient: Well, Doctor, I've been a bit more tired than usual. I just can't seem to shake off this fatigue.
+
+Doctor: I see. You mentioned fatigue. Have you noticed any other symptoms, like dizziness, shortness of breath, or paleness?
+
+Patient: Yes, I've had some dizziness when I stand up too quickly and a bit of shortness of breath when I'm walking around. My daughter also mentioned I look a little pale.
+
+Doctor: Those can be signs of anemia. We’ve been managing your iron levels with infusions, but it might be time to reassess. When was your last iron infusion?
+
+Patient: It was about six weeks ago. I felt better for a while, but the tiredness came back.
+
+Doctor: Okay, we'll need to check your hemoglobin and ferritin levels to see where your iron stores are currently. Do you recall any recent changes in your diet or any unusual bleeding, perhaps from your gums or in your stools?
+
+Patient: My diet hasn't changed much, and I haven't noticed any bleeding. I did have some stomach upset last week, though.
+
+Doctor: It’s good to be thorough. I’ll also check for any signs of gastrointestinal issues. Are you experiencing any weight loss, black or tarry stools, or abdominal pain?
+
+Patient: No, no weight loss or black stools, and my stomach feels fine now.
+
+Doctor: Alright. Let's switch gears to your care plans for allied health referrals. How are you getting on with your physiotherapy and dietitian sessions?
+
+Patient: The physiotherapy's been helping a lot with my back pain, and the dietitian gave me some good advice on meals, but I find it hard to keep up with the appointments sometimes.
+
+Doctor: It's important to keep those appointments to manage your overall health. How many sessions have you completed so far?
+
+Patient: I've done three physiotherapy sessions and two with the dietitian.
+
+Doctor: Great. We can update your care plan to ensure you get the full benefit of these services. Let's check your blood pressure and do a quick physical examination to assess your overall condition.
+
+[Doctor performs a physical examination, checking blood pressure, heart, lungs, and abdomen.]
+
+Doctor: Your blood pressure is a bit on the low side, which might explain some of the dizziness. Heart and lungs sound normal, and your abdomen feels fine. I suggest we do a blood test soon to evaluate your iron levels and check for any other underlying issues.
+
+Patient: That sounds like a good idea, Doctor. What's the next step?
+
+Doctor: For now, I’ll arrange for a full blood count and ferritin test. We should also renew your care plan for allied health services, providing you with another five sessions for physiotherapy and dietitian consultations. Lastly, since this is an after-hours consultation, I’ll ensure we correctly bill this under MBS item 5020, which covers general practice services after hours.
+
+Patient: Thank you, Doctor. I appreciate you taking the time to go through everything.
+
+Doctor: You're welcome, Mrs. Thompson. We’ll follow up once the blood test results are in, and don't hesitate to reach out if you feel worse at any point. Take care and see you soon.
+
+Patient: Thank you, Doctor. I will. Goodbye.
+
+Doctor: Goodbye, Mrs. Thompson.
