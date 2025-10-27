@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Black">
+<<<<<<< HEAD
     <option name="sdkName" value="Python 3.8" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.8 (RAG)" project-jdk-type="Python SDK" />
+=======
+    <option name="sdkName" value="Python 3.13 (RAG)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13 (RAG)" project-jdk-type="Python SDK" />
+>>>>>>> 3223d975e8f42b5d303e9b9d6fc552c103c80304
 </project>
